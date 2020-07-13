@@ -8,9 +8,9 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 ### Documents
 
-* [CV]()
+* [CV](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Zhiming_Zhou_Resume.pdf)
 
-* [Thesis]() (Chinese) [PPT]()
+* [Thesis](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Thesis.pdf)(Chinese) [PPT](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Defense%20PPT.pptx)(Chinese)
 
 
 ### Selected Publications 
@@ -26,7 +26,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 * We study the cause of the non-convergence of Adam and accordingly propose to resolve it via temporal shift.
 
 [Activation Maximization Generative Adversarial Nets.](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)
-* **Zhiming Zhou**, [Han Cai]((https://han-cai.github.io/), Shu Rong, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), 
+* **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/), Shu Rong, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), 
 		[Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 * The Sixth International Conference on Learning Representations (ICLR, 2018).
 * We study how class labels improve GANs’ training and propose a better method for using class labels in GANs.
