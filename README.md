@@ -1,39 +1,28 @@
-## BIOGRAPHY
+### Biography
 
 Zhiming obtained his Ph.D. in Computer Science at Shanghai Jiao Tong University in 2020. He received his B.S. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University in 2014.
 
-Zhiming’s research is mainly focused on generative adversarial networks (GANs). Leading a group in the Apex lab at Shanghai Jiao Tong University, he also works on first-order optimization, optimal transport, and other related problems. Prior to that, Zhiming worked on computer graphics in his early years of his Ph.D. (2014-2016), which is focused on surface reflectance acquisition and related to sparsity, low-rank, and deblurring. 
+Zhiming’s research is mainly focused on generative adversarial networks (GANs). Leading a group in the [Apex lab](http://apex.sjtu.edu.cn/members) at Shanghai Jiao Tong University, he also works on first-order optimization, optimal transport, and other related problems. Prior to that, Zhiming worked on computer graphics in the early years of his Ph.D. (2014-2016), focused on surface reflectance acquisition.
 
-Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs. 
+Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs.
 
-### Markdown
+### Documents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [CV]()
 
-```markdown
-Syntax highlighted code block
+* [Thesis]()
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Selected Publications 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhimingZhou/zhimingzhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Lipschitz Generative Adversarial Nets.](https://arxiv.org/abs/1902.05687)
+  * **Zhiming Zhou**, Jiadong Liang, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/)	
+  * The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
+	* We study the cause of training instability of GANs and propose Lipschitz GANs as a general solution. 
+  
+* [AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.](https://openreview.net/forum?id=HkgTkhRcKQ)
+  * **Zhiming Zhou***, Qingru Zhang*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu)
+	* The Seventh International Conference on Learning Representations (ICLR, 2019).
+	* We study the cause of the non-convergence of Adam and accordingly propose to resolve it via temporal shift.
+ 
+ 
