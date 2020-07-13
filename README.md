@@ -44,5 +44,3 @@ Sparse-as-Possible SVBRDF Acquisition. \[[Paper](http://yuedong.shading.me/proje
 Email: heyohaizhou@gmail.com
 
 Phone: +86 188-0196-5267
-
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=cbYBiaSmwHtoH5Woslpc3E-Xi5NTS-MUhofIe3Fo6G4"></script>
