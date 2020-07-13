@@ -30,7 +30,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. \[[Pa
 * We study the cause of the non-convergence of Adam and accordingly propose to resolve it via temporal shift.
 
 Activation Maximization Generative Adversarial Nets. \[[Paper](https://arxiv.org/abs/1703.02000)\] \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
-* **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/), Shu Rong, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
+* **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/files/cv.pdf), Shu Rong, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 * The Sixth International Conference on Learning Representations (ICLR, 2018).
 * We study how class labels improve GANs’ training and propose a better method for using class labels in GANs.
 	
