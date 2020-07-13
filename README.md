@@ -6,12 +6,15 @@ Zhiming’s research is mainly focused on generative adversarial networks (GANs)
 
 Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs.
 
-### Documents
+### Documents & Links
 
-* [CV](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Zhiming_Zhou_Resume.pdf)
+* [CV](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Zhiming_Zhou_Resume.pdf) \[[Source](https://www.overleaf.com/read/rysshsjvtdvg)\]
 
 * [Thesis](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Thesis.pdf) (Chinese) [PPT](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Defense%20PPT.pptx) (Chinese)
 
+* [Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
+
+* [DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
 
 ### Selected Publications 
 
