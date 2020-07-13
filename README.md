@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## BIOGRAPHY
 
-You can use the [editor on GitHub](https://github.com/ZhimingZhou/zhimingzhou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Zhiming obtained his Ph.D. in Computer Science at Shanghai Jiao Tong University in 2020. He received his B.S. degree in Computer Science from ACM Honors Class at Shanghai Jiao Tong University in 2014.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zhiming’s research is mainly focused on generative adversarial networks (GANs). Leading a group in the Apex lab at Shanghai Jiao Tong University, he also works on first-order optimization, optimal transport, and other related problems. Prior to that, Zhiming worked on computer graphics in his early years of his Ph.D. (2014-2016), which is focused on surface reflectance acquisition and related to sparsity, low-rank, and deblurring. 
+
+Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs. 
 
 ### Markdown
 
