@@ -1,4 +1,4 @@
-### Biography
+## Biography
 
 Zhiming obtained his Ph.D. in Computer Science at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. degree in Computer Science from [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
@@ -6,7 +6,7 @@ Zhiming’s research is mainly focused on generative adversarial networks (GANs)
 
 Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs.
 
-### Documents & Links
+## Documents & Links
 
 * [CV](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Zhiming_Zhou_Resume.pdf) 
 
@@ -17,7 +17,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 * [Thesis](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Thesis.pdf) (Chinese) [PPT](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Defense%20PPT.pptx) (Chinese)
  
 
-### Selected Publications 
+## Selected Publications 
 
 Lipschitz Generative Adversarial Nets. \[[Paper](https://arxiv.org/abs/1902.05687)\]
 * **Zhiming Zhou**, Jiadong Liang, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
@@ -38,3 +38,9 @@ Sparse-as-Possible SVBRDF Acquisition. \[[Paper](http://yuedong.shading.me/proje
 * **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
 * ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016. 
 * We significantly reduce the number of images required for spatially-varying surface reflectance acquisition.
+
+## Contacts
+
+Email: heyohaizhou@gmail.com
+
+Phone: +86 188-0196-5267
