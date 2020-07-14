@@ -21,7 +21,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 ## Selected Publications 
 
 Lipschitz Generative Adversarial Nets. \[[Paper](https://arxiv.org/abs/1902.05687)\]
-* **Zhiming Zhou**, Jiadong Liang, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Lantao Yu](http://lantaoyu.com/), [H. Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
+* **Zhiming Zhou**, Jiadong Liang, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [L. Yu](http://lantaoyu.com/), [H. Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 * The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
 * <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffing from a gradient uninformativeness issue, and Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGAN in experiments.</details>
    
