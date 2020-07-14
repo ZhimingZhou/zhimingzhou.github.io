@@ -1,6 +1,6 @@
 ## Biography
 
-Zhiming obtained his Ph.D. in Computer Science at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. degree in Computer Science from [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
+Zhiming obtained his Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. degree in Computer Science from [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
 Zhiming’s research is mainly focused on generative adversarial networks (GANs). Leading a group in the [Apex Lab](http://apex.sjtu.edu.cn/members) at Shanghai Jiao Tong University, he also works on first-order optimization, optimal transport, and other related problems. Prior to that, Zhiming worked on computer graphics in the early years of his Ph.D. (2014-2016), focused on surface reflectance acquisition.
 
