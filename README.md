@@ -39,10 +39,3 @@ Sparse-as-Possible SVBRDF Acquisition. \[[Paper](http://yuedong.shading.me/proje
 * **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
 * ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016. 
 * <details><summary>Click to expand a brief introduction.</summary>We significantly reduce the number of images required for spatially-varying surface reflectance (SVBRDF) acquisition, by solving an exact low-rank representation and chasing an extreme sparsity. The number of images required droped from thousands to tens, and high-quality SVBRDF acquisition from a single image becomes possible for the first time.</details>
-
-
-## Contacts
-
-Email: heyohaizhou@gmail.com
-
-Phone: +86 188-0196-5267
