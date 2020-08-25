@@ -53,5 +53,5 @@ Sparse-as-Possible SVBRDF Acquisition.
 * ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016. 
 * \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
   \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
-  \[[Slide](https://drive.google.com/file/d/0B8skgYy7EODUazh3dzFzZDZrVU0/view?usp=sharing)\]
+  \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 * <details><summary>Click to expand a brief introduction.</summary>We significantly reduce the number of images required for spatially-varying surface reflectance (SVBRDF) acquisition, by solving an exact low-rank representation and chasing an extreme sparsity. The number of images required droped from thousands to tens, and high-quality SVBRDF acquisition from a single image becomes possible for the first time.</details>
