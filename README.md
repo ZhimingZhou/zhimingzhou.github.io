@@ -20,8 +20,6 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 * [On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Key%20Problems%20of%20GANs.pptx)
 
-* [一次聊天引发的关于宇宙时空的遐想](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/%E4%B8%80%E6%AC%A1%E8%81%8A%E5%A4%A9%E5%BC%95%E5%8F%91%E7%9A%84%E5%85%B3%E4%BA%8E%E5%AE%87%E5%AE%99%E6%97%B6%E7%A9%BA%E7%9A%84%E9%81%90%E6%83%B3.pdf)
-
 ## Selected Publications 
 
 Lipschitz Generative Adversarial Nets.
