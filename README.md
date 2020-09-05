@@ -82,6 +82,13 @@ About GANs:
 
 - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but it is conditional, and the diversity comes from the freedom of the non-conditionaled parts. 
 
+- The most well-know problem about GANs is its training instability issue. According to *WGAN and its foregoing crop*, the non-convergence of GANs (training instability is somehow equivalent to non-convergence), the fundamental cause stems from the illness of divergence: f-divergence based GANs (including vanilla / original / standard GANs) would fail to effective provided gradient for generator update, because it will become infinite or constant when the supports of the generation distribution and target / real distribution are not (fullly) overlapped, which typically exists in the begining of the training and even the ending of the training.
+
+- The propose solution is to switch to another type of divergence / distance that can well operate when the supports are not (fullly) overlapped. W-distance is one of the typical instance proposed. 
+
+- I view this above as the traditional understanding of the training instability issue of GANs. Our work LGANs provides a more experienced perspective, that is the optimal discriminative function (f*) view. By inspecting f* and its gradient with respect to samples, the understanding of GANs's training can be much more clear. The reason is that we are now considering the G-D structure of GANs and we are inspecting the samples (instead of the densities) and the gradients that the generator receives from the discriminator (i.e., f*) with respect to the samples to be updated. That is to inspect the connecting point of G-D. G: the samples to be updated and update them accordingly; D or f* or the gradient of f*: how should these samples be updated. 
+
+
 About first-order optimization and Adam:
 
 - I would view Adam as a first-order optimization, in contrast to the traditional second-order view. And I would explain the reason. 
