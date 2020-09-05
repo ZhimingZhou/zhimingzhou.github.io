@@ -104,6 +104,8 @@ About GANs:
 
 - The sample space activation maximization understanding also explain the cause of mode collapse. See Appendix B.4 in in my arXiv report https://arxiv.org/abs/1902.05687v2. The basic idea is that the sample update preference in unregularized GANs is local greedy. Local greedy leads to mode collapse and make samples stuck there. Then forms the mode collapse state. Another possible cause of mode collapse (or at least should be esteemed factor) would be network capacity / network degeneration, if the network is not capable of modelling the entire distribution, it may also appears mode collapse. If the network get mode collpased, the network tends to degenerate, and hence lose its capacible to model the entire distribution, and then stuck there forever, or moving around and aroud, together. 
 
+- The gradient uninformativeness issue designated in LGANs is actually a small part (while the most important part) of gradient issues in unregularized GANs. It also involve gradient vanishing (which actually has two types, vanilla / orginal / standard GANs suffers from Type-I and Least-Square-GANs, avoiding Type-I, but still suffers from Type-II). Other gradient issues in unregularized GANs includes theoretically undefined gradients and non-convergent-state of Type-II gradient vanishing, and surely the previously mentioned local-greedy property. 
+
 - GANs research aspects: minimax game theory 
 
 About first-order optimization and Adam:
