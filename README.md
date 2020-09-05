@@ -112,7 +112,7 @@ About GANs:
     - [least square gans 2016.11](https://arxiv.org/abs/1611.04076)
     - [density ratio 2016.10](https://arxiv.org/abs/1610.02920)
     - [f-gans 2017.07](https://arxiv.org/abs/1707.04385)
-    - [bi-gan 2016.05](https://arxiv.org/abs/1605.09782) && [ali 2016.06](https://arxiv.org/abs/1606.00704)
+    - [bi-gan 2016.05](https://arxiv.org/abs/1605.09782) & [ali 2016.06](https://arxiv.org/abs/1606.00704)
     - [wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)     
     - [**lgans 2019.02**](https://arxiv.org/abs/1902.05687)
@@ -160,12 +160,11 @@ About GANs:
     - [many paths to equilibrium 2017.10](https://arxiv.org/abs/1710.08446) 
     - [are gans created equal? 2017.11](https://arxiv.org/abs/1711.10337)
     - [the gans landscape / regularization and normalization 2018.07](https://arxiv.org/abs/1807.04720)
+  - By the way, I use "google related article" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
 
 - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is ture to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
 
-- info-gan f-gan
 
-- suggest use google related article / https://scholar.google.com/
 
 
 About first-order optimization and Adam:
