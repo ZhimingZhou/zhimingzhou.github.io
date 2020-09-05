@@ -96,7 +96,7 @@ About GANs:
 
 - We suggest use MaxGP instead of GP (gradient penalty) / LP (Lipschitz penalty) / SN (spectral normalization). All the thought are written in [my arXiv report 2019.04](https://arxiv.org/abs/1904.01184), but I still not get a time to improve and perfect the experiments, so I would just keep it as a arXiv report for now. The basic idea is that: Lipschitz constant is equivalent to the maximum norm of the gradients; this is the basic intuition of GP and LP (I beleive the intuition in WGANs-GP for propose GP is not accurate, the relatively correct version should be what I have stated.), but GP is not directly penalizing the Lipschitz constant (which includes superfluous constraints and hence biases the optimum state), and even LP has a drawback (though it penalizing all gradients larger than K, there are also superfluous constraints, for these in the middle of K and the current Lipschitz constant / max gradient norm, and hence still biased the optimum state), in contrast, MaxGP is the correct implementation (with which I finally get the optimal discriminative function, for small / easy task, GP and LP both fail, SN also fail to achieve the optimum in many cases).  SNGAN makes SN popular, but according to my experiments, SN fails much more often, comparing to MaxGP (see the paper for more details; I suspect the cause stems from the over-restriction of SN). MaxGP has a drawback too, it does not achieve Lipschitz constant K. In [my arXiv report 2019.04](https://arxiv.org/abs/1904.01184), we also proposed an Augmented Lagrangian (AL) method (MaxAL), which can almost exactly achieve "Lipschitz constant = K". MaxAL can be benefitial sometimes, like when you are estimating the W-distance between two distribution. With MaxGP, you need to devide the result by "the current Lipschitz constant", though it can be easily estimated by max gradient norm, but MaxAL does not need the division. (See the paper for all the details.)
 
-- Actually, all previous descriptions is based on an assumption, i.e., the so-called Lipschitz is with respect to the Euclidean distance / norm. When switch to other norms the properly will get changed. See Appendix D in [my arXiv report 2018.07](https://arxiv.org/abs/1807.00751) for some basic arguments on this. [Banach WGAN](https://arxiv.org/abs/1806.06621) might also help your understanding. 
+- Actually, all previous descriptions is based on an assumption, i.e., the so-called Lipschitz is with respect to the Euclidean distance / norm. When switch to other norms the properly will get changed. See Appendix D in [my arXiv report 2019.02](https://arxiv.org/abs/1902.05687v2) for some basic arguments on this. [Banach WGAN](https://arxiv.org/abs/1806.06621) might also help your understanding. 
 
 - With the envelope theorem and WGAN compact dual form, the understaning on the of convergence can be much more clear. But this part is too complexed to explain here. Interested reader can refer to Appendix B.5 in [my arXiv report 2019.02](https://arxiv.org/abs/1902.05687v2). 
 
@@ -106,38 +106,37 @@ About GANs:
 
 - The gradient uninformativeness issue designated in LGANs is actually a small part (while the most important part) of gradient issues in unregularized GANs. It also involve gradient vanishing (which actually has two types, vanilla / orginal / standard GANs suffers from Type-I and Least-Square-GANs, avoiding Type-I, but still suffers from Type-II). Other gradient issues in unregularized GANs includes theoretically undefined gradients and non-convergent-state of Type-II gradient vanishing, and surely the previously mentioned local-greedy property. 
 
-- GANs popular research topics inlcude: 
+- Popular research topics in GANs inlcude:
   - Objective function: 
     - [vanilla / orginal / standard gans 2014.06](https://arxiv.org/abs/1406.2661) 
     - [least square gans 2016.11](https://arxiv.org/abs/1611.04076) 
     - [wgans 2017.01](https://arxiv.org/abs/1701.07875)
-    - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028) 
-    - [my arXiv report 2018.07](https://arxiv.org/abs/1807.00751) 
-    - [LGANs 2019.02](https://arxiv.org/abs/1902.05687)
+    - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)     
+    - [**LGANs 2019.02**](https://arxiv.org/abs/1902.05687)
   - Lipschitz implementation: 
     - [weight clipping in wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [gp in wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)
     - [lp in wgans-lp 2017.09](https://arxiv.org/abs/1709.08894) 
     - [sn in sngan 2018.02](https://arxiv.org/abs/1802.05957)
-    - [maxgp in lgans 2019.02](https://arxiv.org/abs/1902.05687)
-    - [maxal in my arXiv report 2019.04](https://arxiv.org/abs/1904.01184)
+    - [**maxgp in lgans 2019.02**](https://arxiv.org/abs/1902.05687)
+    - [**maxal in my arXiv report 2019.04**](https://arxiv.org/abs/1904.01184)
   - Sample quality:
     - [labelgans 2016.06](https://arxiv.org/abs/1606.03498)
     - [acgans 2016.10](https://arxiv.org/abs/1610.09585)
     - [catgans 2015.11](https://arxiv.org/abs/1511.06390) 
-    - [amgans 2017.03](https://arxiv.org/abs/1703.02000) 
+    - [**amgans 2017.03**](https://arxiv.org/abs/1703.02000) 
       - possible extension: am-wgans / am-lgans
   - Gans based appplication tools:
-    - [diverse colorization 2017.02](https://arxiv.org/abs/1702.06674)
+    - [**diverse colorization 2017.02**](https://arxiv.org/abs/1702.06674)
     - [cycle gans 2017.03](https://arxiv.org/abs/1703.10593)
-    - [ot-cylce gans 2018.11](https://arxiv.org/abs/1811.06284) 
-    - [my arXiv report](https://arxiv.org/abs/2003.06635)
+    - [**ot-cylce gans 2018.11**](https://arxiv.org/abs/1811.06284) 
+    - [**my arXiv report**](https://arxiv.org/abs/2003.06635)
     - [another catgan 2019.11](https://arxiv.org/abs/1911.06641)
   - Generalization issue / sub-optimum analysis: 
     - [generalization and equilibrium 2017.03](https://arxiv.org/abs/1703.00573) 
     - [discrimination-generalization tradeoff 2017.11](https://arxiv.org/abs/1711.02771)
     - [convex duality framework 2018-nips](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
-    - one of my work ongoing
+    - *One of my work ongoing*
   - Optimization: 
     - [unrolled 2016.11](https://arxiv.org/abs/1611.02163) 
     - [the numerics 2017.05](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
