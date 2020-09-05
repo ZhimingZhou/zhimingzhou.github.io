@@ -72,7 +72,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## Photos
 
-![Me](https://github.com/ZhimingZhou/zhimingzhou.github.io/blob/master/1.png)
+![Me](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/1.png)
 
 ## MISC
 
