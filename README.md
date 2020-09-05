@@ -112,7 +112,7 @@ About GANs:
     - [least square gans 2016.11](https://arxiv.org/abs/1611.04076)
     - [density ratio 2016.10](https://arxiv.org/abs/1610.02920)
     - [f-gans 2017.07](https://arxiv.org/abs/1707.04385)
-    - [bi-gan 2016.05](https://arxiv.org/abs/1605.09782) & [ali 2016.06](https://arxiv.org/abs/1606.00704)
+    - [bi-gans 2016.05](https://arxiv.org/abs/1605.09782) & [ali 2016.06](https://arxiv.org/abs/1606.00704)
     - [wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)     
     - [**lgans 2019.02**](https://arxiv.org/abs/1902.05687)
@@ -129,12 +129,12 @@ About GANs:
     - [catgans 2015.11](https://arxiv.org/abs/1511.06390) 
     - [**amgans 2017.03**](https://arxiv.org/abs/1703.02000) 
       - possible extension: am-wgans / am-lgans
+    - [another catgans 2019.11](https://arxiv.org/abs/1911.06641)
   - GANs based appplication tools:
     - [**diverse colorization 2017.02**](https://arxiv.org/abs/1702.06674)
     - [cycle gans 2017.03](https://arxiv.org/abs/1703.10593)
     - [**ot-cylce gans 2018.11**](https://arxiv.org/abs/1811.06284) 
     - [**my arXiv report**](https://arxiv.org/abs/2003.06635)
-    - [another catgan 2019.11](https://arxiv.org/abs/1911.06641)
   - Generalization issue / sub-optimum analysis: 
     - [generalization and equilibrium 2017.03](https://arxiv.org/abs/1703.00573) 
     - [discrimination-generalization tradeoff 2017.11](https://arxiv.org/abs/1711.02771)
