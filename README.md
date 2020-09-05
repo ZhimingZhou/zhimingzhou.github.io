@@ -126,7 +126,7 @@ About GANs:
     - [2017.09 lp in wgans-lp](https://arxiv.org/abs/1709.08894) 
     - [2018.02 sn in sngan](https://arxiv.org/abs/1802.05957)
     - [**2019.02 maxgp in lgans**](https://arxiv.org/abs/1902.05687)
-    - [**2019.04 maxal in my arXiv report**](https://arxiv.org/abs/1904.01184)
+    - [**2019.04 maxal**](https://arxiv.org/abs/1904.01184)
   - Sample quality:
     - [2016.06 labelgans](https://arxiv.org/abs/1606.03498)
     - [2016.10 acgans](https://arxiv.org/abs/1610.09585)
