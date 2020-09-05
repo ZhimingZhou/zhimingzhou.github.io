@@ -38,7 +38,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 ## Selected Publications 
 
-Lipschitz Generative Adversarial Nets.
+Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
 * **Zhiming Zhou**, Jiadong Liang, [Y. Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [L. Yu](http://lantaoyu.com/), [H. Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 * The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
 * \[[arXiv](https://arxiv.org/abs/1902.05687)\] 
@@ -47,7 +47,7 @@ Lipschitz Generative Adversarial Nets.
   \[[Code](https://github.com/ZhimingZhou/AdaShift-Lipschitz-GANs-MaxGP)\]
 * <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that: (1) GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffing from a *gradient uninformativeness issue*; (2) Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGAN in experiments.</details>
 
-AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
+AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaShift)
 * **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 * The Seventh International Conference on Learning Representations (ICLR, 2019).
 * \[[arXiv](https://arxiv.org/abs/1810.00143)\] 
@@ -56,7 +56,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
   \[[Code](https://github.com/ZhimingZhou/AdaShift-Lipschitz-GANs-MaxGP)\]
 * <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
 
-Activation Maximization Generative Adversarial Nets. 
+Activation Maximization Generative Adversarial Nets. (AM-GAN)
 * **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/files/cv.pdf), Shu Rong, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 * The Sixth International Conference on Learning Representations (ICLR, 2018).
 * \[[arXiv](https://arxiv.org/abs/1703.02000)\]
@@ -64,7 +64,7 @@ Activation Maximization Generative Adversarial Nets.
   \[[Code](https://github.com/ZhimingZhou/AM-GAN)\]
 * <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs had been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GAN, are unraveled.</details>
 
-Sparse-as-Possible SVBRDF Acquisition. 
+Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 * **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
 * ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016. 
 * \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
