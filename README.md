@@ -143,18 +143,18 @@ About GANs:
     - [2017.03 generalization and equilibrium](https://arxiv.org/abs/1703.00573) 
     - [2017.11 discrimination-generalization tradeoff](https://arxiv.org/abs/1711.02771)
     - [2018-xx convex duality framework](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
-    - **One of my work ongoing**
+    - **One of my ongoing work, appear soon**
   - Optimization: 
-    - [unrolled 2016.11](https://arxiv.org/abs/1611.02163) 
-    - [the numerics 2017.05](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
-    - [optimization is locally stable 2017.06](https://arxiv.org/abs/1706.04156) 
+    - [2016.11 unrolled](https://arxiv.org/abs/1611.02163) 
+    - [2017.05 the numerics](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
     - [2017.06 two time scale](https://arxiv.org/abs/1706.08500)     
+    - [2017.06 optimization is locally stable](https://arxiv.org/abs/1706.04156)     
     - [2017.11 training gans with optimism](https://arxiv.org/abs/1711.00141) 
     - [2018.01 which do actually converge?](https://arxiv.org/abs/1801.04406)
   - Latent space / GANs with AE:
-    - [2016.06 info-gans](https://arxiv.org/abs/1606.03657)   
     - [2016.05 bi-gans](https://arxiv.org/abs/1605.09782) 
     - [2016.06 ali](https://arxiv.org/abs/1606.00704)
+    - [2016.06 info-gans](https://arxiv.org/abs/1606.03657)           
     - [2016.12 mode regularized gans](https://arxiv.org/abs/1612.02136)
     - [2017.06 deli-gans](https://arxiv.org/abs/1706.02071)    
     - [2018.04 manifold guided training](https://arxiv.org/abs/1804.04391)
