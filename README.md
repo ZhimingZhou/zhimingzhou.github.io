@@ -23,8 +23,8 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   - Training instability (LGANs)
   - Unreachable optimum (MaxGP, AdaShift, Ongoing)
   - Generalization issue (Ongoning)
-
-* [On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Key%20Problems%20of%20GANs.pptx) 
+     
+* [On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Key%20Problems%20of%20GANs.pptx)<br> 
 
   - Training issues
     - Instability (LGANs)
@@ -33,8 +33,8 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
     - Complex dataset (AM-GAN)
     - Lantent Space (TODO)
    - Generalization issue (Ongoing)
-
-* [我的第一份工作以及各种意想不到的收获](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%BB%A5%E5%8F%8A%E5%90%84%E7%A7%8D%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E6%94%B6%E8%8E%B7.zip)
+     
+* [我的第一份工作以及各种意想不到的收获](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%BB%A5%E5%8F%8A%E5%90%84%E7%A7%8D%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E6%94%B6%E8%8E%B7.zip)<br>
 
 ## Selected Publications 
 
