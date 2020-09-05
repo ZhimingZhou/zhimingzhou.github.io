@@ -92,7 +92,10 @@ About first-order optimization and Adam:
 
 - However, for adapative learning rate methods (Adam as a representative), the net update factor of each gradient does not have a fixed value (hence, not the same) nor follow a fixed distribution (which we believe have a similar effect as fixed value choices, Momentum and SGD). 
 
-- And it is obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the centre thought of AdaShift solution. 
+- And obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the centre thought of AdaShift solution. 
 
+- To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. 
+
+- A new version of AdaShift is coming. Lookngg forward to the new free-lunch solution to the non-convergence issue of Adam. 
 
 
