@@ -42,7 +42,8 @@ Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
 - \[[arXiv](https://arxiv.org/abs/1902.05687)\] 
   \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
   \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
-  \[[Code](https://github.com/ZhimingZhou/AdaShift-Lipschitz-GANs-MaxGP)\]
+  \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP)\]
+  \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]  
 - <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that: (1) GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffing from a *gradient uninformativeness issue*; (2) Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaShift)
@@ -51,7 +52,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaS
 - \[[arXiv](https://arxiv.org/abs/1810.00143)\] 
   \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
-  \[[Code](https://github.com/ZhimingZhou/AdaShift-Lipschitz-GANs-MaxGP)\]
+  \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
 
 Activation Maximization Generative Adversarial Nets. (AM-GANs)
@@ -59,7 +60,8 @@ Activation Maximization Generative Adversarial Nets. (AM-GANs)
 - The Sixth International Conference on Learning Representations (ICLR, 2018).
 - \[[arXiv](https://arxiv.org/abs/1703.02000)\]
   \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
-  \[[Code](https://github.com/ZhimingZhou/AM-GAN)\]
+  \[[Code1](https://github.com/ZhimingZhou/AM-GANs)\]
+  \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs had been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, are unraveled.</details>
 
 Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
@@ -104,7 +106,7 @@ About GANs:
 
 - The sample space activation maximization understanding also explain the cause of mode collapse. See Appendix B.4 in in [my arXiv report 2019.02](https://arxiv.org/abs/1902.05687v2). The basic idea is that the sample update preference in unregularized GANs is local greedy. Local greedy leads to mode collapse and make samples stuck there. Then forms the mode collapse state. Another possible cause of mode collapse (or at least should be esteemed factor) would be network capacity / network degeneration, if the network is not capable of modelling the entire distribution, it may also appears mode collapse. If the network get mode collpased, the network tends to degenerate, and hence lose its capacible to model the entire distribution, and then stuck there forever, or moving around and aroud, together. 
 
-- The gradient uninformativeness issue designated in LGANs is actually a small part (while the most important part) of gradient issues in unregularized GANs. It also involve gradient vanishing (which actually has two types, vanilla / orginal / standard GANs suffers from Type-I and Least-Square-GANs, avoiding Type-I, but still suffers from Type-II). Other gradient issues in unregularized GANs includes theoretically undefined gradients and non-convergent-state of Type-II gradient vanishing, and surely the previously mentioned local-greedy property. 
+- The gradient uninformativeness issue designated in LGANs is actually a small part (while the most important part) of gradient issues in unregularized GANs. It also involves gradient vanishing (which actually has two types, vanilla / orginal / standard GANs suffers from Type-I and Least-Square-GANs, avoiding Type-I, but still suffers from Type-II). Other gradient issues in unregularized GANs includes theoretically undefined gradients and non-convergent-state of Type-II gradient vanishing, and surely the previously mentioned local-greedy property. 
 
 - Popular research topics in GANs inlcude:
   - Objective function: 
@@ -148,7 +150,7 @@ About GANs:
     - [training gans with optimism 2017.11](https://arxiv.org/abs/1711.00141) 
     - [which do actually converge? 2018.01](https://arxiv.org/abs/1801.04406)
   - Latent space:
-    - info-gan
+    - info-gans
   - Network architecture: 
     - [laplace gans 2015.06](https://arxiv.org/abs/1506.05751) 
     - [dcgans 2015.11](https://arxiv.org/abs/1511.06434) 
