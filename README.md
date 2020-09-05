@@ -113,13 +113,31 @@ About GANs:
     - [wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028) 
     - [my arXiv report 2018.07](https://arxiv.org/abs/1807.00751) 
-    - [LGANs 2019.02](https://arxiv.org/abs/1902.05687) 
-  - Network architecture: 
-    - [laplace gans 2015.06](https://arxiv.org/abs/1506.05751) 
-    - [dcgans 2015.11](https://arxiv.org/abs/1511.06434) 
-    - [progressive growing gans 2017.10](https://arxiv.org/abs/1710.10196) 
-    - [self attension gans 2018.05](https://arxiv.org/abs/1805.08318) 
-    - [big gans 2018.09](https://arxiv.org/abs/1809.11096)
+    - [LGANs 2019.02](https://arxiv.org/abs/1902.05687)
+  - Lipschitz implementation: 
+    - [weight clipping in wgans 2017.01](https://arxiv.org/abs/1701.07875)
+    - [gp in wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)
+    - [lp in wgans-lp 2017.09](https://arxiv.org/abs/1709.08894) 
+    - [sn in sngan 2018.02](https://arxiv.org/abs/1802.05957)
+    - [maxgp in lgans 2019.02](https://arxiv.org/abs/1902.05687)
+    - [maxal in my arXiv report 2019.04](https://arxiv.org/abs/1904.01184)
+  - Sample quality:
+    - [labelgans 2016.06](https://arxiv.org/abs/1606.03498)
+    - [acgans 2016.10](https://arxiv.org/abs/1610.09585)
+    - [catgans 2015.11](https://arxiv.org/abs/1511.06390) 
+    - [amgans 2017.03](https://arxiv.org/abs/1703.02000) 
+      - possible extension: am-wgans / am-lgans
+  - Gans based appplication tools:
+    - [diverse colorization 2017.02](https://arxiv.org/abs/1702.06674)
+    - [cycle gans 2017.03](https://arxiv.org/abs/1703.10593)
+    - [ot-cylce gans 2018.11](https://arxiv.org/abs/1811.06284) 
+    - [my arXiv report](https://arxiv.org/abs/2003.06635)
+    - [another catgan 2019.11](https://arxiv.org/abs/1911.06641)
+  - Generalization issue / sub-optimum analysis: 
+    - [generalization and equilibrium 2017.03](https://arxiv.org/abs/1703.00573) 
+    - [discrimination-generalization tradeoff 2017.11](https://arxiv.org/abs/1711.02771)
+    - [convex duality framework 2018-nips](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
+    - one of my work ongoing
   - Optimization: 
     - [unrolled 2016.11](https://arxiv.org/abs/1611.02163) 
     - [the numerics 2017.05](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
@@ -127,40 +145,23 @@ About GANs:
     - [optimization is locally stable 2017.06](https://arxiv.org/abs/1706.04156) 
     - [training gans with optimism 2017.11](https://arxiv.org/abs/1711.00141) 
     - [which do actually converge? 2018.01](https://arxiv.org/abs/1801.04406)
-  - Generalization / sub-optimum analysis: 
-    - [generalization and equilibrium 2017.03](https://arxiv.org/abs/1703.00573) 
-    - [discrimination-generalization tradeoff 2017.11](https://arxiv.org/abs/1711.02771)
-    - [convex duality framework 2018-nips](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
-    - one of my work ongoing
-  - Appplication: 
-    - [diverse colorization 2017.02](https://arxiv.org/abs/1702.06674)
-    - [cycle gans 2017.03](https://arxiv.org/abs/1703.10593)
-    - [ot-cylce gans 2018.11](https://arxiv.org/abs/1811.06284) 
-    - [my arXiv report](https://arxiv.org/abs/2003.06635)
-  - Sample quality:
-    - [labelgans 2016.06](https://arxiv.org/abs/1606.03498)
-    - [acgans 2016.10](https://arxiv.org/abs/1610.09585)
-    - [catgans 2015.11](https://arxiv.org/abs/1511.06390) 
-    - [amgans 2017.03](https://arxiv.org/abs/1703.02000) 
-      - possible extension: am-wgans / am-lgans
-    - [another catgan 2019.11]](https://arxiv.org/abs/1911.06641)
+  - Network architecture: 
+    - [laplace gans 2015.06](https://arxiv.org/abs/1506.05751) 
+    - [dcgans 2015.11](https://arxiv.org/abs/1511.06434) 
+    - [progressive growing gans 2017.10](https://arxiv.org/abs/1710.10196) 
+    - [self attension gans 2018.05](https://arxiv.org/abs/1805.08318) 
+    - [big gans 2018.09](https://arxiv.org/abs/1809.11096) 
   - Systematic study / test: 
-    - [do actually learn the distribution? 2017.06]() 
-    - [many paths to equilibrium 2017.10]() 
-    - [are gans created equal? 2017.11]()
-    - [the gans landscape 2018.07]()
-  - Lipschitz implementation: 
-    - [weight clipping in wgans 2017.01]()
-    - [gp in wgans-gp 2017.04]()
-    - [lp in wgans-lp 2017.09]() 
-    - [sn in sngan 2018.02]()
-    - [maxgp in lgans 2019.02]() 
-    - [maxal in my arXiv report 2019.04](https://arxiv.org/abs/1904.01184)
+    - [do actually learn the distribution? 2017.06](https://arxiv.org/abs/1706.08224) 
+    - [many paths to equilibrium 2017.10](https://arxiv.org/abs/1710.08446) 
+    - [are gans created equal? 2017.11](https://arxiv.org/abs/1711.10337)
+    - [the gans landscape / regularization and normalization 2018.07](https://arxiv.org/abs/1807.04720)
 
 - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is ture to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
 
-info-gan f-gan
-suggest use google related article / https://scholar.google.com/
+- info-gan f-gan
+
+- suggest use google related article / https://scholar.google.com/
 
 
 About first-order optimization and Adam:
