@@ -74,3 +74,4 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## Photos
 
+![](https://github.com/ZhimingZhou/zhimingzhou.github.io/blob/master/1.png)
