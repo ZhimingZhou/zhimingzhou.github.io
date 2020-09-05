@@ -172,8 +172,8 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - [2017.10 many paths to equilibrium](https://arxiv.org/abs/1710.08446) 
     - [2017.11 are gans created equal?](https://arxiv.org/abs/1711.10337)
     - [2018.07 the gans landscape / regularization and normalization](https://arxiv.org/abs/1807.04720)
-  - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs. And at the same time provide one taxonomy. If necessary, the authors can email me; or use pull request. 
-  - By the way, I use "google related article" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary. 
+  - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs. And at the same time provide one taxonomy. If necessary, the authors can email me or use pull request. 
+  - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary. 
 
 - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is ture to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
 
