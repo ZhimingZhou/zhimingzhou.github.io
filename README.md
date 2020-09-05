@@ -113,7 +113,7 @@ About GANs:
     - [wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028) 
     - [my arXiv report 2018.07](https://arxiv.org/abs/1807.00751) 
-    - [LGANs 2019.02](https://arxiv.org/abs/1902.05687); 
+    - [LGANs 2019.02](https://arxiv.org/abs/1902.05687) 
   - Network architecture: 
     - [laplace gans 2015.06](https://arxiv.org/abs/1506.05751) 
     - [dcgans 2015.11](https://arxiv.org/abs/1511.06434) 
@@ -127,11 +127,34 @@ About GANs:
     - optimization is locally stable 2017.06 
     - training gans with optimism 2017.11 
     - which do actually converge? 2018.01
-  - Generalization / sub-optimum analysis: generalization and equilibrium 2017.03 --> discrimination-generalization tradeoff 2017.11 --> convex duality framework 2018-nips --> one of my work ongoing; 
-  - Appplication: [diverse colorization 2017.02](https://arxiv.org/abs/1702.06674) --> cycle gans 2017.03 --> ot-cylce gans 2018.11 --> [my arXiv report](https://arxiv.org/abs/2003.06635);
-  - Sample quality ([labelgans](https://arxiv.org/abs/1606.03498) 2016.06 --> acgans 2016.10 --> [catgans](https://arxiv.org/abs/1511.06390) 2015.11 --> amgans 2017.03 (possible extension: am-wgans / am-lgans) --> [another catgan](https://arxiv.org/abs/1911.06641) 2019.11;
-  - Systematic study / test: do actually learn the distribution? 2017.06 --> many paths to equilibrium 2017.10 --> are gans created equal? 2017.11 --> the gans landscape 2018.07; 
-  - Lipschitz implementation: weight clipping in wgans 2017.01 --> gp in wgans-gp 2017.04 --> lp in wgans-lp 2017.09 --> sn in sngan 2018.02 --> maxgp in lgans 2018.07 / 2019.02 --> maxal in [my arXiv report 2019.04](https://arxiv.org/abs/1904.01184).
+  - Generalization / sub-optimum analysis: 
+    - generalization and equilibrium 2017.03 
+    - discrimination-generalization tradeoff 2017.11 
+    - convex duality framework 2018-nips 
+    - one of my work ongoing 
+  - Appplication: 
+    - [diverse colorization 2017.02](https://arxiv.org/abs/1702.06674) 
+    - cycle gans 2017.03 
+    - ot-cylce gans 2018.11 
+    - [my arXiv report](https://arxiv.org/abs/2003.06635)
+  - Sample quality:
+    - [labelgans](https://arxiv.org/abs/1606.03498) 2016.06 
+    - acgans 2016.10
+    - [catgans](https://arxiv.org/abs/1511.06390) 2015.11 
+    - amgans 2017.03 (possible extension: am-wgans / am-lgans) 
+    - [another catgan](https://arxiv.org/abs/1911.06641) 2019.11
+  - Systematic study / test: 
+    - do actually learn the distribution? 2017.06 
+    - many paths to equilibrium 2017.10 
+    - are gans created equal? 2017.11 
+    - the gans landscape 2018.07; 
+  - Lipschitz implementation: 
+    - weight clipping in wgans 2017.01 
+    - gp in wgans-gp 2017.04 
+    - lp in wgans-lp 2017.09 
+    - sn in sngan 2018.02 
+    - maxgp in lgans 2018.07 / 2019.02 
+    - maxal in [my arXiv report 2019.04](https://arxiv.org/abs/1904.01184).
 
 - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is ture to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
 
