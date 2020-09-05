@@ -143,7 +143,7 @@ About GANs:
     - [2017.03 generalization and equilibrium](https://arxiv.org/abs/1703.00573) 
     - [2017.11 discrimination-generalization tradeoff](https://arxiv.org/abs/1711.02771)
     - [2018-xx convex duality framework](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
-    - *One of my work ongoing*
+    - **One of my work ongoing**
   - Optimization: 
     - [unrolled 2016.11](https://arxiv.org/abs/1611.02163) 
     - [the numerics 2017.05](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
