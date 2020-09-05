@@ -138,7 +138,7 @@ About GANs:
     - [**2017.02 diverse colorization**](https://arxiv.org/abs/1702.06674)
     - [2017.03 cycle gans](https://arxiv.org/abs/1703.10593)
     - [**2018.11 ot-cylce gans**](https://arxiv.org/abs/1811.06284) 
-    - [**my arXiv report**](https://arxiv.org/abs/2003.06635)
+    - [**2020.03 large scale ot with cycle consistency**](https://arxiv.org/abs/2003.06635)
   - Generalization issue / sub-optimum analysis: 
     - [2017.03 generalization and equilibrium](https://arxiv.org/abs/1703.00573) 
     - [2017.11 discrimination-generalization tradeoff](https://arxiv.org/abs/1711.02771)
