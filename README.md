@@ -98,6 +98,14 @@ About GANs:
 
 - Actually, all previous descriptions is based on an assumption, i.e., the so-called Lipschitz is with respect to the Euclidean distance / norm. When switch to other norms the properly will get changed. See Appendix D in my arXiv report https://arxiv.org/abs/1807.00751 for some basic arguments on this. https://arxiv.org/abs/1806.06621 (Banach WGAN) might also help your understanding. 
 
+- With the envelope theorem and WGAN compact dual form, the understaning on the of convergence can be much more clear. But this part is too complexed to explain here. Interested reader can refer to Appendix B.5. in my arXiv report https://arxiv.org/abs/1902.05687v2. 
+
+- With the previous understanding of the training of GANs, we can also image how vanilla / orginal / standard GANs works. Because, GANs is just to force f(x) to be small for generated samples and f(x) to be large for real samples. Nevertheless, we still need to understanding the training process in the sample space (the G-D updating sturcture), instead of, the f(x) space (the output space of GANs; note that, this process is related to activation maximization. hence one of my paper named Acttivation Maximization GANs, i.e., AM-GAN, because GANs can be understood as an adversarial activation maximization process; adversarial activation maximization process helps solve the problem in vanilla activation maximization, i.e., can be noises / fake samples / adversarial examples). 
+
+- 
+
+- GANs research aspects:
+
 About first-order optimization and Adam:
 
 - We will first view Adam from the first-order optimization view, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order view. 
