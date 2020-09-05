@@ -22,6 +22,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   - Training instability (LGANs)
   - Unreachable optimum (MaxGP, AdaShift, Ongoing)
   - Generalization issue (Ongoning)
+  
 - [On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Key%20Problems%20of%20GANs.pptx)
   - Training issues
     - Instability (LGANs)
@@ -30,6 +31,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
     - Complex dataset (AM-GAN)
     - Lantent Space (TODO)
    - Generalization issue (Ongoing)
+   
 - [我的第一份工作以及各种意想不到的收获](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%BB%A5%E5%8F%8A%E5%90%84%E7%A7%8D%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E6%94%B6%E8%8E%B7.zip)
 
 ## Selected Publications 
@@ -88,9 +90,9 @@ About GANs:
 
 - I view this above as the traditional understanding of the training instability issue of GANs. Our work LGANs provides a more experienced perspective, that is the optimal discriminative function (f*, see the paper for an accurate definition, here you can simply understand it as D*) view. By inspecting f* and its gradient with respect to samples, the understanding of GANs's training can be much more clear. The reason is that we are now considering the G-D structure of GANs and we are inspecting the samples (instead of the densities) and the gradients that the generator receives from the discriminator (i.e., f*) with respect to the samples to be updated. That is to inspect the connecting point of G-D. G: the samples to be updated and update them accordingly; D or f* or the gradient of f*: how should these samples be updated. 
 
-- According to LGANs, the convergence of GANs heavily depends on the regularization in the discriminative function space (whether there is a regularization in the discrimintor, and what regularization it is). We show that if there is no regularization in the discriminative function space, the GANs definitely does not guarantee its convergence, suffering a gradient uninformativeness issue () 
+- According to LGANs, the convergence of GANs heavily depends on the regularization in the discriminative function space (whether there is a regularization in the discrimintor and what regularization it is). We show that if there is no regularization in the discriminative function space, the GANs definitely does not guarantee its convergence, provablely suffering a gradient uninformativeness issue (the gradient that the generator received from the discriminator does not tell any information of the target / real distribution). We also find that this gradient uninformativeness issue is non-trivial, not any single simple regularization in the discriminative function space can resolve the gradient uninformativeness issue. 
 
-- according to LGANs, the dual form W-distance can be simplied, and one it is simplied to the 
+- Hoever, interestingly, Lipschitz regularization can generally resolve the gradient uninformativeness issue and guarantee the GANs's convergence. We provide a sufficient condition for these GANs (which we believe is very close to the neccesary condition for GANs where the discriminator has only a single input sample). We provide detailed analysis upon why Lipschitz regularization can generally resolve the gradient uninformativeness issue and show that Lipschitz regularization makes the gradients with respect to generated samples point directly towards real samples (i.e., samples in target distributions). We prove the existence and uniqueness of f* for GANs under Lipschitz regularization. We prove that there is only a single pure nash equilibrium between G and f*/D*, otherwise, the GANs will always moving samples from locations where has too much to localtions where has too less. The above leads to the LGANs, a GANs family. We have constructed several instances of this GANs family, and showed their consistent superior performance over WGAN. 
 
 About first-order optimization and Adam:
 
@@ -106,7 +108,7 @@ About first-order optimization and Adam:
 
 - To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. A new version of AdaShift is coming and we will fix this issue. Looking forward to the new *free-lunch solution* to the non-convergence issue of Adam! 
 
-- Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t and to follow a fixed distribution. In this sense, the role of v_t is to *estimate the **scale** of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural network, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
+- Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t and to follow a fixed distribution. In this sense, the role of v_t is to *estimate the scale of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural network, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
 
 - Because v_t is to somehow estimate the scale of the gradient, it can also estimate the overall gradient scale, or layerwise / blockwise graident scale. In doing this, it reduces to adaptive learning rate SGD (with each block share the same v_t, and overall gradient scale in each block is removed, but the relative gradient scale is keep in the block), which makes it extremely suitable for optimizing a multi-layer neural network. 
 
