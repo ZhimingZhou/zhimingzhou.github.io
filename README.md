@@ -92,7 +92,7 @@ About GANs:
 
 - According to LGANs, the convergence of GANs heavily depends on the regularization in the discriminative function space (whether there is a regularization in the discrimintor and what regularization it is). We show that if there is no regularization in the discriminative function space, the GANs definitely does not guarantee its convergence, provablely suffering a gradient uninformativeness issue (the gradient that the generator received from the discriminator does not tell any information of the target / real distribution). We also find that this gradient uninformativeness issue is non-trivial, not any single simple regularization in the discriminative function space can resolve the gradient uninformativeness issue. 
 
-- Hoever, interestingly, Lipschitz regularization can generally resolve the gradient uninformativeness issue and guarantee the GANs's convergence. We provide a sufficient condition for these GANs (which we believe is very close to the neccesary condition for GANs where the discriminator has only a single input sample). We provide detailed analysis upon why Lipschitz regularization can generally resolve the gradient uninformativeness issue and show that Lipschitz regularization makes the gradients with respect to generated samples point directly towards real samples (i.e., samples in target distributions). We prove the existence and uniqueness of f* for GANs under Lipschitz regularization. We prove that there is only a single pure nash equilibrium between G and f*/D*, otherwise, the GANs will always moving samples from locations where has too much to localtions where has too less. The above leads to the LGANs, a GANs family. We have constructed several instances of this GANs family, and showed their consistent superior performance over WGAN. (We believe gradient penalty / restriction / regularization based methods all have similar effect, based on our analysis upon how Lipschitz regularization works.)
+- Hoever, interestingly, Lipschitz regularization can generally resolve the gradient uninformativeness issue and guarantee the GANs's convergence. We provide a sufficient condition for these GANs (which we believe is very close to the neccesary condition for GANs where the discriminator has only a single input sample). We provide detailed analysis upon why Lipschitz regularization can generally resolve the gradient uninformativeness issue and show that Lipschitz regularization makes the gradients with respect to generated samples point directly towards real samples (i.e., samples in target distributions). We prove the existence and uniqueness of f* for GANs under Lipschitz regularization. We prove that there is only a single pure nash equilibrium between G and f*/D*, otherwise, the GANs will always moving samples from locations where has too much to localtions where has too less. The above leads to the LGANs, a GANs family. We have constructed several instances of this GANs family, and showed their consistent superior performance over WGANs. (We believe gradient penalty / restriction / regularization based methods all have similar effect, based on our analysis upon how Lipschitz regularization works.)
 
 - We suggest use MaxGP instead of GP (gradient penalty) / LP (Lipschitz penalty) / SN (spectral normalization). All the thought are written in [my arXiv report 2019.04](https://arxiv.org/abs/1904.01184), but I still not get a time to improve and perfect the experiments, so I would just keep it as a arXiv report for now. The basic idea is that: Lipschitz constant is equivalent to the maximum norm of the gradients; this is the basic intuition of GP and LP (I beleive the intuition in WGANs-GP for propose GP is not accurate, the relatively correct version should be what I have stated.), but GP is not directly penalizing the Lipschitz constant (which includes superfluous constraints and hence biases the optimum state), and even LP has a drawback (though it penalizing all gradients larger than K, there are also superfluous constraints, for these in the middle of K and the current Lipschitz constant / max gradient norm, and hence still biased the optimum state), in contrast, MaxGP is the correct implementation (with which I finally get the optimal discriminative function, for small / easy task, GP and LP both fail, SN also fail to achieve the optimum in many cases).  SNGAN makes SN popular, but according to my experiments, SN fails much more often, comparing to MaxGP (see the paper for more details; I suspect the cause stems from the over-restriction of SN). MaxGP has a drawback too, it does not achieve Lipschitz constant K. In [my arXiv report 2019.04](https://arxiv.org/abs/1904.01184), we also proposed an Augmented Lagrangian (AL) method (MaxAL), which can almost exactly achieve "Lipschitz constant = K". MaxAL can be benefitial sometimes, like when you are estimating the W-distance between two distribution. With MaxGP, you need to devide the result by "the current Lipschitz constant", though it can be easily estimated by max gradient norm, but MaxAL does not need the division. (See the paper for all the details.)
 
@@ -109,10 +109,13 @@ About GANs:
 - Popular research topics in GANs inlcude:
   - Objective function: 
     - [vanilla / orginal / standard gans 2014.06](https://arxiv.org/abs/1406.2661) 
-    - [least square gans 2016.11](https://arxiv.org/abs/1611.04076) 
+    - [least square gans 2016.11](https://arxiv.org/abs/1611.04076)
+    - [density ratio 2016.10](https://arxiv.org/abs/1610.02920)
+    - [f-gans 2017.07](https://arxiv.org/abs/1707.04385)
+    - [bi-gan 2016.05](https://arxiv.org/abs/1605.09782) && [ali 2016.06](https://arxiv.org/abs/1606.00704)
     - [wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)     
-    - [**LGANs 2019.02**](https://arxiv.org/abs/1902.05687)
+    - [**lgans 2019.02**](https://arxiv.org/abs/1902.05687)
   - Lipschitz implementation: 
     - [weight clipping in wgans 2017.01](https://arxiv.org/abs/1701.07875)
     - [gp in wgans-gp 2017.04](https://arxiv.org/abs/1704.00028)
@@ -126,7 +129,7 @@ About GANs:
     - [catgans 2015.11](https://arxiv.org/abs/1511.06390) 
     - [**amgans 2017.03**](https://arxiv.org/abs/1703.02000) 
       - possible extension: am-wgans / am-lgans
-  - Gans based appplication tools:
+  - GANs based appplication tools:
     - [**diverse colorization 2017.02**](https://arxiv.org/abs/1702.06674)
     - [cycle gans 2017.03](https://arxiv.org/abs/1703.10593)
     - [**ot-cylce gans 2018.11**](https://arxiv.org/abs/1811.06284) 
@@ -140,10 +143,12 @@ About GANs:
   - Optimization: 
     - [unrolled 2016.11](https://arxiv.org/abs/1611.02163) 
     - [the numerics 2017.05](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
-    - [two time scale 2017.06](https://arxiv.org/abs/1706.08500) 
     - [optimization is locally stable 2017.06](https://arxiv.org/abs/1706.04156) 
+    - [two time scale 2017.06](https://arxiv.org/abs/1706.08500)     
     - [training gans with optimism 2017.11](https://arxiv.org/abs/1711.00141) 
     - [which do actually converge? 2018.01](https://arxiv.org/abs/1801.04406)
+  - Latent space:
+    - info-gan
   - Network architecture: 
     - [laplace gans 2015.06](https://arxiv.org/abs/1506.05751) 
     - [dcgans 2015.11](https://arxiv.org/abs/1511.06434) 
