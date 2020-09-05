@@ -74,8 +74,20 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## MISC
 
+About GANs:
+
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
 - Given the convergence issue (cannot generalize when trained to optimum, memorizing the training distribution), the two typical theoretically sound usages that I know are optimal transport (where the target distribution does not need generalization) and data modeling (where the data can be just the data to be modeled and somehow does not need generalization). 
 
 - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but it is conditional, and the diversity comes from the freedom of the non-conditionaled parts. 
+
+About first-order optimization and Adam:
+
+- I would view Adam as a first-order optimization, in contrast to the traditional second-order view. And I would explain the reason. 
+
+- Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the nonconvergence comes from the positive correlation of the current adaptive term v_t and the current graient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 
+
+- The net update factor of g_t can be understood as its accumulated step-size in the entire optimization, because its influence can be delayed to future updates, due to first moment estimation or otherwise named the moving average windows. The influence of g_t decreases at a rate of \beta1 each step and is initialized with a ratio 1-\beta1, which sums to one. (This is similar to Momentum and SGD, where the net update factor of each gradient is also one.)
+
+- However, for adapative learning rate methods (Adam as a representative), the net update factor of each gradient does not have a fixed value (hence, not the same) nor follow a fixed distribution (which we believe have a similar effect as fixed value choices, Momentum and SGD). 
