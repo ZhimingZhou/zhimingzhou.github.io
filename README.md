@@ -94,8 +94,10 @@ About first-order optimization and Adam:
 
 - And obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the centre thought of AdaShift solution. 
 
-- To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. 
+- To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. A new version of AdaShift is coming and we will fix this issue. Looking forward to the new *free-lunch solution* to the non-convergence issue of Adam! 
 
-- A new version of AdaShift is coming. Lookngg forward to the new free-lunch solution to the non-convergence issue of Adam. 
+- Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t following a fixed distribution. In this sense, the role of v_t is to *estimate the **scale** of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural network, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
+
+
 
 
