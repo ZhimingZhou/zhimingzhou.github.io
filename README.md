@@ -76,4 +76,6 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
-- Given the convergence issue, the only two theoretically sound usages that I know are optimal transport (where the target distribution does not need generalization) and data modeling (where the data is just the data to be modeled and somehow does not need generalization). Other typical usages include: image synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution, transferring). 
+- Given the convergence issue, the only two theoretically sound usages that I know are optimal transport (where the target distribution does not need generalization) and data modeling (where the data is just the data to be modeled and somehow does not need generalization). 
+
+- Other typical usages include: image synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution, transferring). 
