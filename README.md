@@ -78,7 +78,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## MISC
 
-About GANs:
+# About GANs:
 
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
@@ -180,7 +180,7 @@ About GANs:
 - By the way, I now think any GANs should has a 's' at the tail, because the **networks** in *adversarial neural networks* means G and D. Hence need the 's'. This is also why Ian Goodfellow add the 's'. I also confused for a long time, whether should I add the 's'. Now, after writing this review, I believe *should*!
 
 
-About first-order optimization and Adam:
+# About first-order optimization and Adam:
 
 - We will first view Adam from the first-order optimization view, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order view. 
 
