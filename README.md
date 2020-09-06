@@ -93,7 +93,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
 
-#### LGANs extended:
+#### LGANs extended: a review of the training instability issue of GANs
 
 - The most well-known problem about GANs is its training instability issue. Training instability, to an extent, means it does not guarantee convergence. Hence, we sometimes also refer to as the non-convergence or convergence issue. 
 
