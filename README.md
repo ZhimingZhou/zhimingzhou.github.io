@@ -45,7 +45,7 @@ Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
   \[[arXiv-v2](https://arxiv.org/abs/1902.05687v2)\] 
   \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
   \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
-  \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP)\]
+  \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]  
 - <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that: (1) GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
@@ -55,7 +55,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaS
 - \[[arXiv](https://arxiv.org/abs/1810.00143)\] 
   \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
-  \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP)\]
+  \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
 
 Activation Maximization Generative Adversarial Nets. (AM-GANs)
