@@ -63,7 +63,7 @@ Activation Maximization Generative Adversarial Nets. (AM-GANs)
 - The Sixth International Conference on Learning Representations (ICLR, 2018).
 - \[[arXiv](https://arxiv.org/abs/1703.02000)\]
   \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
-  \[[Code1](https://github.com/ZhimingZhou/AM-GANs)\]
+  \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs had been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, are unraveled.</details>
 
