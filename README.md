@@ -83,7 +83,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ### About GANs:
 
-##### GANs & its usages:
+#### GANs & its usages:
 
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
@@ -93,7 +93,9 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
 
-##### LGANs extended: a review of the training instability issue of GANs
+#### A review of the training instability issue of GANs
+
+##### LGANs extended: 
 
 - The most well-known problem about GANs is its training instability issue. Training instability, to an extent, means it does not guarantee convergence. Hence, we sometimes also refer to as the non-convergence or convergence issue. 
 
@@ -121,7 +123,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - The gradient uninformativeness issue designated in LGANs is actually a small part (while the most important part) of gradient issues in unregularized GANs. It also involves gradient vanishing (which actually has two types, vanilla / original / standard GANs suffers from Type-I and Least-Square-GANs, avoiding Type-I, but still suffers from Type-II). Other gradient issues in unregularized GANs include theoretically undefined gradients and non-convergent-state of Type-II gradient vanishing, and surely the previously mentioned local-greedy property. 
 
-##### GANs summary / review:
+#### GANs summary / review:
 
 - Popular research topics in GANs include:
   - Objective function: 
