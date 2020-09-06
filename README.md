@@ -41,7 +41,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
 - **Zhiming Zhou**, Jiadong Liang, [Y. Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [L. Yu](http://lantaoyu.com/), [H. Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
-- \[[arXiv](https://arxiv.org/abs/1902.05687)\] 
+- \[[arXiv](https://arxiv.org/abs/1902.05687v2)\] 
   \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
   \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP)\]
