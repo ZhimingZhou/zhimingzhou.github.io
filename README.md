@@ -91,6 +91,8 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but being conditional, and the diversity comes from the freedom of the unconditioned parts. 
 
+- By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
+
 #### LGANs extended:
 
 - The most well-known problem about GANs is its training instability issue. Training instability, to an extent, means it does not guarantee convergence. Hence, we sometimes also refer to as the non-convergence or convergence issue. 
@@ -189,11 +191,6 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
   - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary. 
 
 - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is true to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
-
-##### Any GANs should has a 's' at the tail
-
-- By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
-
 
 ### About first-order optimization and Adam:
 
