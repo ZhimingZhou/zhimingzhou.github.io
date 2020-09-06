@@ -190,9 +190,9 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is true to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
 
-#### Any GANs should has a 's' at the tail
+##### Any GANs should has a 's' at the tail
 
-- By the way, I now think any GANs should has a 's' at the tail, because the **networks** in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
+- By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
 
 
 ### About first-order optimization and Adam:
