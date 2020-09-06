@@ -83,7 +83,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ### About GANs:
 
-#### GANs & its usages:
+##### GANs & its usages:
 
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
@@ -93,7 +93,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
 
-#### LGANs extended: a review of the training instability issue of GANs
+##### LGANs extended: a review of the training instability issue of GANs
 
 - The most well-known problem about GANs is its training instability issue. Training instability, to an extent, means it does not guarantee convergence. Hence, we sometimes also refer to as the non-convergence or convergence issue. 
 
@@ -113,7 +113,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - With the envelope theorem and WGANs compact dual form, the understanding of convergence can be much more clear. But this part is too complex to explain here. Interested readers can refer to Appendix B.5 in [2019.02 my arXiv report](https://arxiv.org/abs/1902.05687v2). 
 
-#### How unregularized GANs works:
+##### How unregularized GANs works:
 
 - With the previous understanding of the training of GANs, we can also imagine how vanilla / original / standard GANs (or other unregularized GANs) work. Because, GANs is just to force f(x) to be small for generated samples and f(x) to be large for real samples. Nevertheless, we still need to understand the training process in the sample space (the G-D updating structure), instead of the f(x) space (the output space of GANs). Note that, this process is related to activation maximization. This is why one of my previous work is named Activation Maximization GANs, i.e., AM-GANs. Because GANs can be understood as an adversarial activation maximization process; adversarial activation maximization process helps solve the problem in vanilla activation maximization, i.e., can be noises / fake samples / adversarial examples. In the sample space, the generator need to update samples so as to make f(x) getting larger. However, according the analysis in LGANs, without a regularization, it suffers from gradient uninformativeness issue. So, why it can still be somehow optimized? See Appendix B.6 in in [2019.02 my arXiv report](https://arxiv.org/abs/1902.05687v2). The basic idea is it might work if the space is smooth enough and many tricks can be used to make the space get smooth, and these are the practical tricks used in GANs training, previously, now not necessary, because I understand it better. 
 
@@ -121,7 +121,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - The gradient uninformativeness issue designated in LGANs is actually a small part (while the most important part) of gradient issues in unregularized GANs. It also involves gradient vanishing (which actually has two types, vanilla / original / standard GANs suffers from Type-I and Least-Square-GANs, avoiding Type-I, but still suffers from Type-II). Other gradient issues in unregularized GANs include theoretically undefined gradients and non-convergent-state of Type-II gradient vanishing, and surely the previously mentioned local-greedy property. 
 
-#### GANs summary / review:
+##### GANs summary / review:
 
 - Popular research topics in GANs include:
   - Objective function: 
