@@ -38,7 +38,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
   - 这是 一部 “小说”，也是 一个 “宝藏”
   - 蕴含着 一个 常年 思考着 世间万物 原理 的人
-  - 在 一次 异常状态 后，对于 这 人世间的 理解的 升华 与 提纯
+  - 在 一次 异常状态 后，对于 这人世间的理解 的 升华 与 提纯
 
 ## Selected Publications 
 
