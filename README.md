@@ -39,6 +39,11 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   - 这是 一部 “小说”，也是 一个 “宝藏”
   - 蕴含着 一个 常年 思考着 世间万物原理 的人
   - 在 一次 异常状态 后，对于 这人世间的理解 的 升华 与 提纯
+  
+    - 意识与物质基础的关心、大脑按需重组猜想、量子宇宙
+    - 关于天意与巧合、关于开窍、关于情商、关于考核和薪资制度
+    - 生命的意义-如何快乐地活着、聪明人的自我修养 等等 等等
+    
 
 ## Selected Publications 
 
