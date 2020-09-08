@@ -37,13 +37,6 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 - [我的第一份工作以及各种意想不到的收获](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C%E4%BB%A5%E5%8F%8A%E5%90%84%E7%A7%8D%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E6%94%B6%E8%8E%B7.zip) 
 
   - 这是 一部 “小说”，也是 一个 “宝藏”  
-  - 蕴含着 一个 常年 思考着 世间万物原理 的人  
-  - 在 一次 异常状态 后，对于 这人世间的理解 的 升华 与 提纯  
-  
-    - 意识 与 物质基础 的 关系、 大脑 按需重组 猜想、 量子 宇宙
-    - 关于 天意 与 巧合、 关于 开窍、 关于 情商、 关于 考核 和 薪资制度
-    - 生命 的 意义 - 如何 快乐地 活着、 聪明人 的 自我修养 等等 等等
-    
 
 ## Selected Publications 
 
