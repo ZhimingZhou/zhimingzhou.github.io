@@ -16,8 +16,6 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   
 - [Github](https://github.com/ZhimingZhou)
   
-- [Thesis](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Thesis.pdf) (Chinese) [PPT](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Defense%20PPT.pptx) (Chinese)
-  
 - [On the Convergence Issues of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
 
   - Training instability (LGANs)  
