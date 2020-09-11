@@ -16,7 +16,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 - [DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
   
-- [Talk Slides] [On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Key%20Problems%20of%20GANs.pptx)
+- [Talk] [On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Key%20Problems%20of%20GANs.pptx)
 
   - Training issues  
     - Instability (LGANs)    
@@ -26,7 +26,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
     - Latent space (TODO)    
   - Generalization issue (Ongoing)  
 
-- [Talk Slides] [On the Convergence Issues of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
+- [Talk] [On the Convergence Issues of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
 
   - Training instability (LGANs)  
   - Unreachable optimum (MaxGP, AdaShift, Ongoing)  
