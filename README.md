@@ -12,9 +12,9 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   
 - [DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
   
-- [Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
-  
 - [Github](https://github.com/ZhimingZhou)
+
+- [Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
   
 - [On the Convergence Issues of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
 
