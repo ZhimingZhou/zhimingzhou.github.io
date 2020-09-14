@@ -88,7 +88,15 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
     - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but being conditional, and the diversity comes from the freedom of the unconditioned parts. 
 
-    - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe *should*!
+    - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. Now, after writing this review, I believe should! 
+    
+      - And GANs has both a PLURAL sense and a SINGULAR sense. 
+        
+        - When terming as a concept, we should use SINGULAR sense;
+        - When refering to a specific GANs, like WGANs, we should also use the SINGULAR sense;
+        - But when referting to a class / set / type of GANs, we should use the PLURAL sense.
+      
+      - For possessive, we can use "the xxx of GANs" or "GANs' xxxx".
 
   - A review of the training instability issue of GANs
 
