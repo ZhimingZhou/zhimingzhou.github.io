@@ -98,7 +98,8 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
       
       - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
       
-        - Sometime, it might be more nature to directly use "GANs xxx", e.g., GANs objective. Termed as the objective of GANs or GANs' objective appears not concise enough.
+        - Sometime, it might be more nature to directly use "GANs xxx", e.g., GANs objective. 
+        - Termed as the objective of GANs or GANs' objective appears not concise enough.
 
   - A review of the training instability issue of GANs
 
