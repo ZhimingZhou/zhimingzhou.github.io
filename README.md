@@ -96,7 +96,9 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
         - When refering to a specific GANs, like WGANs, we should also use the SINGULAR sense;
         - But when referting to a class / set / type of GANs, we should use the PLURAL sense.
       
-      - For the possessive, we can use "the xxx of GANs" or "GANs' xxxx".
+      - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
+      
+        - Sometime, it might be more nature to directly use "GANs xxx", e.g., GANs objective. Termed as the objective of GANs or GANs' objective appears not concise enough.
 
   - A review of the training instability issue of GANs
 
