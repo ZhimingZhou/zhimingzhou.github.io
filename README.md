@@ -40,24 +40,24 @@ Lipschitz Regularized Generative Adversarial Nets. (LGANs + MaxGP + MaxAL + Many
 - \[[arXiv](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Lipschitz_Regularized_GANs.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
-  \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]  
+  \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>This is a substantially extended version of "Lipschitz Generative Adversarial Nets". We provide a thoroughgoing study upon Lipschitz regularization and Lipschitz regularized GANs, both theoretically and empirically. We thereby achieve consistently superior performance over WGANs with theoretical justification. We provide a systematic study on the gradient issues of unregularized GANs and their practical behaviors, from which we venture a conjecture on the mechanisms of how unregularized GANs work in practice and find a fundamental cause of mode collapse, i.e., the locality of their gradient information. We study the differentiation properties of GANs with the help of the envelope theorem and realize that the current GANs is essentially a sample-based framework and the information interchange between the generator and the discriminator must be passed via the gradients of the discriminative function with respect to generated samples, because the discriminator takes a sample as input.</details>
 
 Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
 - **Zhiming Zhou**, Jiadong Liang, [Y. Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [L. Yu](http://lantaoyu.com/), [H. Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
-- \[[arXiv](https://arxiv.org/abs/1902.05687)\]    
-  \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
+- \[[arXiv](https://arxiv.org/abs/1902.05687)\]
+  \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
-  \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]  
+  \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that: (1) GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaShift)
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 - The Seventh International Conference on Learning Representations (ICLR, 2019).
-- \[[arXiv](https://arxiv.org/abs/1810.00143)\] 
+- \[[arXiv](https://arxiv.org/abs/1810.00143)\]
   \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
   \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
