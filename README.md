@@ -37,7 +37,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 Lipschitz Regularized Generative Adversarial Nets. (LGANs + MaxGP + MaxAL + ...)
 - **Zhiming Zhou**, [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to The Journal of Machine Learning Research (JMLR).
-  \[[arXiv](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Lipschitz_Regularized_GANs.pdf)\]
+- \[[arXiv](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Lipschitz_Regularized_GANs.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]  
@@ -46,8 +46,7 @@ Lipschitz Regularized Generative Adversarial Nets. (LGANs + MaxGP + MaxAL + ...)
 Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
 - **Zhiming Zhou**, Jiadong Liang, [Y. Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [L. Yu](http://lantaoyu.com/), [H. Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
-- \[[arXiv](https://arxiv.org/abs/1902.05687)\] 
-   
+- \[[arXiv](https://arxiv.org/abs/1902.05687)\]    
   \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
   \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
