@@ -34,7 +34,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   
 ## Selected Publications 
 
-Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP + MaxAL + Many Related Analyses)
+Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<sup>+</sup> + MaxAL + Many Related Analyses)
 - **Zhiming Zhou**, [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to The Journal of Machine Learning Research (JMLR).
 - \[[arXiv](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/Lipschitz_Regularized_GANs.pdf)\]
