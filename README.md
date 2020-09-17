@@ -177,9 +177,9 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     
     - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is valid to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. But after that, I still don't think the key problem lies in optimization.
     
-    - I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow.
+    - I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting, which I also follow.
     
-    - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs, and at the same time, provide one taxonomy. If necessary, the authors can email me or use pull requests.
+    - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs, and at the same time, provides one taxonomy. If necessary, the authors can email me or use pull requests.
     
     - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
 
