@@ -98,7 +98,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
     - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should have a 's', always.
     
-    - And GANs has both a PLURAL sense and a SINGULAR sense. 
+    - And GANs has both a PLURAL sense and a SINGULAR sense, and they share the SAME form, i.e., "GANs". 
 
       - When terming as a concept, we should use SINGULAR sense;
       - When refering to a specific GANs, like WGANs, we should also use the SINGULAR sense;
