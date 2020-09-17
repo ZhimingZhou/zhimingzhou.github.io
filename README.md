@@ -96,17 +96,17 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
     - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but being conditional, and the diversity comes from the freedom of the unconditioned parts. 
 
-    - I think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should have a 's', always.
+    - I think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should be a 's', always.
     
     - GANs has both a PLURAL sense and a SINGULAR sense, and they share the SAME form, i.e., "GANs". 
 
       - When terming as a concept, we should use SINGULAR sense;
-      - When refering to a specific GANs, like WGANs, we should also use the SINGULAR sense;
-      - But when referting to a class / set / type of GANs, we should use the PLURAL sense.
+      - When referring to a specific GANs, like WGANs, we should also use the SINGULAR sense;
+      - But when referring to a class / set / type of GANs, we should use the PLURAL sense.
 
     - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
 
-      - Sometime, it might be more nature to directly use "GANs xxx", e.g., GANs objective. 
+      - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
 
   - GANs summary / review:
 
@@ -175,11 +175,13 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
         - [2017.11 are gans created equal?](https://arxiv.org/abs/1711.10337)
         - [2018.07 the gans landscape / regularization and normalization](https://arxiv.org/abs/1807.04720)
     
-    - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is valid to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow. 
+    - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is valid to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. But after that, I still don't think the key problem lies in optimization.
     
-    - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs, and at the same time, provide one taxonomy. If necessary, the authors can email me or use pull requests. 
+    - I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting which I also follow.
     
-    - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary. 
+    - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs, and at the same time, provide one taxonomy. If necessary, the authors can email me or use pull requests.
+    
+    - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
 
 - About first-order optimization and Adam:
 
