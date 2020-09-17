@@ -98,16 +98,15 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
     - By the way, I now think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should have a 's', always.
     
-      - And GANs has both a PLURAL sense and a SINGULAR sense. 
-        
-        - When terming as a concept, we should use SINGULAR sense;
-        - When refering to a specific GANs, like WGANs, we should also use the SINGULAR sense;
-        - But when referting to a class / set / type of GANs, we should use the PLURAL sense.
-      
-      - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
-      
-        - Sometime, it might be more nature to directly use "GANs xxx", e.g., GANs objective. 
-        - Termed as "the objective of GANs" or "GANs' objective" appears not concise enough.
+    - And GANs has both a PLURAL sense and a SINGULAR sense. 
+
+      - When terming as a concept, we should use SINGULAR sense;
+      - When refering to a specific GANs, like WGANs, we should also use the SINGULAR sense;
+      - But when referting to a class / set / type of GANs, we should use the PLURAL sense.
+
+    - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
+
+      - Sometime, it might be more nature to directly use "GANs xxx", e.g., GANs objective. 
 
   - GANs summary / review:
 
