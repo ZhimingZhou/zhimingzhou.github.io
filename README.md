@@ -127,7 +127,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - g_t or m_t is divided by its estimated scale sqrt(v_t) and hence is normalized.
     - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically equal to the learning rate.
 
-  - Parameter's scale hence is very important in adaptive learning rate methods and has an equivalent effect as the learning rate:
+  - Parameter's scale hence is very important in Adam etc. and has an equivalent effect as the learning rate:
 
     - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model parameter is changed by 0.1%.
     - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model parameter is changed by 0.1%.
@@ -135,16 +135,13 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model parameter is changed by 0.01%.
     - One can empirically verify that: (1) and (2) are equivalent; (3) and (4) are equivalent.
     
-    - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
-  
+    - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:  
       - y = w * x     <-->     y = w' / k * x
       - where w' = k * w, i.e., the weights are scaled up by k
     
   - So give the learning rate while do not tell the parameter scale actually tell nothing.
     
-    - Though we can assume a commonly used parameter initialization scheme. But it is not necessarily true.
-    
-
+    - Though we can assume a commonly used parameter initialization scheme. But it is not necessarily true. 
     
 - GANs summary / review:
 
