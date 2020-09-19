@@ -111,8 +111,8 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
   - Gradient's scale invariance: 
 
     - In adaptive learning rate methods, sqrt(v_t) plays the role of estimating the scale of the gradient, while m_t plays the role of estimating the gradient.
-    - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed and hence achieve the scale invariance.
-    - It benefits the tuning of learning rate, and especially benefits settings where gradients have different scales, e.g., multi-layer deep neural network where gradients at different layers tend to be dramatically different.
+    - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed and hence achieves scale invariance.
+    - It benefits the tuning of learning rate, and especially benefits settings where gradients have different scales, e.g., multi-layer deep neural networks where gradients at different layers tend to be dramatically different.
     
     - Formally, we have:
       - {g_i}\_(i=0)^T is equivalent to {k*g_i}\_(i=0)^T for any k>0.
@@ -127,19 +127,19 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - g_t or m_t is divided by its estimated scale sqrt(v_t) and hence is normalized.
     - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically equal to the learning rate.
 
-  - Parameter's scale hence is very important in adaptive learning rate methods and has an jsut equivalent influence/effect as the learning rate:
+  - Parameter's scale hence is very important in adaptive learning rate methods and has an equivalent effect as the learning rate:
 
-    - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model paramter is changed by 0.1%.
-    - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model paramter is changed also by 0.1%.
-    - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model paramter is changed also by 0.01%.
-    - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model paramter is changed also by 0.01%.
-    - One can empirically verify that: (1) and (2) are equivalant; (3) and (4) are equivalant.
+    - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model parameter is changed by 0.1%.
+    - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model parameter is changed also by 0.1%.
+    - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model parameter is changed also by 0.01%.
+    - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model parameter is changed also by 0.01%.
+    - One can empirically verify that: (1) and (2) are equivalent; (3) and (4) are equivalent.
     
   - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
   
-    - y=w*x === y=w'/k*x    
-    - where w' = k*w, i.e., its weight is scaled up by k     
-      
+    - y=w*x === y=w'/k*x
+    - where w' = k*w, i.e., its weight is scaled up by k
+    
 - GANs summary / review:
 
   - Popular research topics in GANs include:
