@@ -185,20 +185,51 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 - About first-order optimization and Adam:
 
-  - We will first view Adam from the first-order optimization view, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order view. 
+  - The key properties of adaptive learning rate methods (e.g., Adam):
+  
+    - Gradient's scale invariance: 
+    
+      - sqrt(v_t) plays the role of estimating the scale of the gradient. m_t plays the role of estimating the gradient.
+      - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed. 
+      - Hence achieve the scale invariance.
+        - It benefits the tuning of learning rate;
+        - And especially benefits setting where gradients have different scales, e.g., multi-layer deep learning because gradient in deep learning at different layers tend to be dramatically different.
+        
+    - Fixed parameter update step size, whose scale is basically just equal to the learning rate:
+    
+      - This is the direct consequence of scale removing or scale invariance.
+      
+      - g_t or m_t is divided by its estimated scale sqrt(v_t) and hence is normalized.
+      
+      - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically the learning rate lr.
+      
+    - Parameter's scale hence is very important in adaptive learning rate methods and has an jsut equivalent influence/effect as the learning rate:
+    
+      - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model paramter is changed by 0.1%.
+      - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model paramter is changed also by 0.1%.
+      - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model paramter is changed also by 0.01%.
+      - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model paramter is changed also by 0.01%.
+      - One can empirically verify that: (1) and (2) are equivalant; (3) and (4) are equivalant.
+      - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
+        - y=w*x === y=w'/k*x
+        - where w' = k*w, i.e., its weight is scaled up by k     
+  
+  - AdaSfhit Explained:
 
-  - Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the non-convergence comes from the positive correlation of the current adaptive term v_t and the current gradient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 
+    - We will first view Adam from the first-order optimization viewpoint, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order viewpoint.
 
-  - The net update factor of g_t can be understood as its accumulated step-size in the entire optimization, because its influence can be delayed to future updates, due to first moment estimation or otherwise named the moving average windows. The influence of g_t decreases at a rate of \beta1 each step and is initialized with a ratio 1-\beta1, which sums to one. (This is similar to Momentum and SGD, where the net update factor of each gradient is also one.)
+    - Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the non-convergence comes from the positive correlation of the current adaptive term v_t and the current gradient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 
 
-  - However, for adaptive learning rate methods (Adam as a representative), the net update factor of each gradient does not have a fixed value (hence, not the same) nor follow a fixed distribution (which we believe have a similar effect as fixed value choices, Momentum and SGD). 
+    - The net update factor of g_t can be understood as its accumulated step-size in the entire optimization, because its influence can be delayed to future updates, due to first moment estimation or otherwise named the moving average windows. The influence of g_t decreases at a rate of \beta1 each step and is initialized with a ratio 1-\beta1, which sums to one. (This is similar to Momentum and SGD, where the net update factor of each gradient is also one.)
 
-  - And obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the central thought of the AdaShift solution. 
+    - However, for adaptive learning rate methods (Adam as a representative), the net update factor of each gradient does not have a fixed value (hence, not the same) nor follow a fixed distribution (which we believe have a similar effect as fixed value choices, Momentum and SGD). 
 
-  - To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such a condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. A new version of AdaShift is coming and we will fix this issue. Looking forward to the new *free-lunch solution* to the non-convergence issue of Adam! 
+    - And obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the central thought of the AdaShift solution. 
 
-  - Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t and to follow a fixed distribution. In this sense, the role of v_t is to *estimate the scale of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural networks, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
+    - To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such a condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. A new version of AdaShift is coming and we will fix this issue. Looking forward to the new *free-lunch solution* to the non-convergence issue of Adam! 
 
-  - Because v_t is to somehow estimate the scale of the gradient, it can also estimate the overall gradient scale, or layer-wise / block-wise gradient scale. In doing this, it reduces to adaptive learning rate SGD (with each block sharing the same v_t, the overall gradient scale in each block is removed, but the relative gradient scale is kept in the block), which makes it extremely suitable for optimizing a multi-layer neural network. 
+    - Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t and to follow a fixed distribution. In this sense, the role of v_t is to *estimate the scale of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural networks, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
 
-  - The update rule of v_t can even be generalized. Try and find more interesting update rules, as long as it estimates the scale of the gradient!
+    - Because v_t is to somehow estimate the scale of the gradient, it can also estimate the overall gradient scale, or layer-wise / block-wise gradient scale. In doing this, it reduces to adaptive learning rate SGD (with each block sharing the same v_t, the overall gradient scale in each block is removed, but the relative gradient scale is kept in the block), which makes it extremely suitable for optimizing a multi-layer neural network. 
+
+    - The update rule of v_t can even be generalized. Try and find more interesting update rules, as long as it estimates the scale of the gradient!
