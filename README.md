@@ -115,7 +115,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - Formally, we have:
       - {g_i}\_(i=0)^T is equivalent to {k*g_i}\_(i=0)^T for any k>0.
       - The scale of m_t/sqrt(v_t) is approximately 1.
-          - Becaue v_t^2 is approximately var(g_t) + E(g_t)^2.
+        - Becaue v_t^2 is approximately var(g_t) + E(g_t)^2.
         - The standard deviation is approximately 1, if E[g_t]=0 and \beta_1=0.
         - If g_t is constant, then m_t/sqrt(v_t) equals 1.
 
