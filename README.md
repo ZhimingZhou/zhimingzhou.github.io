@@ -114,13 +114,18 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - sqrt(v_t) plays the role of estimating the scale of the gradient. m_t plays the role of estimating the gradient.
     - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed. 
     - Hence achieve the scale invariance.
-    - It benefits the tuning of learning rate, and especially benefits setting where gradients have different scales, e.g., multi-layer deep learning because gradient in deep learning at different layers tend to be dramatically different.
+    - It benefits the tuning of learning rate, and especially benefits settings where gradients have different scales, e.g., multi-layer deep neural network where gradients at different layers tend to be dramatically different.
+    
+      - {𝑔_𝑖}<sub>(𝑖=0)^</sub><sup>𝑇</sup> is equivalent to {𝑘∙𝑔_𝑖}<sub>(𝑖=0)^</sub><sup>𝑇</sup> for any 𝑘>0.
+      - The scale of 𝑚_𝑡/√(𝑣_𝑡) is approximately 1. (𝑣_𝑡^2≈var(g_t )+Ε(g_t )^2).
+      - The standard deviation is approximately 1, if 𝐸[𝑔_𝑡 ]=0 and 𝛽_1=0. 
+      - If 𝑔_𝑡 is constant, then 𝑚_𝑡/√(𝑣_𝑡 ) equals 1. 
 
-  - Fixed parameter update step size, whose scale is basically just equal to the learning rate:
+  - Fixed parameter update step size, and its scale is basically just equal to the learning rate:
 
     - This is the direct consequence of scale removing or scale invariance.
     - g_t or m_t is divided by its estimated scale sqrt(v_t) and hence is normalized.
-    - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically the learning rate lr.
+    - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically equal to the learning rate.
 
   - Parameter's scale hence is very important in adaptive learning rate methods and has an jsut equivalent influence/effect as the learning rate:
 
