@@ -130,10 +130,12 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
   - Parameter's scale hence is very important in adaptive learning rate methods and has an equivalent effect as the learning rate:
 
     - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model parameter is changed by 0.1%.
-    - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model parameter is changed also by 0.1%.
-    - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model parameter is changed also by 0.01%.
-    - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model parameter is changed also by 0.01%.
+    - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model parameter is changed by 0.1%.
+    - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model parameter is changed by 0.01%.
+    - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model parameter is changed by 0.01%.
     - One can empirically verify that: (1) and (2) are equivalent; (3) and (4) are equivalent.
+    - So give the learning rate while do not tell the parameter scale actually tell nothing.
+      - Though we can assume a commonly used parameter initialization scheme. But it is not necessarily true.
     
   - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
   
