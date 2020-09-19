@@ -86,150 +86,147 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## MISC
 
-- About GANs:
+- GANs & its usages:
 
-  - GANs & its usages:
+  - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
-    - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
+  - Given the generalization issue (cannot generalize when trained to optimum, memorizing the training distribution), theoretically sound usages are very limited. Two typical that I know are optimal transport (where the target distribution sometimes can just be the data provided and does not need generalization) and data modeling (where the data provided can just be the data to be modeled and somehow does not need generalization). 
 
-    - Given the generalization issue (cannot generalize when trained to optimum, memorizing the training distribution), theoretically sound usages are very limited. Two typical that I know are optimal transport (where the target distribution sometimes can just be the data provided and does not need generalization) and data modeling (where the data provided can just be the data to be modeled and somehow does not need generalization). 
+  - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but being conditional, and the diversity comes from the freedom of the unconditioned parts. 
 
-    - Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but being conditional, and the diversity comes from the freedom of the unconditioned parts. 
+  - I think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should be a 's', always.
 
-    - I think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should be a 's', always.
-    
-    - GANs has both a PLURAL sense and a SINGULAR sense, and they share the SAME form, i.e., "GANs". 
+  - GANs has both a PLURAL sense and a SINGULAR sense, and they share the SAME form, i.e., "GANs". 
 
-      - When terming as a concept, we should use SINGULAR sense;
-      - When referring to a specific GANs, like WGANs, we should also use the SINGULAR sense;
-      - But when referring to a class / set / type of GANs, we should use the PLURAL sense.
+    - When terming as a concept, we should use SINGULAR sense;
+    - When referring to a specific GANs, like WGANs, we should also use the SINGULAR sense;
+    - But when referring to a class / set / type of GANs, we should use the PLURAL sense.
 
-    - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
+  - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
 
-      - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
+    - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
 
-  - GANs summary / review:
 
-    - Popular research topics in GANs include:
-      - Objective function: 
-        - [2014.06 original gans](https://arxiv.org/abs/1406.2661) 
-        - [2014.11 conditional gans / cgans](https://arxiv.org/abs/1411.1784)
-        - [2016.11 least square gans](https://arxiv.org/abs/1611.04076) 
-          - [2016.09 energy based gans](https://arxiv.org/abs/1609.03126)
-          - [2016.10 density ratio](https://arxiv.org/abs/1610.02920)
-          - [2017.07 f-gans](https://arxiv.org/abs/1707.04385)      
-        - [2017.01 towards principled methods](https://arxiv.org/abs/1701.04862)
-        - [2017.01 wgans](https://arxiv.org/abs/1701.07875)
-        - [2017.04 wgans-gp](https://arxiv.org/abs/1704.00028)
-        - [**2019.02 lgans**](https://arxiv.org/abs/1902.05687)
-      - Lipschitz implementation: 
-        - [2017.01 weight clipping in wgans](https://arxiv.org/abs/1701.07875)
-        - [2017.04 gp in wgans-gp](https://arxiv.org/abs/1704.00028)
-        - [2017.09 lp in wgans-lp](https://arxiv.org/abs/1709.08894) 
-        - [2018.02 sn in sngan](https://arxiv.org/abs/1802.05957)
-        - [**2019.02 maxgp in lgans**](https://arxiv.org/abs/1902.05687)
-        - [**2019.04 maxal**](https://arxiv.org/abs/1904.01184)
-      - Sample quality:
-        - [2016.06 labelgans](https://arxiv.org/abs/1606.03498)
-        - [2016.10 acgans](https://arxiv.org/abs/1610.09585)
-        - [2015.11 catgans](https://arxiv.org/abs/1511.06390) 
-        - [**2017.03 amgans**](https://arxiv.org/abs/1703.02000) 
-          - possible extension: am-wgans / am-lgans
-        - [2019.11 another catgans](https://arxiv.org/abs/1911.06641)
-      - GANs based tools:
-        - [**2017.02 diverse colorization**](https://arxiv.org/abs/1702.06674)
-        - [2017.03 cycle gans](https://arxiv.org/abs/1703.10593)
-        - [**2018.11 ot-cycle gans**](https://arxiv.org/abs/1811.06284) 
-        - [**2020.03 large scale ot with cycle consistency**](https://arxiv.org/abs/2003.06635)
-      - Generalization issue / sub-optimum analysis: 
-        - [2017.03 generalization and equilibrium](https://arxiv.org/abs/1703.00573) 
-        - [2017.11 discrimination-generalization tradeoff](https://arxiv.org/abs/1711.02771)
-        - [2018-xx convex duality framework](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
-        - One of my ongoing work, appear soon.
-      - Optimization: 
-        - [2016.11 unrolled](https://arxiv.org/abs/1611.02163) 
-        - [2017.05 the numerics](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
-        - [2017.06 two time scale](https://arxiv.org/abs/1706.08500)     
-        - [2017.06 optimization is locally stable](https://arxiv.org/abs/1706.04156)     
-        - [2017.11 training gans with optimism](https://arxiv.org/abs/1711.00141) 
-        - [2018.01 which do actually converge?](https://arxiv.org/abs/1801.04406)
-      - Latent space / GANs with AE:
-        - [2016.05 bi-gans](https://arxiv.org/abs/1605.09782) 
-        - [2016.06 ali](https://arxiv.org/abs/1606.00704)
-        - [2016.06 info-gans](https://arxiv.org/abs/1606.03657)           
-        - [2016.12 mode regularized gans](https://arxiv.org/abs/1612.02136)
-        - [2017.06 deli-gans](https://arxiv.org/abs/1706.02071)    
-        - [2018.04 manifold guided training](https://arxiv.org/abs/1804.04391)
-        - [2018.05 metric-embeddings / bourgan](https://arxiv.org/abs/1805.07674)
-        - [2018.06 disconnected manifold learning](https://arxiv.org/abs/1806.00880)
-        - [2019.11 multimodal distributions](https://arxiv.org/abs/1911.06663)    
-      - Network architecture: 
-        - [2015.06 laplace gans](https://arxiv.org/abs/1506.05751) 
-        - [2015.11 dcgans](https://arxiv.org/abs/1511.06434) 
-        - [2017.10 progressive growing gans](https://arxiv.org/abs/1710.10196) 
-        - [2018.05 self attention gans](https://arxiv.org/abs/1805.08318) 
-        - [2018.09 big gans](https://arxiv.org/abs/1809.11096) 
-      - Systematic study / test: 
-        - [2017.06 do actually learn the distribution?](https://arxiv.org/abs/1706.08224) 
-        - [2017.10 many paths to equilibrium](https://arxiv.org/abs/1710.08446) 
-        - [2017.11 are gans created equal?](https://arxiv.org/abs/1711.10337)
-        - [2018.07 the gans landscape / regularization and normalization](https://arxiv.org/abs/1807.04720)
-    
-    - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is valid to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. But after that, I still don't think the key problem lies in optimization.
-    
-    - I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting, which I also follow.
-    
-    - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs, and at the same time, provides one taxonomy. If necessary, the authors can email me or use pull requests.
-    
-    - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
+- The key properties of adaptive learning rate methods (e.g., Adam):
 
-- About first-order optimization and Adam:
+  - Gradient's scale invariance: 
 
-  - The key properties of adaptive learning rate methods (e.g., Adam):
-  
-    - Gradient's scale invariance: 
-    
-      - sqrt(v_t) plays the role of estimating the scale of the gradient. m_t plays the role of estimating the gradient.
-      - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed. 
-      - Hence achieve the scale invariance.
-        - It benefits the tuning of learning rate;
-        - And especially benefits setting where gradients have different scales, e.g., multi-layer deep learning because gradient in deep learning at different layers tend to be dramatically different.
-        
-    - Fixed parameter update step size, whose scale is basically just equal to the learning rate:
-    
-      - This is the direct consequence of scale removing or scale invariance.
+    - sqrt(v_t) plays the role of estimating the scale of the gradient. m_t plays the role of estimating the gradient.
+    - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed. 
+    - Hence achieve the scale invariance.
+      - It benefits the tuning of learning rate;
+      - And especially benefits setting where gradients have different scales, e.g., multi-layer deep learning because gradient in deep learning at different layers tend to be dramatically different.
+
+  - Fixed parameter update step size, whose scale is basically just equal to the learning rate:
+
+    - This is the direct consequence of scale removing or scale invariance.
+
+    - g_t or m_t is divided by its estimated scale sqrt(v_t) and hence is normalized.
+
+    - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically the learning rate lr.
+
+  - Parameter's scale hence is very important in adaptive learning rate methods and has an jsut equivalent influence/effect as the learning rate:
+
+    - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model paramter is changed by 0.1%.
+    - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model paramter is changed also by 0.1%.
+    - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model paramter is changed also by 0.01%.
+    - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model paramter is changed also by 0.01%.
+    - One can empirically verify that: (1) and (2) are equivalant; (3) and (4) are equivalant.
+    - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
+      - y=w*x === y=w'/k*x
+      - where w' = k*w, i.e., its weight is scaled up by k     
       
-      - g_t or m_t is divided by its estimated scale sqrt(v_t) and hence is normalized.
-      
-      - So its scale becomes 1, hence the scale of (lr * m_t/sqrt(vt)) is basically the learning rate lr.
-      
-    - Parameter's scale hence is very important in adaptive learning rate methods and has an jsut equivalent influence/effect as the learning rate:
-    
-      - (1) if the weight is of scale 1 and the lr is 0.001, for each update, the model paramter is changed by 0.1%.
-      - (2) if the weight is of scale 10 and the lr is 0.01, for each update, the model paramter is changed also by 0.1%.
-      - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model paramter is changed also by 0.01%.
-      - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model paramter is changed also by 0.01%.
-      - One can empirically verify that: (1) and (2) are equivalant; (3) and (4) are equivalant.
-      - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
-        - y=w*x === y=w'/k*x
-        - where w' = k*w, i.e., its weight is scaled up by k     
-  
-  - AdaSfhit Explained:
+- GANs summary / review:
 
-    - We will first view Adam from the first-order optimization viewpoint, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order viewpoint.
+  - Popular research topics in GANs include:
+    - Objective function: 
+      - [2014.06 original gans](https://arxiv.org/abs/1406.2661) 
+      - [2014.11 conditional gans / cgans](https://arxiv.org/abs/1411.1784)
+      - [2016.11 least square gans](https://arxiv.org/abs/1611.04076) 
+        - [2016.09 energy based gans](https://arxiv.org/abs/1609.03126)
+        - [2016.10 density ratio](https://arxiv.org/abs/1610.02920)
+        - [2017.07 f-gans](https://arxiv.org/abs/1707.04385)      
+      - [2017.01 towards principled methods](https://arxiv.org/abs/1701.04862)
+      - [2017.01 wgans](https://arxiv.org/abs/1701.07875)
+      - [2017.04 wgans-gp](https://arxiv.org/abs/1704.00028)
+      - [**2019.02 lgans**](https://arxiv.org/abs/1902.05687)
+    - Lipschitz implementation: 
+      - [2017.01 weight clipping in wgans](https://arxiv.org/abs/1701.07875)
+      - [2017.04 gp in wgans-gp](https://arxiv.org/abs/1704.00028)
+      - [2017.09 lp in wgans-lp](https://arxiv.org/abs/1709.08894) 
+      - [2018.02 sn in sngan](https://arxiv.org/abs/1802.05957)
+      - [**2019.02 maxgp in lgans**](https://arxiv.org/abs/1902.05687)
+      - [**2019.04 maxal**](https://arxiv.org/abs/1904.01184)
+    - Sample quality:
+      - [2016.06 labelgans](https://arxiv.org/abs/1606.03498)
+      - [2016.10 acgans](https://arxiv.org/abs/1610.09585)
+      - [2015.11 catgans](https://arxiv.org/abs/1511.06390) 
+      - [**2017.03 amgans**](https://arxiv.org/abs/1703.02000) 
+        - possible extension: am-wgans / am-lgans
+      - [2019.11 another catgans](https://arxiv.org/abs/1911.06641)
+    - GANs based tools:
+      - [**2017.02 diverse colorization**](https://arxiv.org/abs/1702.06674)
+      - [2017.03 cycle gans](https://arxiv.org/abs/1703.10593)
+      - [**2018.11 ot-cycle gans**](https://arxiv.org/abs/1811.06284) 
+      - [**2020.03 large scale ot with cycle consistency**](https://arxiv.org/abs/2003.06635)
+    - Generalization issue / sub-optimum analysis: 
+      - [2017.03 generalization and equilibrium](https://arxiv.org/abs/1703.00573) 
+      - [2017.11 discrimination-generalization tradeoff](https://arxiv.org/abs/1711.02771)
+      - [2018-xx convex duality framework](http://papers.nips.cc/paper/7771-a-convex-duality-framework-for-gans)
+      - One of my ongoing work, appear soon.
+    - Optimization: 
+      - [2016.11 unrolled](https://arxiv.org/abs/1611.02163) 
+      - [2017.05 the numerics](http://papers.nips.cc/paper/6779-the-numerics-of-gans)
+      - [2017.06 two time scale](https://arxiv.org/abs/1706.08500)     
+      - [2017.06 optimization is locally stable](https://arxiv.org/abs/1706.04156)     
+      - [2017.11 training gans with optimism](https://arxiv.org/abs/1711.00141) 
+      - [2018.01 which do actually converge?](https://arxiv.org/abs/1801.04406)
+    - Latent space / GANs with AE:
+      - [2016.05 bi-gans](https://arxiv.org/abs/1605.09782) 
+      - [2016.06 ali](https://arxiv.org/abs/1606.00704)
+      - [2016.06 info-gans](https://arxiv.org/abs/1606.03657)           
+      - [2016.12 mode regularized gans](https://arxiv.org/abs/1612.02136)
+      - [2017.06 deli-gans](https://arxiv.org/abs/1706.02071)    
+      - [2018.04 manifold guided training](https://arxiv.org/abs/1804.04391)
+      - [2018.05 metric-embeddings / bourgan](https://arxiv.org/abs/1805.07674)
+      - [2018.06 disconnected manifold learning](https://arxiv.org/abs/1806.00880)
+      - [2019.11 multimodal distributions](https://arxiv.org/abs/1911.06663)    
+    - Network architecture: 
+      - [2015.06 laplace gans](https://arxiv.org/abs/1506.05751) 
+      - [2015.11 dcgans](https://arxiv.org/abs/1511.06434) 
+      - [2017.10 progressive growing gans](https://arxiv.org/abs/1710.10196) 
+      - [2018.05 self attention gans](https://arxiv.org/abs/1805.08318) 
+      - [2018.09 big gans](https://arxiv.org/abs/1809.11096) 
+    - Systematic study / test: 
+      - [2017.06 do actually learn the distribution?](https://arxiv.org/abs/1706.08224) 
+      - [2017.10 many paths to equilibrium](https://arxiv.org/abs/1710.08446) 
+      - [2017.11 are gans created equal?](https://arxiv.org/abs/1711.10337)
+      - [2018.07 the gans landscape / regularization and normalization](https://arxiv.org/abs/1807.04720)
 
-    - Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the non-convergence comes from the positive correlation of the current adaptive term v_t and the current gradient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 
+  - I personally do not follow the optimization path, because I don't think the key problem lies in optimization (and I'm also not sure whether it is valid to regard GANs as a Game). Until Adam is shown to not guarantee its convergence, we then have a work AdaShfit to solve the non-convergence issue of Adam. But after that, I still don't think the key problem lies in optimization.
 
-    - The net update factor of g_t can be understood as its accumulated step-size in the entire optimization, because its influence can be delayed to future updates, due to first moment estimation or otherwise named the moving average windows. The influence of g_t decreases at a rate of \beta1 each step and is initialized with a ratio 1-\beta1, which sums to one. (This is similar to Momentum and SGD, where the net update factor of each gradient is also one.)
+  - I believe GANs are not equally created. In the objective function line, GANs is getting mature and mature. In the network architecture line, it is also getting mature and mature (though maybe network architecture is not the key, so I would not put much effort in this line). Application tools with GANs are also interesting, which I also follow.
 
-    - However, for adaptive learning rate methods (Adam as a representative), the net update factor of each gradient does not have a fixed value (hence, not the same) nor follow a fixed distribution (which we believe have a similar effect as fixed value choices, Momentum and SGD). 
+  - This summary is not aimed to be inclusive, but as a guide on the road-map / development history of GANs, and at the same time, provides one taxonomy. If necessary, the authors can email me or use pull requests.
 
-    - And obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the central thought of the AdaShift solution. 
+  - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
 
-    - To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such a condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. A new version of AdaShift is coming and we will fix this issue. Looking forward to the new *free-lunch solution* to the non-convergence issue of Adam! 
+- AdaSfhit Explained:
 
-    - Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t and to follow a fixed distribution. In this sense, the role of v_t is to *estimate the scale of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural networks, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
+  - We will first view Adam from the first-order optimization viewpoint, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order viewpoint.
 
-    - Because v_t is to somehow estimate the scale of the gradient, it can also estimate the overall gradient scale, or layer-wise / block-wise gradient scale. In doing this, it reduces to adaptive learning rate SGD (with each block sharing the same v_t, the overall gradient scale in each block is removed, but the relative gradient scale is kept in the block), which makes it extremely suitable for optimizing a multi-layer neural network. 
+  - Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the non-convergence comes from the positive correlation of the current adaptive term v_t and the current gradient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 
 
-    - The update rule of v_t can even be generalized. Try and find more interesting update rules, as long as it estimates the scale of the gradient!
+  - The net update factor of g_t can be understood as its accumulated step-size in the entire optimization, because its influence can be delayed to future updates, due to first moment estimation or otherwise named the moving average windows. The influence of g_t decreases at a rate of \beta1 each step and is initialized with a ratio 1-\beta1, which sums to one. (This is similar to Momentum and SGD, where the net update factor of each gradient is also one.)
+
+  - However, for adaptive learning rate methods (Adam as a representative), the net update factor of each gradient does not have a fixed value (hence, not the same) nor follow a fixed distribution (which we believe have a similar effect as fixed value choices, Momentum and SGD). 
+
+  - And obviously, if v_t is independent of g_t and follows a fixed distribution, then, the net update factor of g_t, i.e., its accumulated step-size, follows a fixed distribution (which then leads to a convergence guarantee that similar to Momentum and SGD). This is the central thought of the AdaShift solution. 
+
+  - To achieve "follow a fixed distribution", we propose to temporally shift the gradient for the calculation of v_t. In such a condition, if "moving average windows" is disabled (i.e., \beta1=0), and if g_t follows a fixed distribution, then v_t also follows a fixed distribution. However, "if moving average windows is disabled" turns out to be the limitation of AdaShfit. Nevertheless, we propose to shift the gradient for multiple steps, then, the "leave-out" gradients that still not get involved to v_t can be moving averaged or simply averaged if you like. A new version of AdaShift is coming and we will fix this issue. Looking forward to the new *free-lunch solution* to the non-convergence issue of Adam! 
+
+  - Given the previous anatomy of adaptive learning rate methods, the key of its convergence is to force v_t to be independent of g_t and to follow a fixed distribution. In this sense, the role of v_t is to *estimate the scale of the gradient* (because we know that the key benefit of adaptive learning rate method is scale invariance, which means, the scale of the gradient is removed, making it easy to use, especially in multi-layer neural networks, where the gradient' scales can change dramatically in different layers. given the gradient's scale invariance, it is much easier to turn a good learning rate). 
+
+  - Because v_t is to somehow estimate the scale of the gradient, it can also estimate the overall gradient scale, or layer-wise / block-wise gradient scale. In doing this, it reduces to adaptive learning rate SGD (with each block sharing the same v_t, the overall gradient scale in each block is removed, but the relative gradient scale is kept in the block), which makes it extremely suitable for optimizing a multi-layer neural network. 
+
+  - The update rule of v_t can even be generalized. Try and find more interesting update rules, as long as it estimates the scale of the gradient!
