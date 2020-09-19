@@ -113,7 +113,8 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - sqrt(v_t) plays the role of estimating the scale of the gradient, while m_t plays the role of estimating the gradient.
     - When g_t or m_t is divided by sqrt(v_t), the scale of the gradient is removed and hence achieve the scale invariance.
     - It benefits the tuning of learning rate, and especially benefits settings where gradients have different scales, e.g., multi-layer deep neural network where gradients at different layers tend to be dramatically different.
-    - {g_i}_(i=0)^T is equivalent to {k*g_i}_(i=0)^T for any k>0.
+    
+    - is equivalent to 
     - The scale of m_t/sqrt(v_t) is approximately 1.
         - v_t^2 is approximately var(g_t)+ E(g_t)^2.
         - The standard deviation is approximately 1, if E[g_t ]=0 and \beta_1=0.
