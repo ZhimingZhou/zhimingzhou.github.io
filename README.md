@@ -138,7 +138,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
   - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
   
     - y = w * x     <-->     y = w' / k * x
-    - where w' = k*w, i.e., its weight is scaled up by k
+    - where w' = k * w, i.e., its weight is scaled up by k
     
 - GANs summary / review:
 
