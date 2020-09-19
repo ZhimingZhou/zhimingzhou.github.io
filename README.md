@@ -132,9 +132,12 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - (3) if the weight is of scale 10 and the lr is 0.001, for each update, the model paramter is changed also by 0.01%.
     - (4) if the weight is of scale 1 and the lr is 0.0001, for each update, the model paramter is changed also by 0.01%.
     - One can empirically verify that: (1) and (2) are equivalant; (3) and (4) are equivalant.
-    - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
-      - y=w*x === y=w'/k*x
-      - where w' = k*w, i.e., its weight is scaled up by k     
+    
+  - To test different weight scales while keep the model's equivalency, one may use the reparameterization trick:
+  
+    - y=w*x === y=w'/k*x
+    
+    - where w' = k*w, i.e., its weight is scaled up by k     
       
 - GANs summary / review:
 
