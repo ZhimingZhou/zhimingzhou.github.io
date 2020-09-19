@@ -96,16 +96,15 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
   - I think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should be a 's', always.
 
-  - GANs has both a PLURAL sense and a SINGULAR sense, and they share the SAME form, i.e., "GANs". 
+    - GANs has both a PLURAL sense and a SINGULAR sense, and they share the SAME form, i.e., "GANs". 
 
-    - When terming as a concept, we should use SINGULAR sense;
-    - When referring to a specific GANs, like WGANs, we should also use the SINGULAR sense;
-    - But when referring to a class / set / type of GANs, we should use the PLURAL sense.
+      - When terming as a concept, we should use SINGULAR sense;
+      - When referring to a specific GANs, like WGANs, we should also use the SINGULAR sense;
+      - But when referring to a class / set / type of GANs, we should use the PLURAL sense.
 
-  - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
+    - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
 
-    - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
-
+      - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
 
 - The key properties of adaptive learning rate methods (e.g., Adam):
 
@@ -116,11 +115,6 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     - Hence achieve the scale invariance.
     - It benefits the tuning of learning rate, and especially benefits settings where gradients have different scales, e.g., multi-layer deep neural network where gradients at different layers tend to be dramatically different.
     
-      - {𝑔_𝑖}<sub>(𝑖=0)^</sub><sup>𝑇</sup> is equivalent to {𝑘∙𝑔_𝑖}<sub>(𝑖=0)^</sub><sup>𝑇</sup> for any 𝑘>0.
-      - The scale of 𝑚_𝑡/√(𝑣_𝑡) is approximately 1. (𝑣_𝑡^2≈var(g_t )+Ε(g_t )^2).
-      - The standard deviation is approximately 1, if 𝐸[𝑔_𝑡 ]=0 and 𝛽_1=0. 
-      - If 𝑔_𝑡 is constant, then 𝑚_𝑡/√(𝑣_𝑡 ) equals 1. 
-
   - Fixed parameter update step size, and its scale is basically just equal to the learning rate:
 
     - This is the direct consequence of scale removing or scale invariance.
