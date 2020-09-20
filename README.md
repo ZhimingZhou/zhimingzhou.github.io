@@ -86,7 +86,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## MISC
 
-- GANs & its usages:
+- **GANs & its usages:
 
   - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
@@ -106,7 +106,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
       - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
 
-- The key properties of adaptive learning rate methods (e.g., Adam):
+- **The key properties of adaptive learning rate methods (e.g., Adam):
 
   - Gradient's scale invariance: 
 
@@ -144,7 +144,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     
     - Though we can assume a commonly used parameter initialization scheme. But it is not necessarily true. 
     
-- GANs summary / review:
+- **GANs summary / review:
 
   - Popular research topics in GANs include:
     - Objective function: 
@@ -219,7 +219,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
   - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
 
-- AdaSfhit Explained:
+- **AdaSfhit Explained:
 
   - We will first view Adam from the first-order optimization viewpoint, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order viewpoint.
 
