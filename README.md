@@ -117,8 +117,8 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
       - The scale of m_t/sqrt(v_t) is approximately 1.
         - Becaue v_t^2 is approximately var(g_t) + E(g_t)^2.
         - The standard deviation is approximately 1, if E[g_t]=0 and \beta_1=0.
-        - If g_t is constant, then m_t/sqrt(v_t) equals 1.
-
+        - If g_t is constant, then m_t/sqrt(v_t) equals 1.     
+          
     - It benefits the tuning of learning rate, and especially benefits settings where gradients have different scales, e.g., multi-layer deep neural networks where gradients at different layers tend to be dramatically different.
     
   - Fixed parameter update step size, and its scale is basically just equal to the learning rate:
