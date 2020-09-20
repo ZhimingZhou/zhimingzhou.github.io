@@ -116,7 +116,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
     
       - {g_i}\_(i=0)^T is equivalent to {k*g_i}\_(i=0)^T for any k>0.
       - The scale of m_t/sqrt(v_t) is approximately 1.  
-        - Becaue v_t^2 is approximately var(g_t) + E(g_t)^2.    
+        - Because v_t^2 is approximately var(g_t) + E(g_t)^2.    
         - The standard deviation is approximately 1, if E[g_t]=0 and \beta_1=0.  
         - If g_t is constant, then m_t/sqrt(v_t) equals 1.     
           
@@ -140,7 +140,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
       - y = w * x     <-->     y = w' / k * x
       - where w' = k * w, i.e., the weights are scaled up by k
 
-  - So give the learning rate while do not tell the parameter scale actually tell nothing.
+  - So give the learning rate while do not tell the parameter scale actually tells nothing.
     
     - Though we can assume a commonly used parameter initialization scheme. But it is not necessarily true. 
     
@@ -220,8 +220,6 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
   - By the way, I use "google related articles" & [google scholar](https://scholar.google.com/) & [google](https://www.google.com/) & [arXiv](https://arxiv.org/) to efficiently finish this paper search, tracing, and summary.
 
 - **AdaSfhit Explained:**
-
-  - We will first view Adam from the first-order optimization viewpoint, but with v_t playing the rule of gradient scale estimation, it then somehow connects to the traditional second-order viewpoint.
 
   - Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the non-convergence comes from the positive correlation of the current adaptive term v_t and the current gradient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 
 
