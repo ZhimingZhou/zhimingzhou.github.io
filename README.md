@@ -104,8 +104,6 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
     - For the possessive, we can use "the xxx of GANs" or "GANs' xxx", e.g., the convergence of GANs, GANs' training.
 
-      - Sometimes, it might be more natural to directly use "GANs xxx", e.g., GANs objective. 
-
 - **The key properties of adaptive learning rate methods (e.g., Adam):**
 
   - Gradient's scale invariance: 
