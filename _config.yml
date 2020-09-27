@@ -1,4 +1,23 @@
-theme: minima
-title: Zhiming Zhou
+title: Zhiming Zhou's Homepage
+author: Zhiming Zhou
+email: heyohaizhou [at] gmail [dot] com
+# description: Welcome.
+
+# theme: minima
+# minima:
+#   date_format: "%b %-d, %Y"
+#   skin: dark
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+layout: default
+show_excerpts: False
+
+header_pages:
+  - index.md
+  - photos.md
+  - posts.md
+
 google_analytics: UA-176330428-1
-layout: post
+github_username: ZhimingZhou
+rss: rss
