@@ -13,7 +13,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 ## Documents & Links
 
-[CV](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/resources/Zhiming_Zhou_Resume.pdf) 
+[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
   
 [DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
 
@@ -26,7 +26,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<sup>+</sup> + MaxAL + Many Related Analyses)
 - **Zhiming Zhou**, [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to the Journal of Machine Learning Research (JMLR).
-- \[[arXiv](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/resources/Lipschitz_Regularized_GANs.pdf)\]
+- \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
@@ -71,7 +71,7 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 
 ## Talk Slides
 
-[On the Key Problems of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/resources/On%20the%20Key%20Problems%20of%20GANs.pptx)
+[On the Key Problems of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Key%20Problems%20of%20GANs.pptx)
 <pre>
 - Training issues  
   - Instability (LGANs)    
@@ -82,9 +82,9 @@ Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
 - Generalization issue (Ongoing) 
 </pre> 
 
-[On the Convergence Issues of GANs](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/resources/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
+[On the Convergence Issues of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
 <pre>
 - Training instability (LGANs)  
 - Unreachable optimum (MaxGP, AdaShift, Ongoing)  
 - Generalization issue (Ongoing)   
-</pre> 
+</pre>

@@ -4,6 +4,6 @@ title: Photos
 permalink: /Photos/
 ---
 
-![Me](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/resources/1.png)
+![Me](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/1.png)
 
-![Me](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/master/resources/2.jpg)
+![Me](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/2.jpg)

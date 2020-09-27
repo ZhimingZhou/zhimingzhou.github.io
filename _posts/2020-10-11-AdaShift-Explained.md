@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AdaShift Explained
+author: Zhiming Zhou
 permalink: /Posts/AdaShift-Explained/
 date: 2020-08-29
 ---

@@ -1,23 +1,11 @@
 title: Zhiming Zhou's Homepage
-author: Zhiming Zhou
-email: heyohaizhou [at] gmail [dot] com
-# description: Welcome.
-
-theme: minima
-minima:
-  date_format: "%b %-d, %Y"
-  skin: dark
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-layout: default
-show_excerpts: False
-
+theme: jekyll-theme-cayman
+google_analytics: UA-176330428-1
 header_pages:
   - index.md
   - photos.md
   - posts.md
-
-google_analytics: UA-176330428-1
-github_username: ZhimingZhou
-rss: rss
+plugins:
+ - jekyll-seo-tag
+disqus:
+  shortname: my_disqus_shortname
