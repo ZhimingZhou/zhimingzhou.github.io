@@ -2,6 +2,7 @@
 layout: default
 title: Photos
 permalink: /Photos/
+comment_issue_id: 1
 ---
 
  <div>

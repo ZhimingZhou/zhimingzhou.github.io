@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+comment_issue_id: 1
 ---
 
 ## Biography
