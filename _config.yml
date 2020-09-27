@@ -3,10 +3,10 @@ author: Zhiming Zhou
 email: heyohaizhou [at] gmail [dot] com
 # description: Welcome.
 
-# theme: minima
-# minima:
-#   date_format: "%b %-d, %Y"
-#   skin: dark
+theme: minima
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
