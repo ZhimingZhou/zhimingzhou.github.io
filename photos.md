@@ -4,6 +4,10 @@ title: Photos
 permalink: /Photos/
 ---
 
-![Me](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/1.png)
-
-![Me](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/2.jpg)
+ <div>
+	{% for image in site.static_files %}
+	    {% if image.path contains '/photos/shows/' %}  
+	        <img src="{{image.path}}" alt="{{ image.name }}" />
+	    {% endif %}  
+	{% endfor %}
+</div>
