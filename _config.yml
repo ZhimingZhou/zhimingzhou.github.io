@@ -7,5 +7,3 @@ header_pages:
   - posts.md
 plugins:
  - jekyll-seo-tag
-disqus:
-  shortname: my_disqus_shortname
