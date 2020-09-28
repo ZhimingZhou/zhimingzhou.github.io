@@ -15,11 +15,11 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 [CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
   
-[DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
-
 [Github](https://github.com/ZhimingZhou)
 
 [Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
+
+[DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
   
 ## Selected Publications 
 
