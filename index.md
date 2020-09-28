@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Home
-comment_issue_id: 1
+layout: default
+comments: false
 ---
 
 ## Biography

@@ -1,6 +1,6 @@
 ---
-layout: posts
 title: Posts
+layout: posts
+comments: true
 permalink: /Posts/
-comment_issue_id: 1
 ---

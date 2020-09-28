@@ -19,12 +19,9 @@
 
       {{ content }}
 
-      <script>
-        {% include jquery-3.4.1.min.js %}
-        {% include chatbutton.js %}
-      </script>
-
-      {% include comments.html element=".post-content" github_account="ZhimingZhou/zhimingzhou.github.io" require_cookie_consent="false" %}
+      {%- if site.disqus_shortname -%}
+        {%- include disqus_comments.html -%}
+      {%- endif -%}
 
       {%- include footer.html -%}
 
