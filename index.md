@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-comments: false
 ---
 
 ## Biography

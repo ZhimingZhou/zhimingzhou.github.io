@@ -1,7 +1,6 @@
 ---
 title: Photos
 layout: default
-comments: true
 permalink: /Photos/
 ---
 

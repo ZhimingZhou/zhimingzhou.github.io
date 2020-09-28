@@ -6,4 +6,3 @@ header_pages:
   - posts.md
 plugins:
  - jekyll-seo-tag
-disqus_shortname: https-zhimingzhou-github-io
