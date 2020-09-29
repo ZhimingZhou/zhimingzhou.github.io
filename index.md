@@ -12,7 +12,7 @@ Zhiming’s research is mainly focused on generative adversarial networks (GANs)
 
 Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs.
 
-Zhiming is going to be an assistant professor at the Department of Computer Science, School of Information Management and Engineering, Shanghai University of Finance and Economics.
+Zhiming is going to be an assistant professor at the Department of Computer Science, School of Information Management and Engineering, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/).
 
 ## Documents & Links
 
