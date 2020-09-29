@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AdaShift Explained
 author: Zhiming Zhou
-permalink: /Posts/AdaShift-Explained/
 date: 2020-08-29
+title: AdaShift Explained
+permalink: /Posts/AdaShift-Explained/
 ---
 
 - Adam is proved to have a convergence issue, and counterexamples can be constructed. In the paper of AdaShift, we show that the non-convergence comes from the positive correlation of the current adaptive term v_t and the current gradient g_t, because the update rule is v_t = \beta2 v_(t-1) + (1-\beta2) g_t, i.e., the correlation factor is 1-\beta2. Such a positive correlation would lead to bias net update factor. 

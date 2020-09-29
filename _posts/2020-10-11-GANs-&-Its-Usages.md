@@ -1,9 +1,9 @@
 ---
 layout: post
-title: GANs & Its Usages
 author: Zhiming Zhou
-permalink: /Posts/GANs-&-Its-Usages/
 date: 2020-08-26
+title: GANs & Its Usages
+permalink: /Posts/GANs-&-Its-Usages/
 ---
 
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 

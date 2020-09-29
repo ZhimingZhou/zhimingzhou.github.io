@@ -1,0 +1,87 @@
+---
+layout: post
+author: Zhiming Zhou
+date: 2020-08-30
+title: Prospective Student
+permalink: /Posts/Prospective-Student/
+top: true
+---
+
+I’m going to be an assistant professor at the Department of Computer Science, School of Information Management and Engineering, Shanghai University of Finance and Economics. I’m now looking for talented students with enthusiasm for theoretical research in machine learning and artificial intelligence.
+
+- Our target: 
+
+	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
+	- I personally prefer fundamental and theoretical research.
+	- It includes research on theoretical problems, applications or tools with theoretical guarantee.
+	- We DO NOT publish results without theoretical guarantee/justification.
+
+<!--  -->
+- The first thing you will need to do when you become one of my students:
+
+	- Read 20 – 50 papers of first tier conferences/journals. 
+		- In any topic: the one you are interested in, or the one I am interested in, or just any.
+	
+	<!--  -->
+	- Make sure to understand the following key information in each paper:
+		- What is the problem they are solving? Why is the problem important?
+		- What is their main contribution? What is the key difference compared with the prior works?
+	- What is your judgement? What do you think of this paper, the problem, and their ideas?
+	
+	<!--  -->
+	- Optionally, summarize these in a document and classify them.
+
+<!--  -->
+- What will be your research topic:
+
+	- We DO NOT assign topics to students in principle.
+	- Find your research topic on your own by reading papers and I will guide you.
+	- When you have read 50 papers and still haven't found a suitable/interested topic. I will give my suggestions.
+
+<!--  -->
+- Our principle of authorship:
+
+	- We determine the authorship according to the contributions.
+	- The tentative rules are as follows:
+
+		- We will use a scoring system.
+		- For work that is heavy in coding:
+			- Idea: 2 points.
+			- Coding: 3 points.
+			- Writing: 1 point.
+		- For work that is heavy in theory:
+			- Idea: 2 points.
+			- Theorem / Proof: 2 points.
+			- Coding: 1 point.
+			- Writing: 1 point.
+		
+	<!--  -->
+	- The points of each part will be allocated to persons who participated in according to their contributions.
+	- For conferences/journals that typically do not regard authors as of equal contribution:
+		- The authors with higher contribution points have higher priority to choose the position in the author list.
+		- For authors that share similar contributions, the low-rankings can argue for a claim of equal contribution.
+			- e.g., their difference in points is less than 1.
+	- People with too little contribution will not be regarded as one of the authors in principle.
+		- e.g. get less than 1 point, even though somehow participated in.
+
+<!--  -->
+- How much money will you get each month:
+
+	- It will typically be the same as the standard or the amount that is allowable and I can afford without pressure.
+	- If you want more, I can apply for some founding but you will need to do some work for the founding.
+
+<!--  -->
+- How much effort of mine will you get to guide you:
+
+	- It mainly depends on how much effort you put in.
+	- But surely priority will be given to projects that I’m particularly interested in.
+	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed.
+
+<!--  -->
+- [Tentatively] Inner students and outer students:
+
+	- Given the possibility of large diversities, I’m planning to tentatively use the inner and outer mechanism.
+	- Typically students will first become the outer students.
+	- Students who have great potential and passion will be invited as inner students.
+	- The outer students will be guided with regular meetings or surely can also make appointments with me to discuss or chat.
+	- The inner students will be invited to discuss more with me or work with me on my ongoing/planned projects.

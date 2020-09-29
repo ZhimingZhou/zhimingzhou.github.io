@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Photos
 permalink: /Photos/
-layout: default
 ---
 
 <div>

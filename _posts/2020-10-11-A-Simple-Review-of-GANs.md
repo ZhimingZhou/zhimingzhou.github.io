@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Simple Review of GANs
 author: Zhiming Zhou
-permalink: /Posts/A-Simple-Review-of-GANs/
 date: 2020-08-27
+title: A Simple Review of GANs
+permalink: /Posts/A-Simple-Review-of-GANs/
 ---
 
 - Popular research topics in GANs include:
