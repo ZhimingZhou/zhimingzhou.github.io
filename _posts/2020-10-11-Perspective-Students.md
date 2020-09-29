@@ -48,18 +48,17 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 
 	- We determine the authorship according to the contribution.
 	- The tentative rules are as follows:
-
 		- We will use a scoring system.
 		- Idea: 1 ~ 2 points, depends on the importance.
 		- Theory: 1 ~ 4 points, depends on the importance and complexity.
 		- Coding: 0 ~ 3 points, depends on the workload.
 		- Writing: 1 ~ 2 point, depends on the complexity and length.
-		
+	
 	<!--  -->
 	- The points of each part will be allocated to persons who participated in according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have higher priority to choose the position in the author list.
-		- For authors that share similar contribution, the relatively lower-rankings can argue for a claim of equal contribution.
+		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
 			- e.g., their difference in contribution points is less than 1.
 	- People with too little contribution will not be regarded as one of the authors in principle.
 		- e.g., get less than 1 point, even though somehow participated in.
@@ -84,5 +83,5 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- Typically students will first become the outer students.
 	- Students who have great potential and passion will be invited as inner students.
 	- The outer students will be guided with regular meetings
-		- And surely can also make appointments with me to discuss or chat anytime.
+		- And surely can also make appointments with me to discuss or chat at any time.
 	- The inner students will be invited to discuss more with me or work with me on my ongoing/planned projects.

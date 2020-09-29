@@ -12,6 +12,8 @@ Zhiming’s research is mainly focused on generative adversarial networks (GANs)
 
 Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs.
 
+Zhiming is going to be an assistant professor at the Department of Computer Science, School of Information Management and Engineering, Shanghai University of Finance and Economics.
+
 ## Documents & Links
 
 [CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
@@ -22,6 +24,8 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 [DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
   
+[Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
+
 ## Selected Publications 
 
 Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<sup>+</sup> + MaxAL + Many Related Analyses)
