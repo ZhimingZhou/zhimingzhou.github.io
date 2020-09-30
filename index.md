@@ -10,7 +10,7 @@ Zhiming obtained his Ph.D. in Computer Science from [Shanghai Jiao Tong Universi
 
 Zhiming’s research is mainly focused on generative adversarial networks (GANs). Leading a group in the [Apex Lab](http://apex.sjtu.edu.cn/members) at Shanghai Jiao Tong University, he also works on first-order optimization, optimal transport, and other related problems. Prior to that, Zhiming worked on computer graphics in the early years of his Ph.D. (2014-2016), focused on surface reflectance acquisition.
 
-Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs.
+Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs. As a long-term goal, Zhiming would like to contribute to the foundation of artificial intelligence and artificial general intelligence.
 
 Zhiming is going to be an assistant professor at the Department of Computer Science, School of Information Management and Engineering, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/).
 
