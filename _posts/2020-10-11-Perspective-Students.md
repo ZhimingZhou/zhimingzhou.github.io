@@ -49,7 +49,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- We determine the authorship according to the contribution.
 	- The tentative rules are as follows:
 		- We will use a scoring system.
-		- Idea: 1 ~ 2 points, depends on the importance.
+		- Idea: 0 ~ 2 points, depends on the importance.
 		- Theory: 1 ~ 4 points, depends on the importance and complexity.
 		- Coding: 0 ~ 3 points, depends on the workload.
 		- Writing: 1 ~ 2 point, depends on the complexity and length.
@@ -82,6 +82,6 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- Given the large diversities between students that may exist, I’m planning to tentatively use the inner and outer mechanism.
 	- Typically students will first become the outer students.
 	- Students who have great potential and passion will be invited as inner students.
-	- The outer students will be guided with regular meetings
+	- The outer students will be guided with regular meetings.
 		- And surely can also make appointments with me to discuss or chat at any time.
 	- The inner students will be invited to discuss more with me or work with me on my ongoing/planned projects.
