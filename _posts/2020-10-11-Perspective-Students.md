@@ -32,6 +32,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 		- Try to criticise their motivation, their assumption, their logic, their solution, their experiment.
 		- Is there any limitation? Did they overlook any important issues/aspects?
 	- Can you do better?
+	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
 	
 	<!--  -->
 	- Optionally, summarize these in a document and classify (and rank) them.
@@ -50,9 +51,9 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- The tentative rules are as follows:
 		- We will use a scoring system.
 		- Idea: 0 ~ 2 points, depends on the importance.
-		- Theory: 1 ~ 4 points, depends on the importance and complexity.
+		- Theory: 1 ~ 4 points, depends on the importance and workload.
 		- Coding: 0 ~ 3 points, depends on the workload.
-		- Writing: 1 ~ 2 point, depends on the complexity and length.
+		- Writing: 1 ~ 2 point, depends on the complexity and workload.
 	
 	<!--  -->
 	- The points of each part will be allocated to persons who participated in according to their contribution.
