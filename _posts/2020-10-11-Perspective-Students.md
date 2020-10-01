@@ -56,7 +56,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 		- Writing: 1 ~ 2 points, depends on the workload.
 	
 	<!--  -->
-	- The points of each part will be allocated to persons who participated in according to their contribution.
+	- The points of each part will be allocated to persons who participated in, according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have higher priority to choose the position in the author list.
 		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
@@ -86,3 +86,10 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- The outer students will be guided with regular meetings.
 		- And surely can also make appointments with me to discuss or chat at any time.
 	- The inner students will be invited to discuss more with me or work with me on my ongoing/planned projects.
+
+
+<!--  -->
+- My style:
+
+	- I am generally very nice, but upon research, I am rather critical.
+	- I will guide and force you to think deeply, clearly and logically (because we have to do the right thing in the right way).
