@@ -30,7 +30,7 @@ Zhiming is going to be an assistant professor at the Department of Computer Scie
 
 Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<sup>+</sup> + MaxAL + Many Related Analyses)
 - **Zhiming Zhou**, [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
-- Submitted to the Journal of Machine Learning Research (JMLR).
+- Submitted to the Journal of Machine Learning Research (JMLR Submission).
 - \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
