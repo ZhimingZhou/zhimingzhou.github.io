@@ -13,7 +13,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 
 	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
 	- I personally prefer fundamental and theoretical research.
-		- It includes theoretical study on fundamental [theory (level 1), tools (level 2), or applications (level 3)].
+		- It includes theoretical study on fundamental [theories (level 1), tools (level 2), or applications (level 3)].
 	- I personally prefer problems that have practical impacts and solutions that can be theoretically verified.
 	- We DO NOT publish results without theoretical guarantee/justification.
 
@@ -29,7 +29,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 		- What is their main contribution? What is the key difference compared with the prior works?
 	- What is your judgement? What do you think of this paper, the problem, and their ideas?
 	- Do you have any criticism on them?
-		- Try to criticise their motivation, their assumption, their logic, their solution, their experiment.
+		- Try to criticize their motivation, their assumption, their logic, their solution, their experiment.
 		- Is there any limitation? Did they overlook any important issues/aspects?
 	- Can you do better?
 	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
@@ -42,7 +42,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 
 	- We DO NOT assign topics to students in principle.
 	- Find your research topic on your own by reading papers and I will always be there if you need any guidance.
-	- When you have read 50 papers and still haven't found a suitable/interested topic. I will give my suggestions.
+	- When you have read 50 papers and still haven't found a suitable/interested topic, I will give my suggestions.
 
 <!--  -->
 - Our principle of authorship:
