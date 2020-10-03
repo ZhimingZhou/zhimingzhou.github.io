@@ -93,3 +93,11 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 
 	- I am generally very nice, but upon research, I am rather critical.
 	- I will guide and force you to think deeply, clearly, and logically (because we have to do the right thing in the right way).
+
+<!--  -->
+- Characteristics that I value most:
+	
+	- Confidence and enthusiasm.
+	- Open mind and critical thinking.
+	- Good intuition and good at math.
+	- Good at expressing and clear logic.
