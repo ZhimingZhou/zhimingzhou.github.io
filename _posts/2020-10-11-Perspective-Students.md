@@ -74,19 +74,8 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 - How much effort of mine will you get to guide you:
 
 	- It mainly depends on how much effort you put in.
-		- But surely priority will be given to projects that I’m particularly interested in.
+		- But surely priority will be given to projects that I’m particularly interested in and students who have great potential and passion.
 	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed.
-
-<!--  -->
-- [Tentatively] Inner students and outer students:
-
-	- Given the large diversities between students that may exist, I’m planning to tentatively use the inner and outer mechanism.
-	- Typically students will first become the outer students.
-	- Students who have great potential and passion will be invited as inner students.
-	- The outer students will be guided with regular meetings.
-		- And surely can also make appointments with me to discuss or chat at any time.
-	- The inner students will be invited to discuss more with me or work with me on my ongoing/planned projects.
-
 
 <!--  -->
 - My style:
