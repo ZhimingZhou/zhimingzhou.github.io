@@ -34,12 +34,11 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- Can you do better?
 	
 	<!--  -->
-	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
-	
-	<!--  -->
 	- Optionally, summarize these in a document and classify (and rank) them.
 	
-
+	<!--  -->
+	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
+	
 <!--  -->
 - What will be your research topic:
 
