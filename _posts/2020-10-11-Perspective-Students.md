@@ -27,15 +27,18 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving? Why is the problem important?
 		- What is their main contribution? What is the key difference compared with the prior works?
-	- What is your judgement? What do you think of this paper, the problem, and their ideas?
+	- What is your judgement? What do you think of this paper, the problem, and their contribution?
 	- Do you have any criticism on them?
-		- Try to criticize their motivation, their assumption, their logic, their solution, their experiment.
+		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects?
 	- Can you do better?
+	
+	<!--  -->
 	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
 	
 	<!--  -->
 	- Optionally, summarize these in a document and classify (and rank) them.
+	
 
 <!--  -->
 - What will be your research topic:
