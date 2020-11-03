@@ -28,7 +28,8 @@ Zhiming is going to be an assistant professor at the Department of Computer Scie
 
 ## Selected Publications 
 
-Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<sup>+</sup> + MaxAL + Many Related Analyses)
+<!--
+Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup>, MaxGP<sup>+</sup>, MaxAL)
 - **Zhiming Zhou**, [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to the Journal of Machine Learning Research (JMLR Submission).
 - \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
@@ -36,8 +37,9 @@ Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<su
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>This is a substantially extended version of "Lipschitz Generative Adversarial Nets", aimed at a comprehensive understanding on the training instability issue and convergence of GANs. We provide a thoroughgoing study upon Lipschitz regularization and Lipschitz regularized GANs, both theoretically and empirically. We thereby achieve consistently superior performance over WGANs with theoretical justification. We provide a systematic study on the gradient issues of unregularized GANs (including the gradient uninformativeness) and their practical behaviors, from which we venture a conjecture on the mechanisms of how unregularized GANs work in practice and find a fundamental cause of mode collapse, i.e., the locality of their gradient information. We study the differentiation properties of GANs with the help of the envelope theorem and realize that the current GANs is essentially a sample-based framework and the information interchange between the generator and the discriminator must be passed via the gradients of the discriminative function with respect to generated samples, because the discriminator takes a sample as input.</details>
+-->
 
-Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
+Lipschitz Generative Adversarial Nets. (LGANs, MaxGP)
 - **Zhiming Zhou**, Jiadong Liang, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
 - \[[arXiv](https://arxiv.org/abs/1902.05687)\]
