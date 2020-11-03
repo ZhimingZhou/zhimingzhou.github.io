@@ -83,7 +83,9 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 - My style:
 
 	- I am generally very nice, but upon research, I am rather critical.
-	- I will guide and force you to think deeply, clearly, and logically (because we have to do the right thing in the right way).
+	- I will guide and force you to think deeply, clearly, and logically.
+		- Because we have to do the right thing in the right way.
+		- There are too many errors all over the world in all kinds of disciplines.
 
 <!--  -->
 - Characteristics that I value most:
