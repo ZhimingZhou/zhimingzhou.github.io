@@ -84,8 +84,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 
 	- I am generally very nice, but upon research, I am rather critical.
 	- I will guide and force you to think deeply, clearly, and logically.
-		- Because we have to do the right thing in the right way.
-		- There are too many errors all over the world in all kinds of disciplines.
+		- Because there are too many errors all over the world and we have to do the right thing in the right way.
 
 <!--  -->
 - Characteristics that I value most:
