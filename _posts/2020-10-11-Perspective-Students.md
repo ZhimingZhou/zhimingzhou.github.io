@@ -85,6 +85,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 	- I am generally very nice, but upon research, I am rather critical.
 	- I will guide and force you to think deeply, clearly, and logically.
 		- Because there are too many errors all over the world and we have to do the right thing in the right way.
+		- Deeper thinking usually lead to simpler/better solution.
 
 <!--  -->
 - Characteristics that I value most:
