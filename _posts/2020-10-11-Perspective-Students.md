@@ -90,7 +90,7 @@ I’m going to be an assistant professor at the Department of Computer Science, 
 <!--  -->
 - Characteristics that I value most:
 	
-	- Confidence and enthusiasm.
+	- Confidence and passion.
 	- Open mind and critical thinking.
 	- Good intuition and good at math.
 	- Good at expressing and clear logic.
