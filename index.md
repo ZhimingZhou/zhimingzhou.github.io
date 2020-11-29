@@ -29,7 +29,7 @@ Zhiming is going to be an assistant professor at the Department of Computer Scie
 ## Selected Publications 
 
 <!--
-Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<sup>+</sup> + MaxAL)
+Lipschitz Regularized Generative Adversarial Nets.
 - **Zhiming Zhou**, [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to the Journal of Machine Learning Research (JMLR Submission).
 - \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
@@ -39,7 +39,7 @@ Lipschitz Regularized Generative Adversarial Nets. (LGANs<sup>+</sup> + MaxGP<su
 - <details><summary>Click to expand a brief introduction.</summary>This is a substantially extended version of "Lipschitz Generative Adversarial Nets", aimed at a comprehensive understanding on the training instability issue and convergence of GANs. We provide a thoroughgoing study upon Lipschitz regularization and Lipschitz regularized GANs, both theoretically and empirically. We thereby achieve consistently superior performance over WGANs with theoretical justification. We provide a systematic study on the gradient issues of unregularized GANs (including the gradient uninformativeness) and their practical behaviors, from which we venture a conjecture on the mechanisms of how unregularized GANs work in practice and find a fundamental cause of mode collapse, i.e., the locality of their gradient information. We study the differentiation properties of GANs with the help of the envelope theorem and realize that the current GANs is essentially a sample-based framework and the information interchange between the generator and the discriminator must be passed via the gradients of the discriminative function with respect to generated samples, because the discriminator takes a sample as input.</details>
 -->
 
-Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
+Lipschitz Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
 - \[[arXiv](https://arxiv.org/abs/1902.05687)\]
@@ -50,7 +50,7 @@ Lipschitz Generative Adversarial Nets. (LGANs + MaxGP)
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that: (1) GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
-AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaShift)
+AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 - The Seventh International Conference on Learning Representations (ICLR, 2019).
 - \[[arXiv](https://arxiv.org/abs/1810.00143)\]
@@ -59,7 +59,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. (AdaS
   \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
 
-Activation Maximization Generative Adversarial Nets. (AM-GANs)
+Activation Maximization Generative Adversarial Nets.
 - **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/files/cv.pdf), Shu Rong, [Yuxuan Song](https://yuxuansong.github.io/files/yuxuan_20Mar.pdf), [Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 - The Sixth International Conference on Learning Representations (ICLR, 2018).
 - \[[arXiv](https://arxiv.org/abs/1703.02000)\]
@@ -68,7 +68,7 @@ Activation Maximization Generative Adversarial Nets. (AM-GANs)
   \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
 - <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs had been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, are unraveled.</details>
 
-Sparse-as-Possible SVBRDF Acquisition. (SparseSVBRDF)
+Sparse-as-Possible SVBRDF Acquisition.
 - **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
 - ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016. 
 - \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
