@@ -16,15 +16,19 @@ Zhiming is going to be an assistant professor at the Department of Computer Scie
 
 ## Documents & Links
 
-[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
+[[Doc] CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
   
-[Github](https://github.com/ZhimingZhou)
+[[Link] Github](https://github.com/ZhimingZhou)
 
-[Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
+[[Link] Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
 
-[DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
+[[Link] DBLP](https://dblp.org/pers/hd/z/Zhou:Zhiming)
   
-[Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
+[[Link] Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
+
+[[Slide] On the Key Problems of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Key%20Problems%20of%20GANs.pptx)
+
+[[Slide] On the Convergence Issues of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
 
 ## Selected Publications 
 
