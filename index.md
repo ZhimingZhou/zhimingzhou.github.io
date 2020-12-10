@@ -24,12 +24,6 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
   
 [Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
 
-<!--
-[On the Key Problems of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Key%20Problems%20of%20GANs.pptx)
-
-[On the Convergence Issues of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
--->
-
 ## Selected Publications 
 
 <!--
@@ -79,25 +73,3 @@ Sparse-as-Possible SVBRDF Acquisition.
   \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
   \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - <details><summary>Click to expand a brief introduction.</summary>We significantly reduce the number of images required for spatially-varying surface reflectance (SVBRDF) acquisition, by solving an exact low-rank representation and chasing an extreme sparsity. The number of images required dropped from thousands to tens, and high-quality SVBRDF acquisition from a single image became possible for the first time.</details>
-
-<!--
-## Talk Slides
-
-[On the Key Problems of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Key%20Problems%20of%20GANs.pptx)
-<pre>
-- Training issues  
-  - Instability (LGANs)    
-  - Unreachable optimum (MaxGP, AdaShift, Ongoing)    
-- Sample Quality issues  
-  - Complex dataset (AM-GANs)    
-  - Latent space (TODO)    
-- Generalization issue (Ongoing) 
-</pre> 
-
-[On the Convergence Issues of GANs](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/On%20the%20Convergence%20Issues%20of%20GANs.pptx)
-<pre>
-- Training instability (LGANs)  
-- Unreachable optimum (MaxGP, AdaShift, Ongoing)  
-- Generalization issue (Ongoing)   
-</pre>
--->
