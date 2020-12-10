@@ -7,7 +7,7 @@ permalink: /Posts/Prospective-Student/
 top: true
 ---
 
-I’m now an assistant professor at the Department of Computer Science, School of Information Management and Engineering, Shanghai University of Finance and Economics. I’m looking for talented students with enthusiasm for fundamental/theoretical research in machine learning and/or artificial intelligence.
+I’m an assistant professor at the Department of Computer Science, School of Information Management and Engineering, Shanghai University of Finance and Economics. And I’m looking for talented students with enthusiasm for fundamental/theoretical research in machine learning and/or artificial intelligence.
 
 - Our target:
 
