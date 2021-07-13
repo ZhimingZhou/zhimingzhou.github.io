@@ -84,7 +84,7 @@ I’m looking for talented students with enthusiasm for fundamental/theoretical 
 
 	- I am generally very nice, but upon research, I am rather critical.
 	- I will guide and force you to think deeply, clearly, and logically.
-		- Because there are too many errors all over the world and we have to do the right thing in the right way.
+		- Superficial understanding often leads to specious conclusions.
 		- Deeper thinking usually leads to simpler/better solution.
 
 <!--  -->
