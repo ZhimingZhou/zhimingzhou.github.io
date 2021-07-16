@@ -25,15 +25,15 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 [Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
 
 ## Selected Publications 
-<!-- 
-Lipschitz Regularized Generative Adversarial Nets: Theory, Algorithms, and Beyond.
+
+<!-- Understanding the Effectiveness of Lipschitz Regularization in Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to the Journal of Machine Learning Research (JMLR Submission).
 - \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
-- <details><summary>Click to expand a brief introduction.</summary>This is a substantially extended version of "Lipschitz Generative Adversarial Nets", aimed at a comprehensive understanding on the convergence issue of GANs. In this paper, we provide a thorough theoretical study upon Lipschitz regularization and Lipschitz regularized GANs, which deepens the current understanding of Lipschitz regularization for GANs and dissects how Lipschitz regularization resolve the gradient uninformativeness issue. Furthermore, in chasing a clear understanding of the implications and practical behaviors of the gradient uninformativeness issue, we build a systematic explanation on common convergence issues of GANs, including how unregularized GANs work in practice and the cause of mode collapse, with which we further identify and elaborate the key factors to the convergence of GANs. </details> -->
+- <details><summary>Click to expand a brief introduction.</summary>This is a full version of our previous paper "Lipschitz Generative Adversarial Nets". With 60 pages of details, we aim at a systematic analysis on the convergence of GANs. We start by providing a thorough theoretical study upon Lipschitz regularization and Lipschitz regularized GANs, which deepens the current understanding of Lipschitz regularization for GANs and dissects how Lipschitz regularization resolve the gradient uninformativeness issue. Then, in chasing a clear understanding of the implications and practical behaviors of the gradient uninformativeness issue, we build a systematic explanation on common convergence issues of GANs, including how unregularized GANs work in practice and the cause of mode collapse. Finally, we identify and elaborate the key factors to the convergence of GANs. </details> -->
 
 Lipschitz Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
