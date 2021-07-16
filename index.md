@@ -25,15 +25,15 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 [Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
 
 ## Selected Publications 
-
-<!-- Lipschitz Regularized Generative Adversarial Nets: Theory, Algorithms, and Beyond.
+<!-- 
+Lipschitz Regularized Generative Adversarial Nets: Theory, Algorithms, and Beyond.
 - **Zhiming Zhou**, Jiadong Liang, [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to the Journal of Machine Learning Research (JMLR Submission).
 - \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
-- <details><summary>Click to expand a brief introduction.</summary>This is a substantially extended version of "Lipschitz Generative Adversarial Nets", aimed at a comprehensive understanding on the training instability issue and convergence of GANs. Besides a more detailed analysis upon Lipschitz regularization and Lipschitz regularized GANs, in chasing a clear understanding of the implications and practical behaviors of the gradient uninformativeness issue, we build a systematic explanation on common convergence issues of GANs, including how unregularized GANs work in practice and the cause of mode collapse. We also identity and elaborate the key factors of convergence guarantee. </details> -->
+- <details><summary>Click to expand a brief introduction.</summary>This is a substantially extended version of "Lipschitz Generative Adversarial Nets", aimed at a comprehensive understanding on the convergence issue of GANs. In this paper, we provide a thorough theoretical study upon Lipschitz regularization and Lipschitz regularized GANs, which deepens the current understanding of Lipschitz regularization for GANs and dissects how Lipschitz regularization resolve the gradient uninformativeness issue. Furthermore, in chasing a clear understanding of the implications and practical behaviors of the gradient uninformativeness issue, we build a systematic explanation on common convergence issues of GANs, including how unregularized GANs work in practice and the cause of mode collapse, with which we further identify and elaborate the key factors to the convergence of GANs. </details> -->
 
 Lipschitz Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
@@ -44,7 +44,7 @@ Lipschitz Generative Adversarial Nets.
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
-- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function and demonstrate its superiority against the divergence perspective. Under a generalized formulation of GANs, we show that: (1) GANs with unrestricted discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization on the discriminative function can generally resolve this issue and guarantee the convergence of GANs, leading to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
+- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
