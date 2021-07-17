@@ -26,7 +26,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 ## Selected Publications 
 
-<!-- Understanding the Effectiveness of Lipschitz Regularization in Generative Adversarial Nets.
+<!-- Understanding the Effectiveness of Lipschitz Regularization in the Discriminator of Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - Submitted to the Journal of Machine Learning Research (JMLR Submission).
 - \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
