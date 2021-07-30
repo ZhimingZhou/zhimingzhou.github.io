@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Zhiming Zhou
-date: 2020-08-30
-title: Prospective Student
-permalink: /Posts/Prospective-Student/
+date: 2021-07-30
+title: Prospective Students
+permalink: /Posts/Prospective-Students/
 top: true
 ---
 
