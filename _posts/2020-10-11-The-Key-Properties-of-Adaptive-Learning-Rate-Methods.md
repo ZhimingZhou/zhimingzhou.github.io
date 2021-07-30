@@ -3,7 +3,7 @@ layout: post
 author: Zhiming Zhou
 date: 2020-08-27
 title: The Key Properties of Adaptive Learning Rate Methods
-permalink: /Posts/The-Key-Properties-of-Adaptive-Learning-Rate-Methods/
+permalink: /Posts/The-Key-Properties-of-Adaptive-Optimizers/
 ---
 
 - Gradient's scale invariance: 
