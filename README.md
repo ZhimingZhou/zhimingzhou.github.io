@@ -8,4 +8,4 @@ View it in the web form at [https://zhimingzhou.github.io/](https://zhimingzhou.
 
 - some potentially important documents are collected in [assets/](https://github.com/ZhimingZhou/zhimingzhou.github.io/tree/master/assets/).
 
-- some of my photos can be found in [assets/photos/](https://github.com/ZhimingZhou/zhimingzhou.github.io/tree/master/assets/photos/).
+- some photos can be found in [assets/photos/](https://github.com/ZhimingZhou/zhimingzhou.github.io/tree/master/assets/photos/).
