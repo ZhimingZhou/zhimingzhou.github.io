@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zhiming Zhou
-date: 2020-08-27
+date: 2020-08-28
 title: A Simple Review of GANs
 permalink: /Posts/A-Simple-Review-of-GANs/
 ---
