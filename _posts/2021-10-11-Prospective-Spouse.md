@@ -22,12 +22,15 @@ I'm currently single and I'm looking forward to meeting my destined partner.
   
   - I wish she has a good physiognomy.
 
+<!--  -->
 - Distance and location
 
-  - I wish we can be in the same city, and I currently believe Shanghai in one of the best cities in the world.
-  - I don't think start a relationship in a distance is a good idea and it is better to know each other in depth before starting a relationship.
+  - I wish we can be in the same city and I currently believe Shanghai is one of the best cities in the world.
+  - I don't think starting a relationship at a distance is a good idea and it is essential to know each other in-depth.
 
+<!--  -->
 - Parenthood
 
   - I wish we can have one or two children in the future.
   - I wish we can raise them largely by ourselves, including their early years.
+
