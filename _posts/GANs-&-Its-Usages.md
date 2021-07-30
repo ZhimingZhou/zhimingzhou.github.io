@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zhiming Zhou
-date: 2020-08-26
+date: 2020-08-29
 title: GANs & Its Usages
 permalink: /Posts/GANs-&-Its-Usages/
 ---
