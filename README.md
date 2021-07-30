@@ -7,5 +7,3 @@ View it in the web form at [https://zhimingzhou.github.io/](https://zhimingzhou.
 - *.md in [_post/](https://github.com/ZhimingZhou/zhimingzhou.github.io/tree/master/_posts/) are the posts.
 
 - some potentially important documents are collected in [assets/](https://github.com/ZhimingZhou/zhimingzhou.github.io/tree/master/assets/).
-
-- some photos can be found in [assets/photos/](https://github.com/ZhimingZhou/zhimingzhou.github.io/tree/master/assets/photos/).
