@@ -40,3 +40,4 @@ I'm currently single and I'm looking forward to meeting my destined partner.
   - I am not talkative, especially on things that I believe is not interesting.
   - I do not like online communication tools and prefer face-to-face communication.
   - It is essential for me to have enough time to be alone, to digest all kind of information and gain inspiration.
+ 
