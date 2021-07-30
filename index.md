@@ -22,7 +22,7 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 [DBLP](https://dblp.org/pid/56/321.html)
   
-[Prospective Student](https://zhimingzhou.github.io/Posts/Prospective-Student/)
+[Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
 ## Selected Publications 
 
