@@ -12,7 +12,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 - Desired attributes 
 
   - I wish she is moral and decent.
-  - I wish she is kind and mild (won't easily get spiteful or angry).
+  - I wish she is mild and kind.
   
   - I wish she is vigorous and positive.
   - I wish she has a clear understanding of life.
@@ -46,4 +46,5 @@ I'm currently single and I'm looking forward to meeting my destined partner.
   <!--
   - I wish she is smart and wise.
   - I wish she is knowledgeable and thoughtful.
+  - won't easily get angry or spiteful
   -->
