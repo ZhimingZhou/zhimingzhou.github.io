@@ -9,12 +9,12 @@ top: false
 
 I'm currently single and I'm looking forward to meeting my destined partner.
 
-- Desired attributes 
+- Desired attributes
 
   - I wish she is moral and decent.
   - I wish she is mild and kind.
   
-  - I wish she is vigorous and positive.
+  - I wish she is positive and vigorous.
   - I wish she has a clear understanding of life.
   
   - I wish she has a good physiognomy.
@@ -28,7 +28,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 <!--  -->
 - Relationship
   
-  - I wish we can be intimate, while at the time independent of and respect each other. 
+  - I wish we can be intimate, while at the time independent of and respect each other.
   - For a healthy relationship, I think it is of great importance that we both have our own careers/pursuits.
 
 <!--  -->
