@@ -28,7 +28,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 <!--  -->
 - Relationship
   
-  - I wish we can be intimate, while at the time independent of and respect each other.
+  - I wish we can be intimate, while at the same time independent of and respect each other.
   - For a healthy relationship, I think it is of great importance that we both have our own careers/pursuits.
 
 <!--  -->
@@ -42,6 +42,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 
   - I am not talkative on things that I believe are not interesting.
   - I do not like online communication tools and prefer face-to-face communication.
+  - For things that I do not fully understand, I tend to think in a very rational way.
  
   <!--
   - I wish she is smart and wise.
