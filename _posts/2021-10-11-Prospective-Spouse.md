@@ -15,10 +15,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
   - I wish she is mild and kind.
   
   - I wish she is positive and vigorous.
-  - I wish she has a good physiognomy.
-
   - I wish she is smart and thoughtful.
-  - I wish she has a clear understanding of life.
 
 <!--  -->
 - Distance and location
