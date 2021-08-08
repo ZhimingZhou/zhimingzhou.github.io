@@ -37,11 +37,3 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 
   - I wish we can have one or two children in the future.
   - I wish we can raise them largely by ourselves, including their early years.
-
-<!--  -->
-- Warnings
-
-  - I tend to think in a very rational way.
-  - I do not like online communication tools and prefer face-to-face communication.
-  
-<!--   - I am not talkative on things that I believe are not interesting. -->
