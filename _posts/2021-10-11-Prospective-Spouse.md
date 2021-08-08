@@ -28,9 +28,3 @@ I'm currently single and I'm looking forward to meeting my destined partner.
   
   - I wish we can be intimate, while at the same time independent of each other.
   - For a healthy relationship, I think it is of great importance that we both have our own careers/pursuits.
-
-<!--  -->
-- Parenthood
-
-  - I wish we can have one or two children in the future.
-  - I wish we can raise them largely by ourselves, including their early years.
