@@ -21,7 +21,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 - Distance and location
 
   - I wish we can be in the same city and I currently believe Shanghai is one of the best cities in the world.
-  - I don't think starting a relationship at a distance is a good idea and it is essential to know each other in-depth.
+  - I don't think starting a relationship at a distance is a good idea and it is essential to know each other in depth.
 
 <!--  -->
 - Relationship
