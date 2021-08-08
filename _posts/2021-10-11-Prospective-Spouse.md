@@ -41,6 +41,7 @@ I'm currently single and I'm looking forward to meeting my destined partner.
 <!--  -->
 - Warnings
 
-  - I am not talkative on things that I believe are not interesting.
+  - I tend to think in a very rational way.
   - I do not like online communication tools and prefer face-to-face communication.
-  - For things that I do not fully understand, I tend to think in a very rational way.
+  
+<!--   - I am not talkative on things that I believe are not interesting. -->
