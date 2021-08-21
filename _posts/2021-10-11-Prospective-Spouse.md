@@ -28,3 +28,9 @@ I'm currently single and I'm looking forward to meeting my long-awaited girl.
   
   - I wish we can be intimate, while at the same time independent of each other.
   - For a healthy relationship, I think it is of great importance that we both have our own careers/pursuits.
+
+<!--  -->
+<!-- - Life
+
+  - Life is a journey and a practice.
+  - Nothing is bad, while only some of them make you happy. -->
