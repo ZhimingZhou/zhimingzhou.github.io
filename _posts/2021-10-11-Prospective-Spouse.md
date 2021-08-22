@@ -7,7 +7,7 @@ permalink: /Posts/Prospective-Spouse/
 top: false
 ---
 
-I'm currently single and I'm looking forward to meeting my long-awaited girl.
+I'm currently single, and I'm looking forward to meeting my long-awaited girl.
 
 - Desired attributes
 
@@ -20,7 +20,7 @@ I'm currently single and I'm looking forward to meeting my long-awaited girl.
 <!--  -->
 - Distance and location
 
-  - I wish we can be in the same city and I currently believe Shanghai is one of the best cities in the world.
+  - I wish we can be in the same city, and I currently believe Shanghai is one of the best cities in the world.
   - I don't think starting a relationship at a distance is a good idea. It is essential to know each other in depth.
 
 <!--  -->
@@ -28,3 +28,9 @@ I'm currently single and I'm looking forward to meeting my long-awaited girl.
   
   - I wish we can be intimate, while at the same time independent of each other.
   - For a healthy relationship, I think it is of great importance that we both have our own careers/pursuits.
+
+<!--  -->
+- Interest and communication
+  
+  - I don't like talking about things that I know very well, especially when I believe it will not nourish the other side.
+  - I’m curious about all kinds of things and knowledge. Nevertheless, I don’t like information that sounds superficial.
