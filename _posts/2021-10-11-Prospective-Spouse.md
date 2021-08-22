@@ -33,4 +33,4 @@ I'm currently single, and I'm looking forward to meeting my long-awaited girl.
 - Interest and communication
   
   - I don't like talking about things that I know very well, especially when I believe it will not nourish the other side.
-  - I’m curious about all kinds of things and knowledge. Nevertheless, I don’t like information that sounds superficial.
+  - I’m curious about all kinds of things and knowledge. Nevertheless, I don’t like superficial information.
