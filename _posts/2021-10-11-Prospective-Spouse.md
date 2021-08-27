@@ -29,8 +29,9 @@ I'm currently single, and I'm looking forward to meeting my long-awaited girl.
   - I wish we can be intimate, while at the same time independent of each other.
   - For a healthy relationship, I think it is of great importance that we both have our own careers/pursuits.
 
-<!--  -->
+<!--
 - Interest and communication
   
   - I don't like talking about things that I know very well, especially when I believe it will not nourish the other side.
   - I’m curious about all kinds of things and knowledge. Nevertheless, I don’t like superficial information.
+  -->
