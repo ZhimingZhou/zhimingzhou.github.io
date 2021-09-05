@@ -7,7 +7,7 @@ permalink: /Posts/Prospective-Spouse/
 top: false
 ---
 
-I'm currently single, and I'm looking forward to meeting my long-awaited girl.
+I'm currently single (since 2016), and I'm looking forward to meeting my long-awaited girl.
 
 - Desired attributes
 
