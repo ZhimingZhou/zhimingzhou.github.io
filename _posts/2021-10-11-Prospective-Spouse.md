@@ -5,6 +5,7 @@ date: 2021-06-01
 title: Prospective Spouse
 permalink: /Posts/Prospective-Spouse/
 top: false
+hide: true
 ---
 
 I'm currently single (since 2016), and I'm looking forward to meeting my long-awaited.
