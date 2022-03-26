@@ -9,7 +9,7 @@ top: true
 
 I’m looking for talented students with enthusiasm for fundamental research in machine learning and/or artificial intelligence.
 
-- Overall
+- Overall:
 	- I have a very high standard for research and require students to be able to conduct independent research with rigour.
 
 <!--  -->
