@@ -9,6 +9,10 @@ top: true
 
 I’m looking for talented students with enthusiasm for fundamental/theoretical research in machine learning and/or artificial intelligence.
 
+- Overall
+	- I have a very high standard for research and require students to be able to conduct independent research with rigour.
+
+<!--  -->
 - Our target:
 
 	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
@@ -90,7 +94,8 @@ I’m looking for talented students with enthusiasm for fundamental/theoretical 
 <!--  -->
 - Characteristics that I value most:
 	
-	- Confidence and passion.
+	- Confidence, toughness, and perseverance.
 	- Open mind and critical thinking.
+	- Good self-learning ability.
 	- Good intuition and good at math.
 	- Good at expressing and clear logic.
