@@ -66,7 +66,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Characteristics that I value most:	
 	- Confidence, toughness, and perseverance.
-	- Critical thinking, and clear logic.
+	- Critical thinking and clear logic.
 	- Good intuition and good at math.
 	- Good self-learning ability.
 
