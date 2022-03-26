@@ -21,7 +21,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- We DO NOT publish results without theoretical guarantee/justification.
 
 <!--  -->
-- The first thing you will need to do when you become one of my students:
+- The first thing you will need to do when you become one of my students: 
 	- Read 20 ~ 50 papers of first tier conferences/journals.
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	
