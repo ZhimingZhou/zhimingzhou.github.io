@@ -52,7 +52,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have higher priority to choose the position in the author list.
 		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
-			- e.g., their difference in contribution points is less than 1.
+			- E.g., their difference in contribution points is less than 1.
 	- People with too little contribution will not be regarded as one of the authors in principle.
 		- E.g., get less than 1 point, even though somehow participated in.
 
