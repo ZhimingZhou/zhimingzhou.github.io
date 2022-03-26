@@ -14,7 +14,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Our target:
-
 	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
 	- I personally prefer fundamental and theoretical research.
 		- It includes theoretical study on fundamental [theories, tools, or applications].
@@ -23,7 +22,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - The first thing you will need to do when you become one of my students:
-
 	- Read 20 ~ 50 papers of first tier conferences/journals.
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	
@@ -45,14 +43,12 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	
 <!--  -->
 - What will be your research topic:
-
 	- We DO NOT assign topics to students in principle.
 	- Find your research topic on your own by reading papers and I will always be there if you need any guidance.
 	- When you have read 50 papers and still haven't found a suitable/interested topic, I will give my suggestions.
 
 <!--  -->
 - Our principle of authorship:
-
 	- We determine the authorship according to the contribution. The tentative rules are as follows:
 		- We will use a scoring system.
 		- Idea: 0 ~ 2 points, depends on the importance.
@@ -71,28 +67,24 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - How much money will you get each month:
-
 	- It will typically be the same as the standard or the amount that is allowable and I can afford without pressure.
 	- If you want more, I can apply for some founding but you will need to do some work for the founding.
 
 <!--  -->
 - How much effort of mine will you get to guide you:
-
 	- It mainly depends on how much effort you put in.
 		- But surely priority will be given to projects that I’m particularly interested in and students who show great potential.
 	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed.
 
 <!--  -->
 - My style:
-
 	- I am generally very nice, but upon research, I am rather critical.
 	- I will guide and force you to think deeply, clearly, and logically.
 		- Superficial understanding often leads to specious conclusions.
 		- Deeper thinking usually leads to simpler/better solutions.
 
 <!--  -->
-- Characteristics that I value most:
-	
+- Characteristics that I value most:	
 	- Confidence, toughness, and perseverance.
 	- Critical thinking, and clear logic.
 	- Good intuition and good at math.
