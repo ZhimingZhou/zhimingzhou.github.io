@@ -17,7 +17,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
 	- I personally prefer fundamental and theoretical research.
-		- It includes theoretical study on fundamental theories, tools, or applications.
+		- It includes theoretical study on fundamental [theories, tools, or applications].
 	- I personally prefer problems that have practical impacts and solutions that can be theoretically verified.
 	- We DO NOT publish results without theoretical guarantee/justification.
 
