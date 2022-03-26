@@ -48,7 +48,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Theory: 1 ~ 4 points, depends on the importance and workload.
 		- Coding: 0 ~ 3 points, depends on the workload.
 		- Writing: 1 ~ 2 points, depends on the workload.
-	- The points of each part will be allocated to persons who participated in, according to their contribution.
+	- The points of each part will be allocated to persons who participated in according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have higher priority to choose the position in the author list.
 		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
