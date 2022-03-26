@@ -31,7 +31,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving? Why is the problem important?
 		- What is their main contribution? What is the key difference compared with the prior works?
-	
+	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
+	- 
 	<!--  -->
 	- What is your judgement? What do you think of this paper, the problem, and their contribution?
 	- Do you have any criticism on them?
@@ -40,10 +41,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Can you do better?
 	
 	<!--  -->
-	- Optionally, summarize these in a document and classify (and rank) them.
-	
-	<!--  -->
-	- Note that this typically requires a good high-level understanding, but details are not necessary and can be omitted.
+	- Optionally, summarize these in a document and classify (and rank) them.	
 	
 <!--  -->
 - What will be your research topic:
