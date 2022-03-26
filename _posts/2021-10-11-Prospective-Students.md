@@ -58,7 +58,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - My style:
-	- I am generally very nice, but upon research, I am rather critical.
+	- I might be generally very nice, but upon research, I am rather critical.
 	- I will guide and force you to think deeply, clearly, and logically.
 		- Superficial understanding often leads to specious conclusions.
 		- Deeper thinking usually leads to simpler/better solutions.
