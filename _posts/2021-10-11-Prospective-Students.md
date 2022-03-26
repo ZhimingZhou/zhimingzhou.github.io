@@ -69,13 +69,11 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Critical thinking, and clear logic.
 	- Good intuition and good at math.
 	- Good self-learning ability.
+
 <!-- 
-<!--  -->
 - How much money will you get each month:
 	- It will typically be the same as the standard or the amount that is allowable and I can afford without pressure.
 	- If you want more, I can apply for some founding but you will need to do some work for the founding.
-
-<!--  -->
 - How much effort of mine will you get to guide you:
 	- It mainly depends on how much effort you put in.
 		- But surely priority will be given to projects that I’m particularly interested in and students who show great potential.
