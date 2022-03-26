@@ -43,8 +43,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Our principle of authorship:
-	- We determine the authorship according to the contribution. The tentative rules are as follows:
-		- We will use a scoring system.
+	- We determine the authorship according to the contribution. We will use a scoring system. The tentative rules are as follows:
 		- Idea: 0 ~ 2 points, depends on the importance.
 		- Theory: 1 ~ 4 points, depends on the importance and workload.
 		- Coding: 0 ~ 3 points, depends on the workload.
