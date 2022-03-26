@@ -24,8 +24,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - The first thing you will need to do when you become one of my students: 
 	- Read 20 ~ 50 papers of first tier conferences/journals.
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
-	
-	<!--  -->
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving? Why is the problem important?
 		- What is their main contribution? What is the key difference compared with the prior works?
@@ -35,8 +33,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Is there any limitation? Did they overlook any important issues/aspects?
 		- Can you do better?
 	- Note that this typically requires a good high-level understanding, while details are not necessary and can be omitted.
-	
-	<!--  -->
 	- Optionally, summarize these in a document and classify (and rank) them.	
 	
 <!--  -->
@@ -59,7 +55,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
 			- e.g., their difference in contribution points is less than 1.
 	- People with too little contribution will not be regarded as one of the authors in principle.
-		- e.g., get less than 1 point, even though somehow participated in.
+		- E.g., get less than 1 point, even though somehow participated in.
 
 <!--  -->
 - How much money will you get each month:
