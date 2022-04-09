@@ -1,5 +1,6 @@
 ---
 title: Posts
+comments: false
 permalink: /Posts/
 layout: default
 ---
