@@ -15,10 +15,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Our target:
 	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
-	- I personally prefer fundamental and theoretical research.
-		- It includes theoretical study on fundamental [theories, tools, or applications].
-	- I personally prefer problems that have practical impacts and solutions that can be theoretically justified.
-	- We DO NOT publish results without theoretical guarantee/justification.
+	- I personally prefer fundamental and theoretical research that has practical impacts.
 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
@@ -26,20 +23,36 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving? Why is the problem important?
-		- What is their main contribution? What is the key difference compared with the prior works?
+		- What is their main contribution? What is the key difference compared with previous works?
 	- What is your judgement? What do you think of this paper, the problem, and their contribution?
 	- Do you have any criticism on them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects?
 		- Can you do better?
 	- Note that this typically requires a good high-level understanding, while details are not necessary and can be omitted.
-	- Optionally, summarize these in a document and classify (and rank) them.	
+	- Optionally, you can summarize these in a document，and try to orginaize or classify them.
 	
 <!--  -->
 - What will be your research topic:
 	- We DO NOT assign topics to students in principle.
 	- Find your research topic on your own by reading papers and I will always be there if you need any guidance.
 	- When you have read 50 papers and still haven't found a suitable/interested topic, I will give my suggestions.
+
+<!--  -->
+- My style:
+	- I might be generally very nice, but upon research, I am rather critical.
+	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
+		- This may take a long time, but it will be a PREREQUISITE for us to start the real research.
+	- I will guide and force you to think deeply, clearly, and logically. I wish we have the same belief that:
+		- Superficial understanding often leads to specious conclusions.
+		- Deeper thinking usually leads to simpler/better solutions.
+
+<!--  -->
+- Characteristics that I value most:	
+	- Confidence and perseverance.
+	- Critical thinking and clear logic.
+	- Good intuition and good at math.
+	- Good SELF-LEARNING ability.
 
 <!--  -->
 - Our principle of authorship:
@@ -55,20 +68,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 			- E.g., their difference in contribution points is less than 1.
 	- In principle, people with too little contribution will not be regarded as one of the authors.
 		- E.g., get less than 1 point, even though somehow participated in.
-
-<!--  -->
-- My style:
-	- I might be generally very nice, but upon research, I am rather critical.
-	- I will guide and force you to think deeply, clearly, and logically.
-		- Superficial understanding often leads to specious conclusions.
-		- Deeper thinking usually leads to simpler/better solutions.
-
-<!--  -->
-- Characteristics that I value most:	
-	- Confidence, toughness, and perseverance.
-	- Critical thinking and clear logic.
-	- Good intuition and good at math.
-	- Good self-learning ability.
 
 <!-- 
 - How much money will you get each month:
