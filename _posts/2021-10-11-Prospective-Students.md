@@ -41,7 +41,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - My style:
 	- I might be generally very nice, but upon research, I am rather critical.
-	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
+	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works (classic and latest).
 		- This may take a long time, but it will be a PREREQUISITE for us to start the real research.
 	- I will guide and force you to think deeply, clearly, and logically. I wish we have the same belief that:
 		- Superficial understanding often leads to specious conclusions.
