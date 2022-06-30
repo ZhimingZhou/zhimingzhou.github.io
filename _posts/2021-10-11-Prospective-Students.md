@@ -14,23 +14,22 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Our target:
-	- Top research that will be published in first tier conferences/journals, like ICML/NIPS/JMLR.
+	- Top research that will be published in top conferences/journals, like ICML/NIPS/JMLR.
 	- I personally prefer fundamental and theoretical research that has practical impacts.
 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
-	- Read 20 ~ 50 papers of first tier conferences/journals.
+	- Read 20 ~ 50 papers of top conferences/journals.
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving? Why is the problem important?
-		- What is their main contribution? What is the key difference compared with previous works?
-	- What is your judgement? What do you think of this paper, the problem, and their contribution?
+		- What is their main contribution? Why is that important?
+	- What is your judgement? What do you think of this paper?
 	- Do you have any criticism on them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
-		- Is there any limitation? Did they overlook any important issues/aspects?
-		- Can you do better?
-	- Note that this typically requires a good high-level understanding, while details are not necessary and can be omitted.
-	- Optionally, you can summarize these in a document，and try to orginaize or classify them.
+		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
+	- Optionally, you may summarize and orginaize these in a document to help build your own understanding of these topics.
+	- Note that this typically requires a good high-level understanding, while details are often not necessary and can be omitted.
 	
 <!--  -->
 - What will be your research topic:
@@ -40,9 +39,9 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - My style:
-	- I might be generally very nice, but upon research, I am rather critical.
+	- I might be generally very nice, but upon research, I can be rather critical.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
-		- This may take a long time, but it will be a PREREQUISITE for us to start the real research.
+		- This may take a long time, but it will be a PREREQUISITE for us to start the real RESEARCH.
 	- I will guide and force you to think deeply, clearly, and logically. I wish we have the same belief that:
 		- Superficial understanding often leads to specious conclusions.
 		- Deeper thinking usually leads to simpler/better solutions.
@@ -61,13 +60,13 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Theory: 1 ~ 4 points, depends on the importance and workload.
 		- Coding: 0 ~ 3 points, depends on the workload.
 		- Writing: 1 ~ 2 points, depends on the workload.
-	- The points of each part will be allocated to persons who participated in according to their contribution.
+	- The points of each part will be allocated to persons who participated in, according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have higher priority to choose the position in the author list.
 		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
 			- E.g., their difference in contribution points is less than 1.
-	- In principle, people with too little contribution will not be regarded as one of the authors.
-		- E.g., get less than 1 point, even though somehow participated in.
+	- In principle, people with too little contribution will not be regarded as one of the authors, even though somehow participated in.
+		- E.g., get less than 1 point.
 
 <!-- 
 - How much money will you get each month:
