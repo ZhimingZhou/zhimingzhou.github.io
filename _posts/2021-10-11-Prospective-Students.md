@@ -43,8 +43,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take a long time, but it will be a PREREQUISITE for us to start the real RESEARCH.
 	- I will guide and force you to think deeply, clearly, and logically. I wish we have the same belief that:
-		- Superficial understanding often leads to specious conclusions.
-		- Deeper thinking usually leads to simpler/better solutions.
+		- Superficial understanding may lead to specious conclusions.
+		- Deeper thinking can bring simpler/better solutions.
 
 <!--  -->
 - Characteristics that I value most:	
@@ -65,8 +65,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- The authors with higher contribution points have higher priority to choose the position in the author list.
 		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
 			- E.g., their difference in contribution points is less than 1.
-	- In principle, people with too little contribution will not be regarded as one of the authors, even though somehow participated in.
-		- E.g., get less than 1 point.
+	- In principle, people with too little contribution will not be regarded as one of the authors.
+		- E.g., get less than 1 point, even though somehow participated in.
 
 <!-- 
 - How much money will you get each month:
