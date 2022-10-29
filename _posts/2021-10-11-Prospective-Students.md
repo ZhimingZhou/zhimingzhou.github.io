@@ -23,7 +23,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving? Why is the problem important?
-		- What is their main contribution? Why is that important? (compared with previous work)
+		- What is their main contribution? Why is that important? 
+		- What is their main difference compared with previous work? Is it significant?
 	- What is your judgement? What do you think of this paper?
 	- Do you have any criticism on them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
