@@ -31,7 +31,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Are their theoretical/experimental results solid?
 	- Do you have any criticism of them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
-		- Are there any limitations? Did they overlook any important issues/aspects? Can you do better?
+		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
 	- Optionally, you may summarize and organize these in a document to help build your own understanding of these topics.
 	- Note that this typically requires a good high-level understanding, while details are often not necessary and can be omitted.
 	
