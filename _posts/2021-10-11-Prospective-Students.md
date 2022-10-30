@@ -19,20 +19,20 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
-	- Read 20 ~ 50 papers of top conferences/journals.
+	- Read 20 ~ 50 papers from top conferences/journals.
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving?
 		- What is their main contribution?
 		- What is their main difference compared with previous work?
-	- What is your judgement? What do you think of this paper?
+	- What is your judgment? What do you think of this paper?
 		- Is the problem important?
 		- Is their contribution significant?
 		- Are their theoretical/experimental results solid?
-	- Do you have any criticism on them?
+	- Do you have any criticism of them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
-		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
-	- Optionally, you may summarize and orginaize these in a document to help build your own understanding of these topics.
+		- Are there any limitations? Did they overlook any important issues/aspects? Can you do better?
+	- Optionally, you may summarize and organize these in a document to help build your own understanding of these topics.
 	- Note that this typically requires a good high-level understanding, while details are often not necessary and can be omitted.
 	
 <!--  -->
