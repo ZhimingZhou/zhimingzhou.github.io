@@ -27,7 +27,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- What is their main difference compared with previous work?
 	- What is your judgement? What do you think of this paper?
 		- Is the problem important?
-		- Is it a solid work with significant contribution?
+		- Is their contribution significant?
+		- Are their theoretical/experimental results solid?
 	- Do you have any criticism on them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
