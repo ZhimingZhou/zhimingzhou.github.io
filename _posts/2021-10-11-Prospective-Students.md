@@ -22,10 +22,12 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Read 20 ~ 50 papers of top conferences/journals.
 		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
 	- Make sure to understand the following key information in each paper:
-		- What is the problem they are solving? Why is this problem important?
-		- What is their main contribution? Why is that important? 
-		- What is their main difference compared with previous work? Is it significant?
+		- What is the problem they are solving?
+		- What is their main contribution?
+		- What is their main difference compared with previous work?
 	- What is your judgement? What do you think of this paper?
+		- Is the problem important?
+		- Is it a solid work with significant contribution?
 	- Do you have any criticism on them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
