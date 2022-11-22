@@ -14,7 +14,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Our target:
-	- Top research that (at least) can be published in top conferences/journals, like ICML/NIPS/JMLR.
+	- Solid research of significance that can (at least) be published in top conferences/journals, like ICML/NIPS/JMLR.
 	- I personally prefer fundamental and theoretical research that has practical impacts.
 
 <!--  -->
