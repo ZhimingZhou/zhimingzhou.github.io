@@ -10,7 +10,8 @@ top: true
 I’m looking for talented students with enthusiasm for fundamental research in machine learning and/or artificial intelligence.
 
 - Overall:
-	- I have a very high standard for research and require students to be able to conduct rigorous and in-depth research independently.
+	- I have a very high standard for research and require students to be able to conduct RIGOROUS and IN-DEPTH research INDEPENDENTLY.
+	- It can be hard for most students. Applying is only recommended if you think you are extraordinary and plan to work hard.
 
 <!--  -->
 - Our target:
