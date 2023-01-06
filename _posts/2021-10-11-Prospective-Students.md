@@ -11,7 +11,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- It can be hard for most students. Applying is only suggested if you think you are extraordinary and (can be) talented in research.
+	- It can be hard for most students. Applying is only suggested if you think you are extraordinary and talented in research.
 
 <!--  -->
 - Our target:
