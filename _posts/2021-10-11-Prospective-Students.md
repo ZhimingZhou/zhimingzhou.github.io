@@ -65,6 +65,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- New thoughts today;
 		- And so on.
 	- There will be weekly reports in both oral and document.
+		- The document needs to be completed one day before the oral.
 
 <!--  -->
 - Our principle of authorship:
