@@ -62,8 +62,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- You will be required to keep a diary of research, which records:
 		- New things you have learned today;
 		- The summarizations of paper and/or related contents you read today;
-		- New thoughts today;
-		- And so on.
+		- New thoughts today; And so on.
 	- There will be weekly reports in both oral and document.
 		- The document needs to be completed one day before the oral.
 
