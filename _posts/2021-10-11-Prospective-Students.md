@@ -67,7 +67,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- The document needs to be completed one day before the oral.
 
 <!--  -->
-- Our principle of authorship:
+- Principle of authorship:
 	- We determine the authorship according to the contribution. The tentative score-based rules are as follows:
 		- Idea: 0 ~ 2 points, depends on the importance.
 		- Theory: 1 ~ 4 points, depends on the importance and workload.
