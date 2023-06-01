@@ -33,7 +33,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Do you have any criticism of them?
 		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
-	- Optionally, you may summarize and organize these in a document to help build your own understanding of these topics.
 	- Note that this typically requires a good high-level understanding, while details are often not necessary and can be omitted.
 	
 <!--  -->
@@ -57,6 +56,15 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Confidence and perseverance.
 	- Critical thinking and clear logic.
 	- Good intuition and good at math.	
+
+<!--  -->
+- Management:
+	- You will be required to keep a diary of research, which records:
+		- New things you have learned today;
+		- The summarizations of paper and/or related contents you read today;
+		- New thoughts today;
+		- And so on.
+	- There will be weekly reports in both oral and document.
 
 <!--  -->
 - Our principle of authorship:
