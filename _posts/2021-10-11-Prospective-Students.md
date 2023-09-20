@@ -15,7 +15,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Our target:
 	- Top research that (at least) can be published in top conferences/journals, like ICML/NIPS/JMLR.
-	- I personally prefer fundamental and theoretical research that has practical impacts.
+	- I personally prefer fundamental research with theoretical insight that has practical impacts.
 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
@@ -42,7 +42,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - My style:
-	- I might be generally very nice, but upon research, I can be rather critical.
+	- I might be generally very nice, but I can be rather critical upon research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take a long time, but it will be a PREREQUISITE for us to start the real research.
 	- I will guide and force you to think deeply, clearly, and logically. I wish we have the same belief that:
@@ -68,14 +68,14 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Principle of authorship:
 	- We determine the authorship according to the contribution. The tentative score-based rules are as follows:
-		- Idea: 0 ~ 2 points, depends on the importance.
-		- Theory: 1 ~ 4 points, depends on the importance and workload.
-		- Coding: 0 ~ 3 points, depends on the workload.
-		- Writing: 1 ~ 2 points, depends on the workload.
-	- The points of each part will be allocated to persons who participated in, according to their contribution.
+		- Idea: 0 ~ 2 points, depending on the importance.
+		- Theory: 1 ~ 4 points, depending on the importance and workload.
+		- Coding: 0 ~ 3 points, depending on the workload.
+		- Writing: 1 ~ 2 points, depending on the workload.
+	- The points of each part will be allocated to persons who participated, according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
-		- The authors with higher contribution points have higher priority to choose the position in the author list.
-		- For authors that share similar contribution, the relatively lower-ranked can argue for a claim of equal contribution.
+		- The authors with higher contribution points have a higher priority in choosing the position in the author list.
+		- For authors that share similar contributions, the relatively lower-ranked can argue for a claim of equal contribution.
 			- E.g., their difference in contribution points is less than 1.
 	- In principle, people with too little contribution will not be regarded as one of the authors.
 		- E.g., get less than 1 point, even though somehow participated in.
@@ -83,10 +83,10 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!-- 
 - How much money will you get each month:
 	- It will typically be the same as the standard or the amount that is allowable and I can afford without pressure.
-	- If you want more, I can apply for some founding but you will need to do some work for the founding.
+	- If you want more, I can apply for some funding but you will need to do some work for the funding.
 - How much effort of mine will you get to guide you:
 	- It mainly depends on how much effort you put in.
-		- But surely priority will be given to projects that I’m particularly interested in and students who show great potential.
+		- But indeed priority will be given to projects that I’m particularly interested in and students who show great potential.
 	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed. 
  
  - It can be hard for most students. Applying is only suggested if you believe you can somehow be an exception.
