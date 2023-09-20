@@ -15,7 +15,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Our target:
 	- Top research that (at least) can be published in top conferences/journals, like ICML/NIPS/JMLR.
-	- I personally prefer fundamental research with theoretical insight that has practical impacts.
+	- I personally prefer fundamental and theoretical research that has practical impacts.
 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
