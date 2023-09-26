@@ -61,7 +61,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- You will be required to keep a diary of research, which records daily summaries of:
 		- New things you learn;
 		- New papers and/or related contents you read;
-		- New thoughts about your research topic or the related; and so on.
+		- New thoughts about your research topic or the related;
+  		- New experiments and/or their analysis, and so on.
 	- There will be weekly reports in both oral and document.
 		- The document needs to be completed one day before the oral.
 
@@ -89,5 +90,5 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- But indeed priority will be given to projects that I’m particularly interested in and students who show great potential.
 	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed. 
  
- - It can be hard for most students. Applying is only suggested if you believe you can somehow be an exception.
+ - It can be challenging for most students. Applying is only suggested if you believe you can somehow be an exception.
 -->
