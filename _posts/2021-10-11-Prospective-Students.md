@@ -62,7 +62,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- New things you learn;
 		- New papers and/or related contents you read;
 		- New thoughts about your research topic or the related;
-  		- New experiments and/or their analysis, and so on.
+		- New experiments and/or their analysis, and so on.
 	- There will be weekly reports in both oral and document.
 		- The document needs to be completed one day before the oral.
 
