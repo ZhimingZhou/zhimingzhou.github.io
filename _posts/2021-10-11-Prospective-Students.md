@@ -20,7 +20,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
 	- Read 20 ~ 50 papers from top conferences/journals.
-		- In any topic: the one(s) you are interested in, or the one(s) I am interested in, or just any.
+		- In any topic: the one(s) you are interested in, the one(s) I am interested in, or just any.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving?
 		- What is their main contribution?
@@ -60,11 +60,11 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - Management:
 	- You will be required to keep a diary of research, which records daily summaries of:
 		- New things you learn;
-		- New papers and/or related contents you read;
+		- New papers and/or related content you read;
 		- New thoughts about your research topic or the related;
 		- New experiments and/or their analysis, and so on.
 	- There will be weekly reports in both oral and document.
-		- The document needs to be completed one day before the oral.
+		- Summarize what you did in the past week before the oral report in the document.
 
 <!--  -->
 - Principle of authorship:
@@ -83,7 +83,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!-- 
 - How much money will you get each month:
-	- It will typically be the same as the standard or the amount that is allowable and I can afford without pressure.
+	- It will typically be the same as the standard or the appropriate amount that I can afford without pressure.
 	- If you want more, I can apply for some funding but you will need to do some work for the funding.
 - How much effort of mine will you get to guide you:
 	- It mainly depends on how much effort you put in.
