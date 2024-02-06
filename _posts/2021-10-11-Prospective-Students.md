@@ -58,13 +58,13 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Management:
-	- You will be required to keep a diary of research, which records daily summaries of:
-		- New things you learn;
-		- New papers and/or related content you read;
-		- New thoughts about your research topic or the related;
-		- New experiments and/or their analysis, and so on.
-	- There will be weekly reports in both oral and document.
-		- Summarize what you did in the past week before the oral report in the document.
+	- There will be a weekly meeting. 
+ 	- You will be required to keep a diary of research, which records daily summaries of:
+		- New things you learn; 
+		- New papers and/or related content you read; 
+		- New thoughts about your research topic or the related; 
+		- New experiments and/or their analysis, and so on. 
+	- You will be required to summarize and review your research monthly in writing.  
 
 <!--  -->
 - Principle of authorship:
