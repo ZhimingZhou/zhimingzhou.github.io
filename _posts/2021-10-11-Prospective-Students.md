@@ -58,7 +58,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Management:
-	- There will be a weekly meeting. 
+	- There will be a weekly (one-on-one) meeting. 
  	- You will be required to keep a diary of research, which records daily summaries of:
 		- New things you learn; 
 		- New papers and/or related content you read; 
