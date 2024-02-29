@@ -13,14 +13,14 @@ Zhiming has a broad interest in the fundamental techniques and theories of machi
 
 ## Documents & Links
 
-[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
-  
-[Github](https://github.com/ZhimingZhou)
-
 [Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
 
 [DBLP](https://dblp.org/pid/56/321.html)
-  
+
+[Github](https://github.com/ZhimingZhou)
+
+[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
+
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
 ## Selected Publications 
