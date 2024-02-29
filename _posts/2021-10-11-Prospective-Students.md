@@ -20,7 +20,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - The first thing you will need to do when you become one of my students: 
 	- Read 20 ~ 50 papers from top conferences/journals.
-		- In any topic: the one(s) you are interested in, the one(s) I am interested in, or just any.
+		- In any topic: the one(s) you are interested in, or just any.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving?
 		- What is their main contribution?
@@ -45,7 +45,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- I might be generally very nice, but I can be rather critical upon research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take a long time, but it will be a PREREQUISITE for us to start the real research.
-	- I will guide and force you to think deeply, clearly, and logically. I wish we have the same belief that:
+	- I will guide and force you to think deeply, clearly, and logically. I wish we had the same belief that:
 		- Superficial understanding may lead to specious conclusions.
 		- Deeper thinking can bring simpler/better solutions.
 
