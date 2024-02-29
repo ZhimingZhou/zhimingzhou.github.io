@@ -7,11 +7,9 @@ permalink: /
 
 ## Biography
 
-Zhiming is currently an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/). He obtained his Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. degree in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
+Zhiming is currently an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/). He obtained his Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
-Zhiming’s research in his Ph.D. stage was mainly focused on generative adversarial networks (GANs). He also worked on first-order optimization, optimal transport, and other related problems. He worked on computer graphics in the early years of his Ph.D. (2014-2016), focused on surface reflectance acquisition.
-
-Zhiming has a broad interest in machine learning and deep learning, and he prefers fundamental and theoretical research. Currently, he holds a special interest in the optimization and generalization of deep neural networks and GANs. As a long-term goal, he would like to contribute to the foundation of artificial intelligence and artificial general intelligence.
+Zhiming has a broad interest in the fundamental techniques and theories of machine learning and deep learning, including optimization, generalization, generative models, representation learning, learning theory, design principles of neural networks, etc. As an ultimate goal, he would like to contribute to the foundation of artificial general intelligence. 
 
 ## Documents & Links
 
@@ -27,15 +25,6 @@ Zhiming has a broad interest in machine learning and deep learning, and he prefe
 
 ## Selected Publications 
 
-<!-- Understanding the Effectiveness of Lipschitz Regularization in the Discriminator of Generative Adversarial Nets.
-- **Zhiming Zhou**, Jiadong Liang, [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
-- Submitted to the Journal of Machine Learning Research (JMLR Submission).
-- \[[arXiv](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Lipschitz_Regularized_GANs.pdf)\]
-  \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
-  \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
-  \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
-- <details><summary>Click to expand a brief introduction.</summary>This is a full version of our previous paper "Lipschitz Generative Adversarial Nets". With 60 pages of details, we aim at a systematic analysis on the convergence of GANs. We start by providing a thorough theoretical study upon Lipschitz regularization and Lipschitz regularized GANs, which deepens the current understanding of Lipschitz regularization for GANs and dissects how Lipschitz regularization resolve the gradient uninformativeness issue. Then, in chasing a clear understanding of the implications and practical behaviors of the gradient uninformativeness issue, we build a systematic explanation on common convergence issues of GANs, including how unregularized GANs work in practice and the cause of mode collapse. Finally, we identify and elaborate the key factors to the convergence of GANs. </details> -->
-
 Lipschitz Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
@@ -45,7 +34,7 @@ Lipschitz Generative Adversarial Nets.
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
-- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
+- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
@@ -63,7 +52,7 @@ Activation Maximization Generative Adversarial Nets.
   \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
   \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
-- <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs had been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, are revealed.</details>
+- <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs has been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, is revealed.</details>
 
 Sparse-as-Possible SVBRDF Acquisition.
 - **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
