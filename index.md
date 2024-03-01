@@ -34,7 +34,10 @@ Lipschitz Generative Adversarial Nets.
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
+  
+<!--
 - <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
+-->
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
@@ -43,7 +46,10 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
   \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
   \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
+
+<!--
 - <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
+-->
 
 Activation Maximization Generative Adversarial Nets.
 - **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/index.html), Shu Rong, Yuxuan Song, [Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
@@ -52,7 +58,10 @@ Activation Maximization Generative Adversarial Nets.
   \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
   \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
+
+<!--
 - <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs has been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, is revealed.</details>
+-->
 
 Sparse-as-Possible SVBRDF Acquisition.
 - **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
@@ -60,4 +69,7 @@ Sparse-as-Possible SVBRDF Acquisition.
 - \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
   \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
   \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
+
+<!--
 - <details><summary>Click to expand a brief introduction.</summary>We significantly reduce the number of images required for spatially-varying surface reflectance (SVBRDF) acquisition, by solving an exact low-rank representation and chasing an extreme sparsity. The number of images required dropped from thousands to tens, and high-quality SVBRDF acquisition from a single image became possible for the first time.</details>
+-->
