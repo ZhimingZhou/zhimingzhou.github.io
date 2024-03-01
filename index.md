@@ -25,6 +25,18 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 
 ## Selected Publications 
 
+Recurrent Temporal Revision Graph Networks. 
+- Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**. 
+- The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS, 2023).
+- \[[arXiv](https://arxiv.org/abs/2309.12694)\]
+  \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]  
+
+Clustered Embedding Learning for Recommender Systems.
+- Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
+- The 2023 ACM Web Conference (WWW, 2023). 
+- \[[arXiv](https://arxiv.org/abs/2302.01478)\]
+  \[[ACM](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
+
 Lipschitz Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
 - The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
