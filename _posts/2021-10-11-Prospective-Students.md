@@ -52,9 +52,9 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Characteristics that I value most:	
 	- Good (SELF-)LEARNING ability.
-	- Confidence and perseverance.
-	- Critical thinking and clear logic.
-	- Good intuition and good at math.	
+	- Critical thinking and CLEAR LOGIC.
+ 	- Confidence and perseverance.	
+	- Good intuition and good at math. 
 
 <!--  -->
 - Management:
@@ -64,7 +64,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- New papers and/or related content you read; 
 		- New thoughts about your research topic or the related; 
 		- New experiments and/or their analysis, and so on. 
-	- You will be required to summarize and review your research monthly in writing.  
+	- You will be required to summarize and review your research monthly in writing.
+ 	- There will be a PROBATIONAEY period of one semester for every newcomer. 
 
 <!--  -->
 - Principle of authorship:
