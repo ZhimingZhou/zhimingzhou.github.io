@@ -18,7 +18,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- I personally prefer fundamental and theoretical research that has practical impacts.
 
 <!--  -->
-- The first thing you will need to do when you become one of my students: 
+- The first thing you will need to do when you become one of my students:
 	- Read 20 ~ 50 papers from top conferences/journals.
 		- In any topic: the one(s) you are interested in, or just any.
 	- Make sure to understand the following key information in each paper:
@@ -50,22 +50,22 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Deeper thinking can bring simpler/better solutions.
 
 <!--  -->
-- Characteristics that I value most:	
+- Characteristics that I value most:
 	- Good (SELF-)LEARNING ability.
 	- Critical thinking and CLEAR LOGIC.
- 	- Confidence and perseverance.	
-	- Good intuition and good at math. 
+	- Confidence and perseverance.
+	- Good intuition and good at math.
 
 <!--  -->
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
 	- You will be required to keep a diary of research, which records daily summaries of:
 		- New things you learn;
-		- New papers and/or related content you read; 
-		- New thoughts about your research topic or the related; 
-		- New experiments and/or their analysis, and so on. 
-	- You will be required to summarize and review your research monthly in writing. 
- 	- There will be a PROBATIONAEY period of one semester for every newcomer. 
+		- New papers and/or related content you read;
+		- New thoughts about your research topic or the related;
+		- New experiments and/or their analysis, and so on.
+	- You will be required to summarize and review your research monthly in writing.
+	- There will be a PROBATIONAEY period of one semester for every newcomer.
 
 <!--  -->
 - Principle of authorship:
