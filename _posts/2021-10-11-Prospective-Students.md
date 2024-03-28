@@ -64,7 +64,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- New papers and/or related content you read; 
 		- New thoughts about your research topic or the related; 
 		- New experiments and/or their analysis, and so on. 
-	- You will be required to summarize and review your research monthly in writing.
+	- You will be required to summarize and review your research monthly in writing. 
  	- There will be a PROBATIONAEY period of one semester for every newcomer. 
 
 <!--  -->
