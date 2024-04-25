@@ -51,10 +51,11 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Characteristics that I value most:
-	- Good (SELF-)LEARNING ability.
-	- Critical thinking and CLEAR LOGIC.
-	- Confidence and perseverance.
-	- Good intuition and good at math.
+	- [5'] Good (SELF-)LEARNING ability.
+	- [5'] CLEAR and STRICT LOGIC.
+ 	- [4'] Good intuition and critical thinking.
+	- [3'] Good at math and programming.
+ 	- [3'] Confidence and perseverance.
 
 <!--  -->
 - Management:
