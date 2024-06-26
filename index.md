@@ -27,24 +27,24 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 
 Residual Multi-Task Learner for Applied Ranking. 
 - Cong Fu, Kun Wang, Jiahua Wu, YIZHOU CHEN, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
-- The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, 2024).
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 - \[[OpenReview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
   
 Recurrent Temporal Revision Graph Networks. 
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
-- The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS, 2023).
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
 - \[[arXiv](https://arxiv.org/abs/2309.12694)\]
   \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]
 
 Clustered Embedding Learning for Recommender Systems.
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
-- The 2023 ACM Web Conference (WWW, 2023). 
+- The ACM Web Conference (WWW), 2023.
 - \[[arXiv](https://arxiv.org/abs/2302.01478)\]
   \[[ACM](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
 
 Lipschitz Generative Adversarial Nets.
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, [Lantao Yu](http://lantaoyu.com/), [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Zhihua Zhang](http://www.math.pku.edu.cn/teachers/zhzhang/).
-- The Thirty-sixth International Conference on Machine Learning (ICML, 2019).
+- International Conference on Machine Learning (ICML), 2019.
 - \[[arXiv](https://arxiv.org/abs/1902.05687)\]
   \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
@@ -58,7 +58,7 @@ Lipschitz Generative Adversarial Nets.
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, [Hongwei Wang](https://cs.stanford.edu/~hongweiw/), [Weinan Zhang](http://wnzhang.net/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
-- The Seventh International Conference on Learning Representations (ICLR, 2019).
+- International Conference on Learning Representations (ICLR), 2019.
 - \[[arXiv](https://arxiv.org/abs/1810.00143)\]
   \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
   \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
@@ -70,7 +70,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 
 Activation Maximization Generative Adversarial Nets.
 - **Zhiming Zhou**, [Han Cai](https://han-cai.github.io/index.html), Shu Rong, Yuxuan Song, [Kan Ren](http://www.saying.ren/), [Weinan Zhang](http://wnzhang.net/), [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
-- The Sixth International Conference on Learning Representations (ICLR, 2018).
+- International Conference on Learning Representations (ICLR), 2018.
 - \[[arXiv](https://arxiv.org/abs/1703.02000)\]
   \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
   \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
@@ -82,7 +82,7 @@ Activation Maximization Generative Adversarial Nets.
 
 Sparse-as-Possible SVBRDF Acquisition.
 - **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
-- ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016. 
+- ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016.
 - \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
   \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
   \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
