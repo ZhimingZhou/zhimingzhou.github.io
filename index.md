@@ -46,31 +46,31 @@ Lipschitz Generative Adversarial Nets.
   \[[pmlr](https://proceedings.mlr.press/v97/zhou19c.html)]
   \[[arxiv](https://arxiv.org/abs/1902.05687)\]
   \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
-  \[[code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
-  \[[code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
-  \[[code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
+  \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
+  \[[code](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
+  \[[code](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
 - International Conference on Machine Learning (ICML), 2019.
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. 
   \[[openreview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
-  \[[arxiv](https://arxiv.org/abs/1810.00143)\]  
-  \[[poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\] 
+  \[[arxiv](https://arxiv.org/abs/1810.00143)\]
+  \[[poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
   \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, Hongwei Wang, Weinan Zhang, Yong Yu.
 - International Conference on Learning Representations (ICLR), 2019. 
 
-Activation Maximization Generative Adversarial Nets. 
+Activation Maximization Generative Adversarial Nets.
   \[[openreview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
-  \[[arxiv](https://arxiv.org/abs/1703.02000)\]   
-  \[[code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\] 
-  \[[code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
+  \[[arxiv](https://arxiv.org/abs/1703.02000)\]
+  \[[code](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
+  \[[code](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
 - **Zhiming Zhou**, Han Cai, Shu Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Jun Wang, Yong Yu.
 - International Conference on Learning Representations (ICLR), 2018.
 
 Sparse-as-Possible SVBRDF Acquisition. 
   \[[acm](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
-  \[[pdf](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\]  
+  \[[pdf](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\]
   \[[slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
 - ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016.
