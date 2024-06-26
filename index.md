@@ -26,7 +26,7 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 ## Selected Publications 
 
 Residual Multi-Task Learner for Applied Ranking.
-  \[[OpenReview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
+  \[[openreview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
 - Cong Fu, Kun Wang, Jiahua Wu, YIZHOU CHEN, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
