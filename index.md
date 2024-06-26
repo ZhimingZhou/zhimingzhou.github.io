@@ -25,57 +25,79 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 
 ## Selected Publications 
 
-Residual Multi-Task Learner for Applied Ranking. 
+Residual Multi-Task Learner for Applied Ranking.
+  \[[OpenReview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
 - Cong Fu, Kun Wang, Jiahua Wu, YIZHOU CHEN, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
-- \[[OpenReview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
-  
+
+
 Recurrent Temporal Revision Graph Networks. 
+  \[[arXiv](https://arxiv.org/abs/2309.12694)\]
+  \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
-- \[[arXiv](https://arxiv.org/abs/2309.12694)\]
-  \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]
+
 
 Clustered Embedding Learning for Recommender Systems.
+  \[[arXiv](https://arxiv.org/abs/2302.01478)\]
+  \[[ACM](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
 - The ACM Web Conference (WWW), 2023.
-- \[[arXiv](https://arxiv.org/abs/2302.01478)\]
-  \[[ACM](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
 
-Lipschitz Generative Adversarial Nets.
-- **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
-- International Conference on Machine Learning (ICML), 2019.
-- \[[arXiv](https://arxiv.org/abs/1902.05687)\]
-  \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
-  \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\]
+
+Lipschitz Generative Adversarial Nets. 
+  \[[arXiv](https://arxiv.org/abs/1902.05687)\] 
+  \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
+  \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\] 
   \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
-  
-<!--
-- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
--->
+- **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
+- International Conference on Machine Learning (ICML), 2019.
 
-AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
+
+AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. 
+  \[[arXiv](https://arxiv.org/abs/1810.00143)\] 
+  \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\] 
+  \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\] 
+  \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, Hongwei Wang, Weinan Zhang, Yong Yu.
-- International Conference on Learning Representations (ICLR), 2019. \[[arXiv](https://arxiv.org/abs/1810.00143)\] \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\] \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\] \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
+- International Conference on Learning Representations (ICLR), 2019. 
+
+
+Activation Maximization Generative Adversarial Nets. 
+  \[[arXiv](https://arxiv.org/abs/1703.02000)\] 
+  \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\] 
+  \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\] 
+  \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
+- **Zhiming Zhou**, Han Cai, Shu Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Jun Wang, Yong Yu.
+- International Conference on Learning Representations (ICLR), 2018.
+
+
+Sparse-as-Possible SVBRDF Acquisition. 
+  \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
+  \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\] 
+  \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
+- **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
+- ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016.
+
+
+
+
+
+
+<!--
+- <details><summary>Click to expand a brief introduction.</summary>We significantly reduce the number of images required for spatially-varying surface reflectance (SVBRDF) acquisition, by solving an exact low-rank representation and chasing an extreme sparsity. The number of images required dropped from thousands to tens, and high-quality SVBRDF acquisition from a single image became possible for the first time.</details>
+-->
 
 <!--
 - <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
 -->
 
-Activation Maximization Generative Adversarial Nets.
-- **Zhiming Zhou**, Han Cai, Shu Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Jun Wang, Yong Yu.
-- International Conference on Learning Representations (ICLR), 2018. \[[arXiv](https://arxiv.org/abs/1703.02000)\] \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\] \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\] \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
-
 <!--
 - <details><summary>Click to expand a brief introduction.</summary>We study how class labels interact with GANs training when introduced and how it improves the sample quality of GANs. Based on the analysis, an improved method for leveraging class labels in GANs has been proposed. An interesting relationship among popular variants of GANs that leverage class labels, including the proposed AM-GANs, is revealed.</details>
 -->
 
-Sparse-as-Possible SVBRDF Acquisition.
-- **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
-- ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016. \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\] \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
-
 <!--
-- <details><summary>Click to expand a brief introduction.</summary>We significantly reduce the number of images required for spatially-varying surface reflectance (SVBRDF) acquisition, by solving an exact low-rank representation and chasing an extreme sparsity. The number of images required dropped from thousands to tens, and high-quality SVBRDF acquisition from a single image became possible for the first time.</details>
+- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 -->
