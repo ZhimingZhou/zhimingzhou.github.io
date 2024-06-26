@@ -82,7 +82,7 @@ Activation Maximization Generative Adversarial Nets.
 
 Sparse-as-Possible SVBRDF Acquisition.
 - **Zhiming Zhou**, Guojun Chen, [Yue Dong](http://yuedong.shading.me/), [David Wipf](\href{http://www.davidwipf.com/home.html), [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), [Xin Tong](http://www.xtong.info/).
-- ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH Asia, 2016.
+- ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016.
 - \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
   \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
   \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
