@@ -32,52 +32,52 @@ Residual Multi-Task Learner for Applied Ranking.
 
 
 Recurrent Temporal Revision Graph Networks. 
-  \[[arXiv](https://arxiv.org/abs/2309.12694)\]
-  \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]
+  \[[arxiv](https://arxiv.org/abs/2309.12694)\]
+  \[[openreview](https://openreview.net/forum?id=B3UDx1rNOy)\]
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
 
 
 Clustered Embedding Learning for Recommender Systems.
-  \[[arXiv](https://arxiv.org/abs/2302.01478)\]
-  \[[ACM](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
+  \[[arxiv](https://arxiv.org/abs/2302.01478)\]
+  \[[acm](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
 - The ACM Web Conference (WWW), 2023.
 
 
 Lipschitz Generative Adversarial Nets. 
-  \[[arXiv](https://arxiv.org/abs/1902.05687)\] 
-  \[[Slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
-  \[[Poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\] 
-  \[[Code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
-  \[[Code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
-  \[[Code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
+  \[[arxiv](https://arxiv.org/abs/1902.05687)\] 
+  \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
+  \[[poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\] 
+  \[[code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
+  \[[code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
+  \[[code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
 - International Conference on Machine Learning (ICML), 2019.
 
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. 
-  \[[arXiv](https://arxiv.org/abs/1810.00143)\] 
-  \[[OpenReview](https://openreview.net/forum?id=HkgTkhRcKQ)\] 
-  \[[Poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\] 
-  \[[Code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
+  \[[arxiv](https://arxiv.org/abs/1810.00143)\] 
+  \[[openreview](https://openreview.net/forum?id=HkgTkhRcKQ)\] 
+  \[[poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\] 
+  \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, Hongwei Wang, Weinan Zhang, Yong Yu.
 - International Conference on Learning Representations (ICLR), 2019. 
 
 
 Activation Maximization Generative Adversarial Nets. 
-  \[[arXiv](https://arxiv.org/abs/1703.02000)\] 
-  \[[OpenReview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\] 
-  \[[Code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\] 
-  \[[Code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
+  \[[arxiv](https://arxiv.org/abs/1703.02000)\] 
+  \[[openreview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\] 
+  \[[code1](https://github.com/ZhimingZhou/AM-GANs-refactored)\] 
+  \[[code2](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
 - **Zhiming Zhou**, Han Cai, Shu Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Jun Wang, Yong Yu.
 - International Conference on Learning Representations (ICLR), 2018.
 
 
 Sparse-as-Possible SVBRDF Acquisition. 
-  \[[PDF](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
-  \[[ACM](https://dl.acm.org/doi/10.1145/2980179.2980247)\] 
-  \[[Slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
+  \[[pdf](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\] 
+  \[[acm](https://dl.acm.org/doi/10.1145/2980179.2980247)\] 
+  \[[slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
 - ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016.
 
