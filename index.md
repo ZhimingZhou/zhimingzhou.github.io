@@ -25,11 +25,16 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 
 ## Selected Publications 
 
+Residual Multi-Task Learner for Applied Ranking. 
+- Cong Fu, Kun Wang, Jiahua Wu, YIZHOU CHEN, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
+- The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, 2024).
+- \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]
+  
 Recurrent Temporal Revision Graph Networks. 
-- Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**. 
+- Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
 - The Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS, 2023).
 - \[[arXiv](https://arxiv.org/abs/2309.12694)\]
-  \[[OpenReview](https://openreview.net/forum?id=B3UDx1rNOy)\]  
+  \[[OpenReview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
 
 Clustered Embedding Learning for Recommender Systems.
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
