@@ -44,8 +44,7 @@ Clustered Embedding Learning for Recommender Systems.
 
 Lipschitz Generative Adversarial Nets. 
   \[[arxiv](https://arxiv.org/abs/1902.05687)\] 
-  \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\] 
-  \[[poster](https://s3.amazonaws.com/postersession.ai/ee90cc20-a261-4aee-b28f-899891a90be3.pdf)\] 
+  \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
   \[[code1](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[code2](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
   \[[code3](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
