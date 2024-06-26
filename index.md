@@ -11,15 +11,13 @@ Zhiming is currently an assistant professor at the Department of Computer Scienc
 
 Zhiming has a broad interest in fundamental techniques and theories of machine learning, including optimization, generalization, generative models, representation learning, learning theory, design principles of neural networks, etc. Ultimately, he hopes to contribute to laying a solid foundation for the application of artificial (general) intelligence in the real world. 
 
-## Documents & Links
+## Docs & Links
 
-[Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en) 
 
-[Github](https://github.com/ZhimingZhou)
+[Github](https://github.com/ZhimingZhou) 
 
-[DBLP](https://dblp.org/pid/56/321.html)
-
-[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf) 
+[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf)
 
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
@@ -93,4 +91,6 @@ Sparse-as-Possible SVBRDF Acquisition.
 
 <!--
 - <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
+
+[DBLP](https://dblp.org/pid/56/321.html) 
 -->
