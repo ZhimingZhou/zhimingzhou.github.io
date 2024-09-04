@@ -24,12 +24,12 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 ## Selected Publications 
 
 Residual Multi-Task Learner for Applied Ranking.
-  \[[openreview](https://openreview.net/forum?id=dOWWNW9CJ3)\]
+  \[[openreview](https://openreview.net/forum?id=dOWWNW9CJ3)\]\[[acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671523)\]
 - Cong Fu, Kun Wang, Jiahua Wu, YIZHOU CHEN, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 Recurrent Temporal Revision Graph Networks.
-  \[[openreview](https://openreview.net/forum?id=B3UDx1rNOy)\]
+  \[[openreview](https://openreview.net/forum?id=B3UDx1rNOy)\]\[[acm](https://dl.acm.org/doi/abs/10.5555/3666122.3669159)\]
   \[[arxiv](https://arxiv.org/abs/2309.12694)\]
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
