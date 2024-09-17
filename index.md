@@ -13,11 +13,11 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 
 ## Docs & Links
 
+[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf)
+
 [Google Scholar](https://scholar.google.com/citations?user=b8YJ1EMAAAAJ&hl=en) 
 
-[Github](https://github.com/ZhimingZhou) 
-
-[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf)
+[Github](https://github.com/ZhimingZhou)
 
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
