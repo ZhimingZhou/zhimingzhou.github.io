@@ -38,7 +38,7 @@ Clustered Embedding Learning for Recommender Systems.
   \[[acm](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
   \[[arxiv](https://arxiv.org/abs/2302.01478)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
-- The ACM Web Conference (WWW), 2023.
+- ACM Web Conference (WWW), 2023.
 
 Lipschitz Generative Adversarial Nets.
   \[[pmlr](https://proceedings.mlr.press/v97/zhou19c.html)]
@@ -59,7 +59,7 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - International Conference on Learning Representations (ICLR), 2019. 
 
 Activation Maximization Generative Adversarial Nets.
-  \[[openreview](https://openreview.net/forum?id=HyyP33gAZ&noteId=HyyP33gAZ)\]
+  \[[openreview](https://openreview.net/forum?id=HyyP33gAZ)\]
   \[[arxiv](https://arxiv.org/abs/1703.02000)\]
   \[[code](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
   \[[code](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
