@@ -7,9 +7,9 @@ permalink: /
 
 ## Biography
 
-Zhiming is currently an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/). He obtained his Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
+Zhiming is an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/). He obtained his Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020. He received his B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
-Zhiming has a broad interest in fundamental techniques and theories of machine learning, including optimization, generalization, generative models, representation learning, learning theory, design principles of neural networks, etc. Ultimately, he hopes to contribute to laying a solid foundation for the application of artificial (general) intelligence in the real world. 
+Zhiming has a broad interest in fundamental techniques and theories of machine learning, including optimization, generalization, generative models, representation learning, learning theory, design principles of neural networks, etc. Ultimately, he hopes to contribute to laying a solid foundation for applying artificial intelligence in the real world. 
 
 ## Docs & Links
 
@@ -25,7 +25,7 @@ Zhiming has a broad interest in fundamental techniques and theories of machine l
 
 Residual Multi-Task Learner for Applied Ranking.
   \[[openreview](https://openreview.net/forum?id=dOWWNW9CJ3)\]\[[acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671523)\]
-- Cong Fu, Kun Wang, Jiahua Wu, YIZHOU CHEN, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
+- Cong Fu, Kun Wang, Jiahua Wu, Yizhou Chen, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 Recurrent Temporal Revision Graph Networks.
