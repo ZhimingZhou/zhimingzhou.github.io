@@ -15,7 +15,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Our target:
 	- Top research that (at least) can be published in top conferences/journals, like ICML/NIPS/JMLR.
-	- I personally prefer fundamental and theoretical research that has practical impacts.
+	- I personally prefer fundamental and/or theoretical research that has practical impacts.
 
 <!--  -->
 - The first thing you will need to do when you become one of my students:
@@ -24,7 +24,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are solving?
 		- What is their main contribution?
-		- What is their main difference compared with previous work?
+		- What is their main difference from previous work(s)?
 	- What is your judgment? What do you think of this paper?
 		- Is the problem important?
 		- Is their contribution significant?
