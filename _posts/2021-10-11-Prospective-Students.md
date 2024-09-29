@@ -21,7 +21,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - The first thing you will need to do when you become one of my students:
 	- Read 20 ~ 50 papers from top conferences/journals.
 		- In topics that interest you, or just somehow randomly.
-		- This is to familiarize you with the basic paradigms of scientific papers and help find and determine your research topic.
+		- This is to familiarize you with the basic paradigms of scientific papers and help find/determine your research topic.
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are concerning?
 		- What is their main contribution/difference compared to previous work(s)?
