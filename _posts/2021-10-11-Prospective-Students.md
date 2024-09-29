@@ -11,6 +11,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
+	- As the entrance assessment, you will need to explain a top conference/journal paper to me clearly and entirely.
 
 <!--  -->
 - Our target:
@@ -65,7 +66,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- New experiments and/or their analysis, and so on.
 	- You will be required to summarize and review your research monthly in writing.
 	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
-		- In the entrance assessment, you will need to explain a top conference/journal paper to me clearly and thoroughly.
 
 <!--  -->
 - Principle of authorship:
