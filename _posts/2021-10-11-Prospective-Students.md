@@ -7,7 +7,7 @@ permalink: /Posts/Prospective-Students/
 top: true
 ---
 
-I’m looking for talented students with enthusiasm for fundamental research in machine learning / artificial intelligence.
+I’m looking for talented students with enthusiasm for fundamental research in machine learning/artificial intelligence.
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
@@ -20,31 +20,29 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - The first thing you will need to do when you become one of my students:
 	- Read 20 ~ 50 papers from top conferences/journals.
-		- In any topic: the one(s) you are interested in, or just any.
+		- In topics that interest you, or just somehow randomly.
+  		- This is to help you familiarize yourself with the basic paradigms of scientific papers and find topics that interest you most.
 	- Make sure to understand the following key information in each paper:
-		- What is the problem they are solving?
-		- What is their main contribution?
-		- What is their main difference in comparison with previous work(s)?
+		- What is the problem they are concerning?
+		- What is their main contribution/difference compared to previous work(s)?
 	- What is your judgment? What do you think of this paper?
 		- Is the problem important?
 		- Is their contribution significant?
-		- Are their theoretical/experimental results solid?
 	- Do you have any criticism of them?
-		- Try to criticize their motivation, their assumption, their logic, their solution/theory, their experiment, etc.
+		- Try to criticize their problem setup, motivation, deduction logic, solution, assumption/theory, experiment design, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
-	- Note that this typically requires a good high-level understanding, while details are often not necessary and can be omitted.
 	
 <!--  -->
 - What will be your research topic:
 	- We DO NOT assign topics to students in principle.
 	- Find your research topic on your own by reading papers and I will always be there if you need any guidance.
-	- When you have read 50 papers and still haven't found a suitable/interested topic, I will give my suggestions.
+	- When you have read 50 papers and still haven't found a suitable/interested topic, I may give my suggestions.
 
 <!--  -->
 - My style:
 	- I might be generally very nice, but I can be rather critical upon research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
-		- This may take a long time, but it will be a PREREQUISITE for us to start the real research.
+		- This may take a long time, but it will be a prerequisite for us to start the real research.
 	- I will guide and force you to think deeply, clearly, and logically. Wish we have the same belief that:
 		- Superficial understanding may lead to specious conclusions.
 		- Deeper thinking can bring simpler/better solutions.
@@ -52,15 +50,15 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Characteristics that I value most:
 	- [5'] Good (SELF-)LEARNING ability.
-	- [5'] CLEAR and STRICT LOGIC.
 	- [4'] Good intuition and critical thinking.
-	- [3'] Good at math and programming.
-	- [3'] Confidence and perseverance.
+	- [4'] Clear and strict logic.
+	- [4'] Confidence and perseverance.
+ 	- [3'] Good at math and programming.	
 
 <!--  -->
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
-	- You will be required to keep a diary of research, which records daily summaries of:
+	- You are highly recommended to keep a diary of research, which records daily summaries of:
 		- New things you learn;
 		- New papers and/or related content you read;
 		- New thoughts about your research topic or the related;
@@ -90,7 +88,6 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - How much effort of mine will you get to guide you:
 	- It mainly depends on how much effort you put in.
 		- But indeed priority will be given to projects that I’m particularly interested in and students who show great potential.
-	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed. 
- 
+	- I have once heard the x^a model, and I think it is interesting and feasible, where x is your effort and a > 1, x^a will be my expected effort. Note that x = 1 is some standard that can be surpassed.  
  - It can be challenging for most students. Applying is only suggested if you believe you can somehow be an exception.
 -->
