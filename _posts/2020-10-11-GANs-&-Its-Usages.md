@@ -8,9 +8,9 @@ permalink: /Posts/GANs-&-Its-Usages/
 
 - GANs is just a tool that maps one distribution to another. GANs can be useful, when and only when, it can be properly used. 
 
-- Given the generalization issue (cannot generalize when trained to optimum, memorizing the training distribution), theoretically sound usages are very limited. Two typical that I know are optimal transport (where the target distribution sometimes can just be the data provided and does not need generalization) and data modeling (where the data provided can just be the data to be modeled and somehow does not need generalization). 
+- Given the generalization issue (cannot generalize when trained to optimum, memorizing the training distribution), theoretically sound usages are very limited. Two typical ones are optimal transport (where the target distribution sometimes can just be the data provided and does not need generalization) and data modeling (where the data provided can just be the data to be modeled and somehow does not need generalization). 
 
-- Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis, but being conditional, and the diversity comes from the freedom of the unconditioned parts. 
+- Other typical usages include: image (or any other data) synthesis, forcing the output distribution to a given distribution (like GANs for super-resolution and transferring). GANs can also be used for conditional diverse outputs, which is just like image synthesis but conditional, and the diversity comes from the freedom of the unconditioned parts. 
 
 - I think any GANs should has a 's' at the tail, because the *networks* in *adversarial neural networks* means G and D. Hence need the 's'. I believe this is also why Ian Goodfellow adds the 's'. I was also confused for a long time whether I should add the 's'. But now, I believe there should be a 's', always.
 
