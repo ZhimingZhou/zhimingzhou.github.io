@@ -15,8 +15,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Our target:
-	- Top research that (at least) can be published in top conferences/journals, like ICML/NIPS/JMLR.
-	- I personally prefer fundamental and theoretical research that has practical impacts.
+	- Top-notch research that pursues perfection and truth that can at least be published in top conferences/journals.
+	- I would prefer theoretical/theory-driven research on fundamental topics in the field of machine learning.
 
 <!--  -->
 - The first thing you will need to do when you become one of my students:
