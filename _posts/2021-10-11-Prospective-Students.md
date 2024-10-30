@@ -15,7 +15,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - Our target:
-	- Top-notch research that pursues perfection and truth that can at least be published in top conferences/journals.
+	- Top-notch research that pursues perfection and truth (which will then naturally be published in top conferences/journals).
 	- I personally prefer theoretical/theory-driven research on fundamental topics in the field of machine learning.
 
 <!--  -->
