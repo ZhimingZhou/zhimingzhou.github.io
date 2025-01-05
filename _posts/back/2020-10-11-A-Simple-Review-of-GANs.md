@@ -5,6 +5,7 @@ date: 2020-08-28
 title: A Simple Review of GANs
 permalink: /Posts/A-Simple-Review-of-GANs/
 comments: false
+hide: true
 ---
 
 - Popular research topics in GANs include:
