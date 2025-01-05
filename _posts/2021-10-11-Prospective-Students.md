@@ -60,12 +60,13 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 <!--  -->
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
-	- You are highly recommended to keep a diary of research, which records daily summaries of:
-		- New things you learn;
+		- You will need to summarize the discussions in the meeting whereafter to ensure a good grasp of the points.
+	- You will need to report your daily research progress (3~5 times a week, depending on your stage), which summarizes:
+		- New techniques you learn;
 		- New papers and/or related content you read;
 		- New thoughts about your research topic or the related;
-		- New experiments and/or their analysis, and so on.
-	- You will be required to summarize and review your research monthly in writing.
+		- New experiments and/or their analysis; and so on.
+	- You will need to summarize and review your research quarterly.
 	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 
 <!--  -->
