@@ -5,6 +5,7 @@ date: 2024-09-30
 title: Prospective Students
 permalink: /Posts/Prospective-Students/
 top: true
+comments: false
 ---
 
 I’m looking for talented students with enthusiasm for fundamental research in machine learning/artificial intelligence.
