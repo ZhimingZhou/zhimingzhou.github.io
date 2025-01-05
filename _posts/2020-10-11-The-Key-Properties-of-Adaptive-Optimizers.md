@@ -4,6 +4,7 @@ author: Zhiming Zhou
 date: 2020-08-27
 title: The Key Properties of Adaptive Optimizers
 permalink: /Posts/The-Key-Properties-of-Adaptive-Optimizers/
+comments: false
 ---
 
 - Gradient's scale invariance: 
