@@ -31,7 +31,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Is the problem important?
 		- Is their contribution significant?
 	- Do you have any criticism of them?
-		- Try to criticize their problem setup, motivation, deduction logic, solution, assumption/theory, experiment design, etc.
+		- Try to criticize their problem setup, motivation, deduction/logic, solution, assumption/theory, experiment design, etc.
 		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
 	
 <!--  -->
