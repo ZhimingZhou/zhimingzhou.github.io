@@ -27,12 +27,11 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Make sure to understand the following key information in each paper:
 		- What is the problem they are concerning?
 		- What is their main contribution/difference compared to previous work(s)?
-	- What is your judgment? What do you think of this paper?
-		- Is the problem important?
-		- Is their contribution significant?
-	- Do you have any criticism of them?
-		- Try to criticize their problem setup, motivation, deduction/logic, solution, assumption/theory, experiment design, etc.
-		- Is there any limitation? Did they overlook any important issues/aspects? Can you do better?
+	- What is your judgment? What do you think of this paper? Do you have any criticism of them?
+		- Is the problem important? Is the contribution significant?
+		- Try to criticize their problem/setup, motivation, deduction/logic, solution, assumption/theory, experiment design, etc.
+			- Why does it have to be like that? Is it the best possible? Can you do better in any aspect?
+		- Is there any limitation? Did they overlook any important issues/aspects?
 	
 <!--  -->
 - What will be your research topic:
