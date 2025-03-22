@@ -15,8 +15,8 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- As the entrance assessment, you will need to explain a top conference/journal paper to me clearly and entirely.
 
 <!--  -->
-- Our target:
-	- Top-notch research that pursues perfection and truth (which will naturally lead to publications in top conferences/journals).
+- Our goal:
+	- Research that pursues perfection and truth (which will naturally lead to publications in top conferences/journals).
 	- I personally prefer theoretical/theory-driven research on fundamental topics in the field of machine learning.
 
 <!--  -->
