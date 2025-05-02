@@ -61,7 +61,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
 		- You may need to prepare a slide or something similar to make your presentation more fluid.
-	- You will need to report your daily research progress (3~5 times a week), which summarizes:
+	- You may need to report your daily research progress (3~5 times a week), which summarizes:
 		- New techniques you learn;
 		- New papers and/or related content you read;
 		- New thoughts about your research topic or the related;
