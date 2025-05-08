@@ -37,7 +37,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - What will be your research topic?
 	- We DO NOT assign topics to students in principle.
 	- Find your research topic on your own by reading papers, and I will always be there if you need any guidance.
-	- When you have read 50 papers and still haven't found a suitable topic that captures your interest, I may give my suggestions.
+	- When you have read 50 papers and still haven't found a suitable topic that interests you, I may give my suggestions.
 
 <!--  -->
 - My style:
