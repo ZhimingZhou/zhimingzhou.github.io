@@ -12,7 +12,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- As the entrance assessment, you will need to explain a top conference/journal paper to me clearly and entirely.
+	- As the entrance assessment, you will need to explain a top conference or journal paper to me clearly and thoroughly.
 
 <!--  -->
 - Our goal:
@@ -25,7 +25,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- In topics that interest you, or just somehow randomly.
 		- This is to familiarize you with the basic paradigms of scientific papers and help find/determine your research topic.
 	- Make sure to understand the following key information in each paper:
-		- What is the problem they are concerning?
+		- What is the problem they are concerned with?
 		- What is their main contribution/difference compared to previous work(s)?
 	- What is your judgment? Do you have any criticism of them?
 		- Is the problem important? Is the contribution significant?
@@ -34,10 +34,10 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Is there any limitation? Did they overlook any important issues/aspects?
 	
 <!--  -->
-- What will be your research topic:
+- What will be your research topic?
 	- We DO NOT assign topics to students in principle.
 	- Find your research topic on your own by reading papers, and I will always be there if you need any guidance.
-	- When you have read 50 papers and still haven't found a suitable/interested topic, I may give my suggestions.
+	- When you have read 50 papers and still haven't found a suitable topic that captures your interest, I may give my suggestions.
 
 <!--  -->
 - My style:
