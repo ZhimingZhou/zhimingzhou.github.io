@@ -21,7 +21,12 @@ I am broadly interested in fundamental techniques and theories of machine learni
 
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
-## Selected Publications 
+## Selected Works 
+
+Learning Personalizable Clustered Embedding for Recommender Systems.
+  \[[acm](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
+- Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
+- ACM Transactions on Recommender Systems (TORS), 2025, Volume 3, Issue 3.
 
 Residual Multi-Task Learner for Applied Ranking.
   \[[openreview](https://openreview.net/forum?id=dOWWNW9CJ3)\]\[[acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671523)\]\[[slide](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/ff28a097b745dba9ff366ba0e6f928d2c4c043a9/assets/Residual%20Multi-Task%20Learner%20for%20Applied%20Ranking.pdf)\]
@@ -72,7 +77,6 @@ Sparse-as-Possible SVBRDF Acquisition.
   \[[slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
 - ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016.
-
 
 
 
