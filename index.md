@@ -24,7 +24,7 @@ I am broadly interested in fundamental techniques and theories of machine learni
 ## Selected Works 
 
 Learning Personalizable Clustered Embedding for Recommender Systems.
-  \[[acm](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
+  \[[acm](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]\[[pdf](https://drive.google.com/file/d/1-fQas4kf4Dkyj84dDVBGhSxximNkCmjp/view)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
 - ACM Transactions on Recommender Systems (TORS), 2025, Volume 3, Issue 3.
 
