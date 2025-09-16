@@ -21,7 +21,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 <!--  -->
 - The first thing you will need to do when you become one of my students:
-	- Read 20 ~ 50 papers from top conferences/journals (which you may find via [https://papercopilot.com/](https://papercopilot.com/top-venues/)).
+	- Read 20 ~ 50 papers from top conferences/journals (which you may find via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/)).
 		- In topics that interest you, or just somehow randomly.
 		- This is to familiarize you with the basic paradigms of scientific papers and help find/determine your research topic.
 	- Make sure to understand the following key information in each paper:
