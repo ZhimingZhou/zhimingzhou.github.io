@@ -17,8 +17,6 @@ I am broadly interested in fundamental techniques and theories of machine learni
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=b8YJ1EMAAAAJ&sortby=pubdate)
 
-[Github](https://github.com/ZhimingZhou)
-
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
 ## Selected Works 
