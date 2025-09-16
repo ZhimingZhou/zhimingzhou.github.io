@@ -61,7 +61,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
 		- You may need to prepare a slide or something similar to make your presentation more fluid.
-	- You may need to report your daily research progress (3~5 times a week), which summarizes:
+	- You are encouraged to keep a research diary, which summarizes:
 		- New techniques you learn;
 		- New papers and/or related content you read;
 		- New thoughts about your research topic or the related;
@@ -75,7 +75,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 		- Theory: 1 ~ 4 points, depending on the importance and workload.
 		- Coding: 0 ~ 3 points, depending on the workload.
 		- Writing: 1 ~ 2 points, depending on the workload.
-	- The points of each part will be allocated to persons who participated, according to their contribution.
+	- The points of each part will be allocated to the participants according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have a higher priority in choosing the position in the author list.
 		- For authors that share similar contributions, the relatively lower-ranked can argue for a claim of equal contribution.
