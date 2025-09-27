@@ -24,14 +24,14 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- Read 20 ~ 50 papers from top conferences/journals (which you may find via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/)).
 		- In topics that interest you, or just somehow randomly.
 		- This is to familiarize you with the basic paradigms of scientific papers and help find/determine your research topic.
-	- Make sure to understand the following key information in each paper:
-		- What is the problem they are concerned with?
-		- What is their main contribution/difference compared to previous work(s)?
-	- What is your judgment? Do you have any criticism of them?
-		- Is the problem important? Is the contribution significant?
-		- Try to criticize their problem/setup, motivation, deduction/logic, solution, assumption/theory, experiment design, etc.
-			- Why does it have to be like that? Is it the best possible? Can you do better in any aspect?
-		- Is there any limitation? Did they overlook any important issues/aspects?
+	- When reading each paper, focus on identifying the following:
+		- What specific problem is the paper addressing? Why is it important?
+		- What limitations of existing work motivate this research?
+		- What is the core idea or main contribution, and how does the method work at a high level?
+	- If possible, go deeper:
+		- How exactly does the method work? What is the workflow of the proposed algorithm?
+		- Why is the solution designed as such? Does it have to be like that?
+		- Is there any limitation? Can you do better in any aspect?
 	
 <!--  -->
 - What will be your research topic?
