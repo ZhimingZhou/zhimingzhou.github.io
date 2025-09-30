@@ -12,7 +12,7 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- As the entrance assessment, you will need to explain a top conference or journal paper to me clearly and thoroughly.
+	- As the entrance assessment, you will need to clearly explain a recent paper from a top conference or journal to me.
 
 <!--  -->
 - Our goal:
