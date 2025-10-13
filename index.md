@@ -9,7 +9,7 @@ permalink: /
 
 I am currently an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/). I obtained my Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020 and received my B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
-I am broadly interested in fundamental techniques and theories of machine learning, including optimization, generalization, representation learning, learning theory, generative models, design principles of neural networks, etc. Ultimately, I want to contribute to laying a solid foundation for applying artificial intelligence in the real world.
+I am broadly interested in fundamental techniques and theories of machine learning, including optimization, generalization, representation learning, learning theory, generative models, principled design of neural networks, etc. Ultimately, I want to contribute to laying a solid foundation for applying artificial intelligence in the real world.
 
 ## Docs & Links
 
@@ -84,7 +84,7 @@ Sparse-as-Possible SVBRDF Acquisition.
 -->
 
 <!--
-- <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also free v_t from its traditional update rule, leading to more interesting variants. Particularly, with dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
+- <details><summary>Click to expand a brief introduction.</summary>We study the convergence issue of Adam optimizer. With the proposed concept *net update factor*, we showed that the key issue in Adam lies in its biased adaptive learning rate caused by the correlation between the adaptive term v_t and the current gradient g_t, and a temporal shift operation is proposed to solve such an issue. Our new understanding of the role of v_t also frees v_t from its traditional update rule, leading to more interesting variants. Particularly, with the dimension reduction operation in v_t, we achieve the so-called adaptive learning rate SGD, which removes the global gradient scale but keeps the relative scales.</details>
 -->
 
 <!--
@@ -92,7 +92,7 @@ Sparse-as-Possible SVBRDF Acquisition.
 -->
 
 <!--
-- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with unregularized discriminative function space generally does not guarantee its convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
+- <details><summary>Click to expand a brief introduction.</summary>We study the cause of training instability of GANs from the perspective of the gradient of the optimal discriminative function. Under a generalized formulation of GANs, we show that: (1) GANs with an unregularized discriminative function space generally do not guarantee their convergence, suffering from a *gradient uninformativeness issue*; (2) Lipschitz regularization in the discriminative function space can generally resolve this issue and guarantee the convergence of GANs. This leads to a new family of GANs named Lipschitz GANs. All tested instances of this family consistently outperform WGANs in experiments.</details>
 
 [DBLP](https://dblp.org/pid/56/321.html) 
 -->
