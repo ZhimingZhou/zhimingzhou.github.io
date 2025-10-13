@@ -9,7 +9,7 @@ permalink: /
 
 I am currently an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/). I obtained my Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020 and received my B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
-I am broadly interested in fundamental techniques and theories of machine learning, including optimization, generalization, representation learning, learning theory, generative models, principled design of neural networks, etc. Ultimately, I aim to lay a solid foundation for artificial intelligence.
+I am broadly interested in fundamental techniques and theories of machine learning, including optimization, generalization, representation learning, learning theory, principled design of neural networks, generative models, etc. Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 ## Docs & Links
 
