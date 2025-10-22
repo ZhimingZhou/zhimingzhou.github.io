@@ -8,7 +8,7 @@ top: true
 comments: false
 ---
 
-I’m looking for talented students with enthusiasm for fundamental research in machine learning/artificial intelligence.
+I’m looking for talented students with GENUINE ENTHUSIASM for fundamental research in machine learning/artificial intelligence.
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
@@ -20,31 +20,29 @@ I’m looking for talented students with enthusiasm for fundamental research in 
 	- I personally prefer theoretical/theory-driven research on fundamental topics in the field of machine learning.
 
 <!--  -->
-- The first thing you will need to do when you become one of my students:
-	- Read 20 ~ 50 papers from top conferences/journals (which you may find via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/)).
-		- In topics that interest you, or just somehow randomly.
-		- This is to familiarize you with the basic paradigms of scientific papers and help find/determine your research topic.
-	- Guidelines for reading a paper:
-		- L1: Overall Idea (Required)
-			- What problem is this paper concerned with?
-			- What limitations of existing work motivate this study?
-			- What is the main contribution? Try to explain the high-level idea clearly.
-		- L2: Detailed Analysis (Whenever possible)
-			- How does the proposed method work? Try to explain it in a step-by-step manner.
-				- (If applicable) How is it trained? How is it used after training? Why does this necessarily work as intended?
-			- Why is it designed as such? Does it have to be like that? Are there any aspects that seem unjustified?
-		- L3: Critical Assessment (Have a try)
-			- What is your assessment of this work? Is there any limitation? Can you do better in any aspect?
-	
-<!--  -->
 - What will be your research topic?
 	- We DO NOT assign topics to students in principle.
-	- Find your research topic on your own by reading papers, and I will always be there if you need any guidance.
-	- When you have read 50 papers and still haven't found a suitable topic that interests you, I may give my suggestions.
+	- Find YOUR OWN research topic by reading papers from top conferences/journals.
+		- You may find paper via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/).
+ 		- I will always be there if you need any guidance.
+	- When you have read around 50 papers and still haven't found a suitable topic, I may give my suggestions.
+
+<!--  -->
+- Guidelines for reading a paper:
+	- L1: Overall Idea (Required)
+		- What problem is this paper concerned with?
+		- What limitations of existing work motivate this study?
+		- What is the main contribution? Try to explain the high-level idea clearly.
+	- L2: Detailed Analysis (Whenever possible)
+		- How does the proposed method work? Try to explain it in a step-by-step manner.
+			- (If applicable) How is it trained? How is it used after training? Why does this necessarily work as intended?
+		- Why is it designed as such? Does it have to be like that? Are there any aspects that seem unjustified?
+	- L3: Critical Assessment (Have a try)
+		- What is your assessment of this work? Is there any limitation? Can you do better in any aspect?
 
 <!--  -->
 - My style:
-	- I might be generally very nice, but I can be rather critical upon research.
+	- I might be generally very nice, but I can be rather critical of research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take quite a while, but it is a prerequisite for us to start the real research.
 	- I will guide and force you to think deeply, clearly, and logically. Hope we have the same belief that:
