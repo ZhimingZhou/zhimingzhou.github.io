@@ -24,7 +24,7 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 	- We DO NOT assign topics to students in principle.
 	- Find YOUR OWN research topic by reading papers from top conferences/journals.
 		- You may find paper via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/).
- 		- I will always be there if you need any guidance.
+		- I will always be there if you need any guidance.
 	- When you have read around 50 papers and still haven't found a suitable topic, I may give my suggestions.
 
 <!--  -->
