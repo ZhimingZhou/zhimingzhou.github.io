@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zhiming Zhou
-date: 2025-09-15
+date: 2025-10-23
 title: Prospective Students
 permalink: /Posts/Prospective-Students/
 top: true
@@ -22,7 +22,7 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 <!--  -->
 - What will be your research topic?
 	- We DO NOT assign topics to students in principle.
-	- Find YOUR OWN research topic by reading papers from top conferences/journals.
+	- Find your own research topic by reading papers from top conferences/journals.
 		- You may find paper via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/).
 		- I will always be there if you need any guidance.
 	- When you have read around 50 papers and still haven't found a suitable topic, I may give my suggestions.
@@ -47,7 +47,7 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 
 <!--  -->
 - My style:
-	- I might be generally very nice, but I can be rather critical of research.
+	- I might be generally nice and supportive, but I can be rather critical of research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take quite a while, but it is a prerequisite for us to start the real research.
 	- I will guide and force you to think deeply, clearly, and logically. Hope we have the same belief that:
