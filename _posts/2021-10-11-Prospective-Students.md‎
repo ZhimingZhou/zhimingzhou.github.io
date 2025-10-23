@@ -29,15 +29,15 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 
 <!--  -->
 - Guidelines for reading a paper:
-	- L1: Overall Idea (Required)
+	- L1: Overall Idea (REQUIRED)
 		- What problem is this paper concerned with?
 		- What limitations of existing work motivate this study?
 		- What is the main contribution? Try to explain the high-level idea clearly.
-	- L2: Detailed Analysis (Whenever possible)
+	- L2: Detailed Analysis (whenever possible)
 		- How does the proposed method work? Try to explain it in a step-by-step manner.
 			- (If applicable) How is it trained? How is it used after training? Why does this necessarily work as intended?
 		- Why is it designed as such? Does it have to be like that? Are there any aspects that seem unjustified?
-	- L3: Critical Assessment (Have a try)
+	- L3: Critical Assessment (have a try)
 		- What is your assessment of this work? Is there any limitation? Can you do better in any aspect?
 	- Warnings and tips:
 		- Papers may contain minor errors. You may focus on the overall idea while dismissing some details.
