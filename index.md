@@ -7,7 +7,7 @@ permalink: /
 
 ## Biography
 
-I am currently an assistant professor at the Department of Computer Science, [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/).
+I am currently an assistant professor at the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/), [Shanghai University of Finance and Economics](http://english.sufe.edu.cn/).
 
 I obtained my Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2020 and received my B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
