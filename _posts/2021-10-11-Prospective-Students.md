@@ -39,6 +39,11 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 		- Why is it designed as such? Does it have to be like that? Are there any aspects that seem unjustified?
 	- L3: Critical Assessment (Have a try)
 		- What is your assessment of this work? Is there any limitation? Can you do better in any aspect?
+	- Warnings and tips:
+		- Papers may contain minor errors. You may focus on the overall idea while dismissing some details.
+		- Papers may contain misleading statements. You may focus on the mathematics, the most precise part.
+		- Papers may not fully or clearly describe their methods. You may need to infer or supplement certain details.
+		- Some ideas or designs may, in fact, lack solid justification. You should make your own judgments.
 
 <!--  -->
 - My style:
