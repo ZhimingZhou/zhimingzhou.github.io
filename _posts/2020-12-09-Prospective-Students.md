@@ -44,6 +44,7 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 		- Papers may contain misleading statements. You may focus on the mathematics, the most precise part.
 		- Papers may not fully or clearly describe their methods. You may need to infer or supplement certain details.
 		- Some ideas or designs may, in fact, lack solid justification. You should make your own judgments.
+		- LLMs can hallucinate. Incorrect views may also spread widely. Do not accept claims at face value.
 
 <!--  -->
 - My style:
@@ -66,7 +67,8 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 <!--  -->
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
-		- You may need to prepare a slide or something similar to make your presentation more fluid.
+	- When presenting papers or other materials that you have studied:
+		- You are REQUIRED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
 	- You are encouraged to keep a research diary, which summarizes:
 		- New techniques you learn;
 		- New papers and/or related content you read;
