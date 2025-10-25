@@ -56,19 +56,10 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 		- Deeper thinking can bring simpler/better solutions.
 
 <!--  -->
-- Characteristics that I value most:
-	- [5'] The ability to think deeply.
-	- [5'] Clear and strict logic.
-	- [5'] Good intuition and critical thinking.
-	- [4'] Good at math and programming.
-	- [4'] Good (self-)learning ability.
-	- [4'] Confidence and perseverance.
-
-<!--  -->
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
 	- When presenting papers or other materials that you have studied:
-		- You are REQUIRED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
+		- You NEED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
 	- You are encouraged to keep a research diary, which summarizes:
 		- New techniques you learn;
 		- New papers and/or related content you read;
@@ -76,6 +67,15 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 		- New experiments and/or their analysis; and so on.
 	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 
+<!--  -->
+- Characteristics that I value most:
+	- [5'] The ability to think deeply.
+	- [5'] Clear and strict logic.
+	- [5'] Good intuition and critical thinking.
+	- [4'] Good at math and programming.
+	- [4'] Good (self-)learning ability.
+	- [4'] Confidence and perseverance.
+ 
 <!--  -->
 - Principle of authorship:
 	- We determine the authorship according to the contribution. The tentative score-based rules are as follows:
