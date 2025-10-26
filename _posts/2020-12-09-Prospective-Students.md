@@ -80,8 +80,8 @@ I’m looking for talented students with GENUINE enthusiasm for FUNDAMENTAL rese
 - Principle of authorship:
 	- We determine the authorship according to the contribution. The tentative score-based rules are as follows:
 		- Idea: 1 ~ 3 points, depending on the importance.
-		- Theory: 1 ~ 4 points, depending on the importance and workload.
-		- Coding: 1 ~ 3 points, depending on the workload.
+		- Theory: 0 ~ 4 points, depending on the importance and workload.
+		- Coding: 0 ~ 4 points, depending on the workload.
 		- Writing: 1 ~ 2 points, depending on the workload.
 	- The points of each part will be allocated to the participants according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
