@@ -8,7 +8,7 @@ top: true
 comments: false
 ---
 
-I’m looking for talented students with GENUINE ENTHUSIASM for fundamental research in machine learning/artificial intelligence.
+I’m looking for talented students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
