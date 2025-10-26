@@ -44,7 +44,7 @@ I’m looking for talented students with GENUINE ENTHUSIASM for fundamental rese
 		- Papers may contain misleading statements. You may focus on the mathematics, the most precise part.
 		- Papers may not fully or clearly describe their methods. You may need to infer or supplement certain details.
 		- Some ideas or designs may, in fact, lack solid justification. You should make your own judgments.
-		- LLMs can hallucinate. Incorrect views may also spread widely. Do not accept claims at face value.
+		- LLMs can hallucinate. Incorrect views may also spread widely. DO NOT accept any claim at face value.
 
 <!--  -->
 - My style:
