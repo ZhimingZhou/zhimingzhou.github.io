@@ -17,7 +17,7 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 ## Docs & Links
 
-[CV](https://github.com/ZhimingZhou/zhimingzhou.github.io/blob/master/assets/Zhiming_Zhou_Resume.pdf)
+[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=b8YJ1EMAAAAJ&sortby=pubdate)
 
