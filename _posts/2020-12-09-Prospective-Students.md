@@ -12,7 +12,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- As the entrance assessment, you will need to clearly explain a recent paper from a top conference or journal to me.
+	- As the entrance assessment, you will need to CLEARLY explain a recent paper from a top conference or journal to me.
 
 <!--  -->
 - Our goal:
@@ -49,7 +49,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 <!--  -->
 - My style:
-	- I might be generally nice and supportive, but I can be rather critical of research.
+	- I might be generally nice and supportive, but I can be RATHER CRITICAL of research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take quite a while, but it is a prerequisite for us to start the real research.
 	- I will guide and force you to think deeply, clearly, and logically. Hope we have the same belief that:
