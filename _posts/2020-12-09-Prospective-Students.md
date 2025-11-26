@@ -51,7 +51,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- Papers may not fully or clearly describe their methods. You may need to infer or supplement certain details.
 		- Some ideas or designs may, in fact, lack solid justification. You should make your own judgments.
 		- LLMs can hallucinate. Incorrect views may also spread widely. DO NOT accept any claim at face value.
-		- For mathematical results, it is important to build an intuitive understanding beyond the mathematics.
+		- For mathematical results, it is important to build an intuitive understanding beyond the formal derivations.
 
 <!--  -->
 - My style:
