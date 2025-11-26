@@ -12,7 +12,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- As the entrance assessment, you will need to CLEARLY explain a recent paper from a top conference or journal to me.
+	- As the entrance assessment, you will need to CLEARLY explain a RECENT paper from a top conference or journal to me.
 
 <!--  -->
 - Our goal:
@@ -28,11 +28,17 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- When you have read around 50 papers and still haven't found a suitable topic, I may give my suggestions.
 
 <!--  -->
+- The suggested way of doing research (for a beginner):
+	1. Understanding the state-of-the-art methods and/or theories.
+	2. Identifying their major limitations (focus on the high-level idea instead of the details).
+	3. Attempting to address (one of) the identified limitations (in a principled way).
+
+<!--  -->
 - Guidelines for reading a paper:
 	- L1: Overall Idea (REQUIRED)
 		- What problem is this paper concerned with?
 		- What limitations of existing work motivate this study?
-		- What is the main contribution? Try to explain the high-level idea clearly.
+		- What is the main contribution of this paper? Try to explain the high-level idea clearly.
 	- L2: Detailed Analysis (whenever possible)
 		- How does the proposed method work? Try to explain it in a step-by-step manner.
 			- (If applicable) How is it trained? How is it used after training? Why does this necessarily work as intended?
