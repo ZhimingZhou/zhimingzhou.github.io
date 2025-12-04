@@ -24,6 +24,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- We DO NOT assign topics to students in principle.
 	- Find your own research topic by reading papers from top conferences/journals.
 		- You may find paper via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/).
+			- or from representative researchers like [https://people.csail.mit.edu/kaiming/](https://people.csail.mit.edu/kaiming/) and [https://ai.stanford.edu/~tengyuma/](https://ai.stanford.edu/~tengyuma/).
 		- I will always be there if you need any guidance.
 	- When you have read around 50 papers and still haven't found a suitable topic, I may give my suggestions.
 
