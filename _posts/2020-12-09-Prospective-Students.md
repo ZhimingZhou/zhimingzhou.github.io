@@ -26,7 +26,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- You may find such papers via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/) or from representative researchers like
 			- [https://people.csail.mit.edu/kaiming/](https://people.csail.mit.edu/kaiming/) and [https://ai.stanford.edu/~tengyuma/](https://ai.stanford.edu/~tengyuma/).
 		- I will always be there if you need any guidance.
-	- When you have read around 50 papers and still haven't found a suitable topic, I may give my suggestions.
+	- When you have read more than 50 papers and still haven't found a suitable topic, I may give my suggestions.
 
 <!--  -->
 - The recommended way of doing research:
