@@ -23,8 +23,9 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 - What will be your research topic?
 	- We DO NOT assign topics to students in principle.
 	- Find your own research topic by reading papers from top conferences/journals.
-		- You may find such papers via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/) or from representative researchers like
-			- [https://people.csail.mit.edu/kaiming/](https://people.csail.mit.edu/kaiming/) and [https://ai.stanford.edu/~tengyuma/](https://ai.stanford.edu/~tengyuma/).
+		- You may find papers via https://papercopilot.com/top-venues/ or from representative researchers like
+			- https://people.csail.mit.edu/kaiming/ and https://ai.stanford.edu/~tengyuma/.
+		- You may use https://www.connectedpapers.com/ to effectively find papers related to a certain paper or topic.
 		- I will always be there if you need any guidance.
 	- When you have read more than 50 papers and still haven't found a suitable topic, I may give my suggestions.
 
