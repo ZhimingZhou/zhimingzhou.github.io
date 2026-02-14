@@ -39,10 +39,10 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- L1: Overall Idea (REQUIRED)
 		- What problem is this paper concerned with?
 		- What limitations of existing work motivate this study?
-		- What is the main contribution of this paper? -- Try to explain the high-level idea clearly.
+		- What is the main contribution of this paper? --- Try to explain the high-level idea clearly.
 	- L2: Detailed Analysis (whenever possible)
 		- How does the proposed method work?
-			- (If applicable) How is it trained? How is it used after training? -- Understand the algorithm and data flow.
+			- (If applicable) How is it trained? How is it used after training? --- Understand the algorithm and data flow.
 		- Why would it work as intended and better than the existing?
 		- Why is it designed as such? Does it have to be like that? Are there any aspects that seem unjustified?
 	- L3: Critical Assessment (have a try)
