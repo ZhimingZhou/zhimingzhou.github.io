@@ -67,7 +67,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - Management:
 	- There will be a weekly meeting, which is typically online and one-on-one.
-	- When presenting papers or other materials that you have studied:
+	- When presenting papers or other materials:
 		- You NEED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
 	- You are encouraged to keep a research diary, which summarizes:
 		- New techniques you learn;
