@@ -31,8 +31,8 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - The recommended way of doing research:
 	1. Understanding the state-of-the-art methods and/or theories.
-	2. Identifying their major limitations (focus on the high-level idea instead of the details).
-	3. Attempting to address (one of) the identified limitations in a principled way.
+	2. Identifying their major limitations or open problems in the field (focus on the high-level idea instead of the details).
+	3. Attempting to address (one of) the identified limitations or problems in a principled way.
 
 <!--  -->
 - Guidelines for reading a paper:
