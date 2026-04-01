@@ -11,8 +11,8 @@ comments: false
 I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
 
 - Overall:
-	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- As the entrance assessment, you will need to CLEARLY explain a RECENT paper from a top conference or journal to me.
+	- I have a VERY HIGH standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
+	- As the entrance assessment, you will need to CLEARLY explain a RECENT paper from a top conference or journal and your THOUGHTS on it.
 
 <!--  -->
 - Our goal:
@@ -52,7 +52,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- Papers may contain misleading statements. You may focus on the mathematics, the most precise part.
 		- Papers may not fully or clearly describe their methods. You may need to infer or supplement certain details.
 		- Some ideas or designs may, in fact, lack solid justification. You should make your own judgments.
-		- LLMs can hallucinate. Incorrect views may also spread widely. DO NOT accept any claim at face value.
+		- LLMs can hallucinate, while incorrect views may also spread widely. DO NOT accept any claim at face value.
 		- For mathematical results, it is important to build an intuitive understanding beyond the formal derivations.
 
 <!--  -->
