@@ -11,7 +11,7 @@ comments: false
 I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
 
 - Overall:
-	- I have a VERY HIGH standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
+	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
 	- We will schedule a meeting for the entrance assessment, for which:
 		- You will need to CLEARLY explain a RECENT paper from a top conference/journal, while sharing your THOUGHTS on it.
 		- You will need to prepare a research proposal, which can be rough yet somehow shows your research potential.
