@@ -30,7 +30,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- I will always be there if you need any guidance.
 	- Directions that you may give priority to:
 		- Generative models: more principled generative modeling frameworks or their optimization/generalization techniques.
-		- LLMs: techniques that improve the performance of LLMs and multimodal models or enhance their reliability.
+		- LLMs: techniques that improve the performance of (multimodal) LLMs or enhance their reliability.
 		- AGI: mechanisms that give the model the ability to remember, reason, evolve on its own, and keep learning over time.
 		- Architecture: more principled network building blocks, topologies/connections, and configs.
 		- Optimization: parameter-free/adaptive optimizer, optimizers that consider characteristics of neural networks, etc.
