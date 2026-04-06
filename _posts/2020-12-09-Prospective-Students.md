@@ -29,12 +29,13 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- You may use [https://www.connectedpapers.com/](https://www.connectedpapers.com/) to find more papers related to a certain paper or topic.
 		- I will always be there if you need any guidance.
 	- Directions that you may give priority to:
-		- Generative model: theory and algorithm, and their optimization and generalization techniques.
-		- Architecture: more principled/expressive network building blocks, connections, and configs.
-		- Optimization: parameter-free/adaptive optimizer, optimizers that consider characteristics of neural networks, etc.
+		- Generative model: more advanced theories and algorithms, as well as optimization and generalization techniques.
+		- Architecture: more principled network building blocks, topologies/connections, and configs.
+		- Optimization: parameter-free/adaptive optimizer, optimizers that consider characteristics of neural networks.
 		- Generalization: direct optimization of generalization, new mechanisms that ensure or improve generalization.
 		- LLMs/multimodal: techniques that improve the performance of LLMs and multimodal models or enhance their reliability.
 		- AGI: mechanisms that give the model the ability to remember, reason, evolve on its own, and keep learning over time.
+		- Efficiency: techniques that lower the resource requirements or cost of training or inference.
 	- When you have read more than 50 papers and still haven't found a suitable topic, I may give my suggestions.
 
 <!--  -->
