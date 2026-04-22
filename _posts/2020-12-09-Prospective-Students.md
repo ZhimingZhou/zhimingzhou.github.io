@@ -7,6 +7,7 @@ permalink: /Posts/Prospective-Students/
 top: true
 comments: false
 ---
+### Foundations Laboratory for Artificial Intelligence Research (FLAIR)
 
 I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
 
