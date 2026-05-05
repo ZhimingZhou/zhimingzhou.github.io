@@ -13,7 +13,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 - Overall:
 	- I have a very high standard for research and require students to do RIGOROUS and IN-DEPTH research INDEPENDENTLY.
-	- As the entrance assessment, you will need to CLEARLY explain a recent paper from top conferences/journals, while sharing your THOUGHTS on it.
+	- As the entrance assessment, you will need to CLEARLY explain a recent top-tier paper, while sharing your THOUGHTS on it.
 
 <!--  -->
 - Our goal:
