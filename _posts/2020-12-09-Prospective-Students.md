@@ -18,7 +18,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - Our goal:
 	- Research that pursues perfection and truth (which will naturally lead to publications in top conferences/journals).
-	- I personally prefer theoretical/theory-driven research on fundamental topics in the field of machine learning.
+	- I prefer theoretically grounded research on fundamental problems with direct practical relevance.
 
 <!--  -->
 - What will be your research topic?
