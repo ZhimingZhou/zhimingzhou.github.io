@@ -27,6 +27,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- You may find papers via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/).
 		- You may use [https://www.connectedpapers.com/](https://www.connectedpapers.com/) to find more papers related to a certain paper or topic.
 		- I will always be there if you need any guidance.
+	- A suitable topic is one that you find interesting, have ideas about, and believe is worthy of further exploration.
 	- Directions that you may give priority to:
 		- Generative models: more principled generative modeling frameworks or their optimization/generalization techniques.
 		- LLMs: techniques that improve the performance of (multimodal) LLMs or enhance their reliability.
@@ -35,7 +36,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- Optimization: parameter-free/adaptive optimizer, optimizers that consider characteristics of neural networks, etc.
 		- Generalization: direct optimization of generalization, new mechanisms that ensure or improve generalization.
 		- Efficiency: techniques that lower the resource requirements or cost of training or inference.
-	- When you have read more than 50 papers and still haven't found a suitable topic, I may give my suggestions.
+	- When you have read more than 50 papers and still haven't found a suitable topic, I may give my suggestions.	
 
 <!--  -->
 - The recommended way of doing research:
@@ -89,13 +90,13 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 
 <!--  -->
-- Characteristics that I value most:
-	- [5'] The ability to think deeply.
-	- [5'] Clear and strict logic.
-	- [5'] Good intuition and critical thinking.
-	- [4'] Good at math and programming.
-	- [4'] Good (self-)learning ability.
-	- [4'] Confidence and perseverance.
+- Characteristics that I value most [level of requirement]:
+	- [90+] The ability to think deeply.
+	- [90+] Clear and strict logic.
+	- [90+] Good intuition and critical thinking.
+	- [80+] Good at math and programming.
+	- [80+] Good (self-)learning ability.
+	- [80+] Confidence and perseverance.
  
 <!--  -->
 - Principle of authorship:
