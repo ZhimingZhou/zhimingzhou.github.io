@@ -70,7 +70,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- I might be generally nice and supportive, but I can be RATHER CRITICAL of research.
 	- You will be required to build a DEEP and CLEAR understanding of your research topic and related works.
 		- This may take quite a while, but it is a prerequisite for us to start the real research.
-	- I will guide and force you to think deeply, clearly, and logically. Hope we have the same belief that:
+	- I will guide and force you to think deeply, clearly, and logically, and hope we share the same belief that:
 		- Superficial understanding may lead to specious conclusions.
 		- Deeper thinking can bring simpler/better solutions.
 
