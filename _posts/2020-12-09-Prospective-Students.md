@@ -79,14 +79,14 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- There will be a weekly meeting, which is typically online and one-on-one.
 	- When presenting papers or other materials:
 		- You NEED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
-	- You will be required to write a diary report, which summarizes (along with the approximate time you spend on each part):
+	- You will be required to write a daily report, which summarizes:
 		- New things you learn (from papers or other materials) and your concrete understanding of them;
 		- New thoughts about your research topic or related contents;
 		- New experiments you have done as well as their analysis;
 		- New codes you have written and the issues it deals with;
 		- The issues that you are trying to address and your new attempts towards addressing them;
 		- ...
-		- If nothing is done, then: The reason why you do not have any progress today.
+		- If you made no progress today, briefly explain why.
 	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 
 <!--  -->
