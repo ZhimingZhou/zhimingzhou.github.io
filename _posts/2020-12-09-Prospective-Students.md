@@ -90,10 +90,10 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 <!--  -->
 - Characteristics that I value most:
-	- [6'] The ability to think deeply.
-	- [6'] Clear and strict logic.
+	- [5'] The ability to think deeply.
+	- [5'] Clear and strict logic.
 	- [5'] Good intuition and critical thinking.
-	- [5'] Good at math and programming.
+	- [4'] Good at math and programming.
 	- [4'] Good (self-)learning ability.
 	- [4'] Confidence and perseverance.
  
