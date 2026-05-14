@@ -15,9 +15,7 @@ I am broadly interested in fundamental techniques and theories of machine learni
 
 Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
-## Docs & Links
-
-[CV](https://raw.githubusercontent.com/ZhimingZhou/zhimingzhou.github.io/master/assets/Zhiming_Zhou_Resume.pdf)
+## Links
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=b8YJ1EMAAAAJ&sortby=pubdate)
 
