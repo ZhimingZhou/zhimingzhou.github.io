@@ -51,7 +51,6 @@ Lipschitz Generative Adversarial Nets.
   \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
   \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[code](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
-  \[[code](https://github.com/ZhimingZhou/MaxGP-MaxAL-for-reproduce)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
 - International Conference on Machine Learning (ICML), 2019.
 
