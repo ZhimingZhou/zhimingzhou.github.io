@@ -65,6 +65,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- Some ideas or designs may, in fact, lack solid justification. You should make your own judgments.
 		- LLMs can hallucinate, while incorrect views may also spread widely. DO NOT accept any claim at face value.
 		- For mathematical results, it is important to build an intuitive understanding beyond the formal derivations.
+	- For subjects outside your expertise, it is advisable to first familiarize yourself with the fundamental concepts.
 
 <!--  -->
 - My style:
