@@ -79,7 +79,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - Management:
 	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
-	- You will be required to write a daily report, which summarizes:
+	- You will be required to write daily reports, which summarize:
 		- New things you learn (from papers or other materials) and your concrete understanding of them;
 		- New thoughts about your research topic or related contents;
 		- New experiments you have done as well as their analysis;
