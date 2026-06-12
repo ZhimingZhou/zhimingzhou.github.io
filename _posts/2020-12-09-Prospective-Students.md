@@ -78,9 +78,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 <!--  -->
 - Management:
-	- There will be a weekly meeting, which is typically online and one-on-one.
-	- When presenting papers or other materials:
-		- You NEED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
+	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 	- You will be required to write a daily report, which summarizes:
 		- New things you learn (from papers or other materials) and your concrete understanding of them;
 		- New thoughts about your research topic or related contents;
@@ -88,8 +86,12 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- New codes you have written and the issues it deals with;
 		- The issues that you are trying to address and your new attempts towards addressing them;
 		- ...
-		- If you made no progress today, briefly explain why.
-	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
+ 	- There will be a weekly meeting, which is typically online and one-on-one.
+		- You may cancel the meeting if you have nothing to report.
+		- The meeting will be automatically canceled if fewer than five daily reports have been submitted.
+  		- The weekly meeting may be resumed once a total of five daily reports have been submitted.
+	- When presenting papers or other materials:
+		- You NEED to prepare slides that SUMMARIZE and RESTRUCTURE the materials according to your understanding.
 
 <!--  -->
 - Characteristics that I value most:
