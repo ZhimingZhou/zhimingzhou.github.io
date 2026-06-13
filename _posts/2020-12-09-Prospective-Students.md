@@ -88,8 +88,8 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- ...
 	- There will be a weekly meeting, which is typically online and one-on-one.
 		- You may cancel the meeting if you have nothing to report.
-		- The meeting will be automatically canceled if fewer than five daily reports have been submitted.
-		- The weekly meeting may be resumed once a total of five daily reports have been submitted.
+		- The meeting will be automatically canceled if fewer than four daily reports have been submitted.
+		- The weekly meeting may be resumed once a total of six daily reports have been submitted.
 		- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
