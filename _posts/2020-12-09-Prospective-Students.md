@@ -25,7 +25,6 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- We DO NOT assign topics to students in principle.
 	- Find your own research topic by reading papers from top conferences/journals.
 		- You may find papers via [https://papercopilot.com/top-venues/](https://papercopilot.com/top-venues/).
-		- You may use [https://www.connectedpapers.com/](https://www.connectedpapers.com/) to find more papers related to a certain paper or topic.
 		- I will always be there if you need any guidance.
 	- Directions that you may give priority to:
 		- Generative models: more principled generative modeling frameworks or their optimization/generalization techniques.
