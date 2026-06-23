@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zhiming Zhou
-date: 2025-10-23
+date: 2026-6-23
 title: Prospective Students
 permalink: /Posts/Prospective-Students/
 top: true
@@ -83,13 +83,14 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- New things you learn (from papers or other materials) and your concrete understanding of them;
 		- New thoughts about your research topic or related contents;
 		- New experiments you have done as well as their analysis;
-		- New codes you have written and the issues it deals with;
+		- New codes you have written and the issues they deal with;
 		- The issues that you are trying to address and your new attempts towards addressing them;
 		- ...
 	- There will be a weekly meeting, which is typically online and one-on-one.
 		- You may cancel the meeting if you have nothing to report.
-		- The meeting will be automatically canceled if fewer than four daily reports have been completed.
-		- The weekly meeting may be resumed once a total of six daily reports have been completed.
+		- The meeting will be automatically canceled if fewer than three daily reports have been completed.
+		- The weekly meeting can be resumed upon your request after you have completed three daily reports.
+		- In any case, feel free to schedule a meeting with me if you have any questions or would like to discuss anything.
 		- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
