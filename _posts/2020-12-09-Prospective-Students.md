@@ -12,7 +12,7 @@ comments: false
 I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
 
 - Overall:
-	- I have a very high standard for research and expect students to independently conduct rigorous and in-depth research.
+	- I have a very high standard for research and expect students to conduct rigorous and in-depth research independently.
 		- It usually requires a substantial investment of time and effort, as well as some talent and genuine interest.
 	- As the entrance assessment, you will need to CLEARLY explain a recent top-tier paper, while sharing your THOUGHTS on it.
 		- Nowadays, there are numerous resources readily available to help you learn how to read research papers.
