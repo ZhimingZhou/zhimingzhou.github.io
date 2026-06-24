@@ -89,7 +89,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- You may cancel the meeting if you have nothing to report.
 		- The meeting will be automatically canceled if fewer than three daily reports have been completed.
 		- The weekly meeting can be resumed upon your request after you have completed three daily reports.
-		- In any case, feel free to schedule a meeting with me (online or offline) if you would like to chat or discuss.
+		- In any case, feel free to schedule a meeting with me (online or offline) if you would like to chat or discuss anything.
 		- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
