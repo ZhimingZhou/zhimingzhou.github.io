@@ -14,7 +14,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 - Overall:
 	- I have a very high standard for research and expect students to conduct rigorous and in-depth research independently.
 		- It usually requires a substantial investment of time and effort, as well as some talent and genuine interest.
-	- As the entrance assessment, you will need to CLEARLY explain a recent top-tier paper, while sharing your THOUGHTS on it.
+	- As the entry assessment, you will need to CLEARLY explain a recent paper from a top venue, while sharing your THOUGHTS on it.
 		- Nowadays, there are numerous resources readily available for learning how to read research papers.
 		- If you struggle even with reading papers, you should expect far greater challenges ahead: reading is only the first step.
 
@@ -80,7 +80,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 <!--  -->
 - Management:
-	- There will be an ENTRANCE ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
+	- There will be an ENTRY ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 	- You will need to write daily reports, which summarize:
 		- New things you learn (from papers or other materials) and your concrete understanding of them;
 		- New thoughts about your research topic or related contents;
