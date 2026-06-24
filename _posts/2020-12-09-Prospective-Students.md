@@ -20,7 +20,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 
 <!--  -->
 - Our goal:
-	- Research that pursues perfection and truth (which will naturally lead to publications in top conferences/journals).
+	- Research that pursues principled understanding and fundamental breakthroughs.
 	- I personally prefer theoretically grounded research on fundamental problems with clear practical relevance.
 
 <!--  -->
