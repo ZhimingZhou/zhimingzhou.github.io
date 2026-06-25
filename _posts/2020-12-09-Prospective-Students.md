@@ -16,7 +16,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- It usually requires a substantial investment of time and effort, as well as some talent and genuine interest.
 	- As the entry assessment, you will need to CLEARLY explain a recent paper from a top venue, while sharing your THOUGHTS on it.
 		- Nowadays, there are numerous resources readily available for learning how to read research papers.
-		- If you struggle even with reading papers, you should expect far greater challenges ahead: reading is only the first step.
+		- Reading papers is only the first step. If you struggle with it, the challenges that follow are likely to be even greater.
 
 <!--  -->
 - Our goal:
