@@ -56,22 +56,12 @@ AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, Hongwei Wang, Weinan Zhang, Yong Yu.
 - International Conference on Learning Representations (ICLR), 2019. 
 
-Activation Maximization Generative Adversarial Nets.
-  \[[openreview](https://openreview.net/forum?id=HyyP33gAZ)\]
-  \[[arxiv](https://arxiv.org/abs/1703.02000)\]
-  \[[code](https://github.com/ZhimingZhou/AM-GANs-refactored)\]
-  \[[code](https://github.com/ZhimingZhou/AM-GANs-for-reproduce)\]
-- **Zhiming Zhou**, Han Cai, Shu Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Jun Wang, Yong Yu.
-- International Conference on Learning Representations (ICLR), 2018.
-
 Sparse-as-Possible SVBRDF Acquisition. 
   \[[acm](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
   \[[pdf](http://yuedong.shading.me/project/sparsesvbrdf/sparsesvbrdf.pdf)\]
   \[[slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
 - ACM Transactions on Graphics (TOG) - ACM SIGGRAPH Asia, 2016.
-
-
 
 
 <!--
