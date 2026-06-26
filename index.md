@@ -39,12 +39,6 @@ Recurrent Temporal Revision Graph Networks.
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
 
-Clustered Embedding Learning for Recommender Systems.
-  \[[acm](https://dl.acm.org/doi/abs/10.1145/3543507.3583362)\]
-  \[[arxiv](https://arxiv.org/abs/2302.01478)\]
-- Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
-- ACM Web Conference (WWW), 2023.
-
 Lipschitz Generative Adversarial Nets.
   \[[pmlr](https://proceedings.mlr.press/v97/zhou19c.html)]
   \[[arxiv](https://arxiv.org/abs/1902.05687)\]
