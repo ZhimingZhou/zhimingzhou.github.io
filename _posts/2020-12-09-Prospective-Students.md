@@ -9,7 +9,7 @@ comments: false
 ---
 
 ### Foundations Laboratory for Artificial Intelligence Research (FLAIR)
-Current Students:
+Current students:
 - Ph.D.: Junbing Liu, Jianlong Chen, Zongze Wu, Chongwen Ruan
 - M.S.: Ziyi Wang, Jiaqi Ye, Yujing Ma
 - B.S.: Tang Tao, Jingyu Wang
