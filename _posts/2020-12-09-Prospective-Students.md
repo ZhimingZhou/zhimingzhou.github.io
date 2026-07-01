@@ -93,7 +93,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- You may cancel the meeting if you have nothing to report.
 		- The meeting will be automatically canceled if you have fewer than three workdays in the week.
 			- The weekly meeting can be resumed upon your request if you have worked (at least) three days in the past week.
-		- In any case, feel free to schedule a meeting with me if you would like to chat or discuss anything.
+		- In any case, feel free to schedule ad hoc meetings with me whenever you would like to chat or discuss anything.
 		- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
