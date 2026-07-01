@@ -82,7 +82,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - Management:
 	- There will be an ENTRY ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
-	- You will need to write daily reports, which summarize:
+	- You will need to write daily reports (on your workdays), which summarize:
 		- New things you learn (from papers or other materials) and your concrete understanding of them;
 		- New thoughts about your research topic or related contents;
 		- New experiments you have done as well as their analysis;
@@ -91,8 +91,8 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- ...
 	- There will be a weekly meeting, which is typically online and one-on-one.
 		- You may cancel the meeting if you have nothing to report.
-		- The meeting will be automatically canceled if fewer than three daily reports have been completed.
-			- The weekly meeting can be resumed upon your request after you have completed three daily reports.
+		- The meeting will be automatically canceled if you have fewer than three workdays in the week.
+			- The weekly meeting can be resumed upon your request if you have worked three days in a week.
 		- In any case, feel free to schedule a meeting with me if you would like to chat or discuss anything.
 		- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
 
@@ -115,7 +115,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- The points of each part will be allocated to the participants according to their contribution.
 	- For conferences/journals that typically do not regard authors as of equal contribution:
 		- The authors with higher contribution points have a higher priority in choosing the position in the author list.
-		- For authors that share similar contributions, the relatively lower-ranked can argue for a claim of equal contribution.
+		- For authors who share similar contributions, the relatively lower-ranked can argue for a claim of equal contribution.
 			- E.g., their difference in contribution points is less than 1.
 	- In principle, people with too little contribution will not be regarded as one of the authors.
 		- E.g., get less than 1 point, even though somehow participated in.
