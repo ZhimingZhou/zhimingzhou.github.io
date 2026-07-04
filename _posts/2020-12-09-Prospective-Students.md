@@ -89,7 +89,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- New codes you have written and the issues they deal with;
 		- New issues that you encounter and your thoughts about them;
 		- New attempts towards addressing a certain issue;
-		- ... (and so on, anything new about your research)...
+		- ... (anything new about your research)...
 	- There will be a weekly meeting, which is typically online and ONE-ON-ONE.
 		- You may cancel the meeting if you have nothing to report.
 		- The meeting will be automatically canceled if you have fewer than three research workdays in the week.
