@@ -93,9 +93,9 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- Feel free to schedule ad hoc meetings with me whenever you would like to chat or discuss anything.
 	- Upon your request, there can be a weekly meeting, which is typically online and one-on-one.
 		- If there is a weekly meeting, then the daily report will become mandatory. 
-		- Nevertheless, you may cancel the meeting if you have nothing to report.
 		- The weekly meeting will be automatically suspended if you have fewer than three research workdays in the week.
-		- The weekly meeting can be resumed upon your request if you have worked (at least) three days in the past week.	
+		- The weekly meeting can be resumed upon your request if you have worked (at least) three days in the past week.
+		- In any case, you may cancel the meeting if you have nothing to report.
 	- When presenting at the meeting, you need to prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
