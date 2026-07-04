@@ -83,12 +83,13 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 - Management:
 	- There will be an ENTRY ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
 	- You will need to write daily reports on the days you work on research, summarizing:
-		- New things you learn (from papers or other materials) and your concrete understanding of them;
-		- New thoughts about your research topic or related contents;
+		- New things you learn and your concrete understanding of them;
+		- New thoughts about your research or related content;
 		- New experiments you have done as well as their analysis;
 		- New codes you have written and the issues they deal with;
-		- The issues that you are trying to address and your new attempts towards addressing them;
-		- ... (anything you do for your research)...
+		- New issues that you encounter and your thoughts about them;
+		- New attempts towards addressing a certain issue;
+		- ... (and so on, anything new about your research)...
 	- There will be a weekly meeting, which is typically online and ONE-ON-ONE.
 		- You may cancel the meeting if you have nothing to report.
 		- The meeting will be automatically canceled if you have fewer than three research workdays in the week.
