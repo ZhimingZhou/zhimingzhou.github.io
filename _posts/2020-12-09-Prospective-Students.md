@@ -82,7 +82,7 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - Management:
 	- There will be an ENTRY ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
-	- You will need to write daily reports on the days you work on research, summarizing:
+	- You are encouraged to write daily reports (on the days that you work on research), summarizing:
 		- New things you learn and your concrete understanding of them;
 		- New thoughts about your research or related content;
 		- New codes you have written and the issues they deal with;
@@ -90,12 +90,13 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- New issues that you encounter and your thoughts about them;
 		- New thoughts or attempts towards addressing a certain issue;
 		- ... (anything new about your research)...
-	- There will be a weekly meeting, which is typically online and ONE-ON-ONE.
-		- You may cancel the meeting if you have nothing to report.
-		- The meeting will be automatically canceled if you have fewer than three research workdays in the week.
-			- The weekly meeting can be resumed upon your request if you have worked (at least) three days in the past week.
-		- In any case, feel free to schedule ad hoc meetings with me whenever you would like to chat or discuss anything.
-		- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
+	- Feel free to schedule ad hoc meetings with me whenever you would like to chat or discuss anything.
+	- Upon your request, there can be a weekly meeting, which is typically online and one-on-one.
+		- If there is a weekly meeting, then the daily report will become mandatory. 
+		- Nevertheless, you may cancel the meeting if you have nothing to report.
+		- The weekly meeting will be automatically suspended if you have fewer than three research workdays in the week.
+		- The weekly meeting can be resumed upon your request if you have worked (at least) three days in the past week.	
+	- When presenting at the meeting, you need to prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
 - Characteristics that I value most:
