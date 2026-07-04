@@ -85,10 +85,10 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- You will need to write daily reports on the days you work on research, summarizing:
 		- New things you learn and your concrete understanding of them;
 		- New thoughts about your research or related content;
-		- New experiments you have done as well as their analysis;
 		- New codes you have written and the issues they deal with;
+		- New experiments you have done and their analysis;		
 		- New issues that you encounter and your thoughts about them;
-		- New attempts towards addressing a certain issue;
+		- New thoughts or attempts towards addressing a certain issue;
 		- ... (anything new about your research)...
 	- There will be a weekly meeting, which is typically online and ONE-ON-ONE.
 		- You may cancel the meeting if you have nothing to report.
