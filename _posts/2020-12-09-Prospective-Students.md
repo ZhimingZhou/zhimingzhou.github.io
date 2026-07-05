@@ -88,10 +88,10 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 		- New code developments and their intended functionalities;
 		- New experiments you conduct and your analysis of the results;
 		- New issues you encounter and your thoughts on them;
-		- New thoughts or attempts towards addressing a certain issue;
+		- New thoughts or attempts toward addressing a certain issue;
 		- ... (any other new developments related to your research)...
 	- Feel free to schedule ad hoc meetings with me whenever you would like to chat or discuss anything.
-		- For brief inquiries or quick discussions, we can also communicate directly via WeCom or WeChat.
+		- For brief questions or quick discussions, we can also communicate directly via WeCom or WeChat.
 	- Upon your request, we can also schedule regular weekly meetings.
 		- If regular weekly meetings are scheduled, daily reports will become mandatory.
 		- Weekly meetings will be automatically suspended if you have fewer than three research workdays in the week.
