@@ -82,21 +82,22 @@ I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL rese
 <!--  -->
 - Management:
 	- There will be an ENTRY ASSESSMENT and a PROBATIONARY period of one semester for every newcomer.
-	- You are encouraged to write daily reports (on the days that you work on research), summarizing:
-		- New things you learn and your concrete understanding of them;
-		- New thoughts about your research or related content;
-		- New codes you have written and the issues they deal with;
-		- New experiments you have done and their analysis;		
-		- New issues that you encounter and your thoughts about them;
+	- You are encouraged to write daily reports (on days you work on research), summarizing:
+		- New concepts or techniques you learn and your concrete understanding of them;
+		- New thoughts about your research or related topics;
+		- New code developments and their intended functionalities;
+		- New experiments you conduct and your analysis of the results;
+		- New issues you encounter and your thoughts on them;
 		- New thoughts or attempts towards addressing a certain issue;
-		- ... (anything new about your research)...
+		- ... (any other new developments related to your research)...
 	- Feel free to schedule ad hoc meetings with me whenever you would like to chat or discuss anything.
-	- Upon your request, there can be a weekly meeting, which is typically online and one-on-one.
-		- If there is a weekly meeting, then the daily report will become mandatory. 
-		- The weekly meeting will be automatically suspended if you have fewer than three research workdays in the week.
-		- The weekly meeting can be resumed upon your request if you have worked (at least) three days in the past week.
-		- In any case, you may cancel the meeting if you have nothing to report.
-	- When presenting at the meeting, you need to prepare slides that summarize the key points and outline the discussion.
+		- For brief inquiries or quick discussions, we can also communicate directly via WeCom or WeChat.
+	- Upon your request, we can also schedule regular weekly meetings.
+		- If regular weekly meetings are scheduled, daily reports will become mandatory.
+		- Weekly meetings will be automatically suspended if you have fewer than three research workdays in the week.
+		- Weekly meetings can be resumed upon your request if you have worked at least three days in the past week.
+	- Meetings are typically held online in a one-on-one format.
+	- When presenting at the meeting, you should prepare slides that summarize the key points and outline the discussion.
 
 <!--  -->
 - Characteristics that I value most:
