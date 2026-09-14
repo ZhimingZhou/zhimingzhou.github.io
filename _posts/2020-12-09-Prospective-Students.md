@@ -10,7 +10,7 @@ comments: false
 
 ### Foundations Laboratory for Artificial Intelligence Research (FLAIR)
 
-I’m looking for TALENTED students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
+I’m looking for talented students with GENUINE enthusiasm for FUNDAMENTAL research in machine learning/artificial intelligence.
 
 - Overall:
 	- I have a very high standard for research and expect students to conduct rigorous and in-depth research independently.
