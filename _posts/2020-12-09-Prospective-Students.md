@@ -16,8 +16,6 @@ I’m looking for talented students with GENUINE enthusiasm for FUNDAMENTAL rese
 	- I have a very high standard for research and expect students to conduct rigorous and in-depth research independently.
 		- It usually requires a substantial investment of time and effort, as well as some talent and genuine interest.
 	- As the entry assessment, you will need to CLEARLY explain a recent paper from a top venue, while sharing your THOUGHTS on it.
-		- Nowadays, there are numerous resources readily available for learning how to read research papers.
-		- Reading papers is only the first step. If you find it challenging, independent research is likely to be even more demanding.
 
 <!--  -->
 - Our goal:
