@@ -91,7 +91,7 @@ Learning to Design Games: Strategic Environments in Deep Reinforcement Learning.
 - IJCAI 2018.
 
 Unsupervised Diverse Colorization via Generative Adversarial Networks.
-\[[pdf](https://arxiv.org/abs/1702.06674)\]
+\[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-71249-9_10)\]
 - Yun Cao, **Zhiming Zhou**, Weinan Zhang, Yong Yu.
 - ECML 2017.
 
