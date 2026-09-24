@@ -50,6 +50,16 @@ Clustered Embedding Learning for Recommender Systems.
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-Yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
 - WWW 2023.
 
+Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?
+\[[pdf](https://aclanthology.org/2021.emnlp-main.415/)\]
+- Tianxing He, Jingzhao Zhang, **Zhiming Zhou**, James Glass.
+- EMNLP 2021.
+
+Improving Unsupervised Domain Adaptation with Variational Information Bottleneck.
+\[[pdf](https://ebooks.iospress.nl/DOI/10.3233/FAIA200257)\]
+- Yuxuan Song, Lantao Yu, Zhangjie Cao, **Zhiming Zhou**, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
+- ECAI 2020.
+
 Lipschitz Generative Adversarial Nets.
   \[[pdf](https://arxiv.org/abs/1902.05687)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
@@ -69,11 +79,6 @@ Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via O
 \[[pdf](https://dl.acm.org/doi/10.1145/3331184.3331232)\]
 - Yaoming Zhu, Juncheng Wan, **Zhiming Zhou**, Liheng Chen, Lin Qiu, Weinan Zhang, Xin Jiang, Yong Yu.
 - SIGIR 2019.
-
-Improving Unsupervised Domain Adaptation with Variational Information Bottleneck.
-\[[pdf](https://arxiv.org/abs/1911.09310)\]
-- Yuxuan Song, Lantao Yu, Zhangjie Cao, **Zhiming Zhou**, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-- ECAI 2019.
 
 Activation Maximization Generative Adversarial Nets.
 \[[pdf](https://openreview.net/forum?id=HyyP33gAZ)\]
