@@ -27,7 +27,6 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 Revisiting Sharpness-Aware Minimization: A More Faithful and Effective Implementation.
 \[[pdf](https://openreview.net/forum?id=qTRqmMOOrH)\]
-\[[code](https://github.com/Cccjl219/XSAM)\]
 - Jianlong Chen, **Zhiming Zhou**.
 - ICLR 2026.
 
@@ -38,12 +37,11 @@ Learning Personalizable Clustered Embedding for Recommender Systems.
 
 Residual Multi-Task Learner for Applied Ranking.
 \[[pdf](https://dl.acm.org/doi/abs/10.1145/3637528.3671523)\]
-\[[slide](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/ff28a097b745dba9ff366ba0e6f928d2c4c043a9/assets/Residual%20Multi-Task%20Learner%20for%20Applied%20Ranking.pdf)\]
 - Cong Fu, Kun Wang, Jiahua Wu, Yizhou Chen, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
 - KDD 2024.
 
 Recurrent Temporal Revision Graph Networks.
-  \[[pdf](https://openreview.net/forum?id=B3UDx1rNOy)\]
+\[[pdf](https://openreview.net/forum?id=B3UDx1rNOy)\]
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
 - NeurIPS 2023.
 
@@ -54,16 +52,11 @@ Clustered Embedding Learning for Recommender Systems.
 
 Lipschitz Generative Adversarial Nets.
   \[[pdf](https://arxiv.org/abs/1902.05687)\]
-  \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
-  \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
-  \[[code](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
 - ICML 2019.
 
-AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. 
-  \[[pdf](https://openreview.net/forum?id=HkgTkhRcKQ)\]
-  \[[poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
-  \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
+AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods.
+\[[pdf](https://openreview.net/forum?id=HkgTkhRcKQ)\]
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, Hongwei Wang, Weinan Zhang, Yong Yu.
 - ICLR 2019. 
 
@@ -99,6 +92,5 @@ Unsupervised Diverse Colorization via Generative Adversarial Networks.
 
 Sparse-as-Possible SVBRDF Acquisition.
   \[[pdf](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
-  \[[slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
 - TOG 2016.
