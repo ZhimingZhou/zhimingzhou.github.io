@@ -26,84 +26,79 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 ## Publications
 
 Revisiting Sharpness-Aware Minimization: A More Faithful and Effective Implementation.
-\[[openreview](https://openreview.net/forum?id=qTRqmMOOrH)\]
+\[[pdf](https://openreview.net/forum?id=qTRqmMOOrH)\]
 \[[code](https://github.com/Cccjl219/XSAM)\]
 - Jianlong Chen, **Zhiming Zhou**.
-- ICLR, 2026.
+- ICLR 2026.
 
 Learning Personalizable Clustered Embedding for Recommender Systems.
-\[[acm](https://dl.acm.org/doi/10.1145/3665933)\]
+\[[pdf](https://dl.acm.org/doi/10.1145/3665933)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-Yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
-- TORS, 2025.
+- TORS 2025.
 
 Residual Multi-Task Learner for Applied Ranking.
-\[[acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671523)\]
+\[[pdf](https://dl.acm.org/doi/abs/10.1145/3637528.3671523)\]
 \[[slide](https://github.com/ZhimingZhou/zhimingzhou.github.io/raw/ff28a097b745dba9ff366ba0e6f928d2c4c043a9/assets/Residual%20Multi-Task%20Learner%20for%20Applied%20Ranking.pdf)\]
 - Cong Fu, Kun Wang, Jiahua Wu, Yizhou Chen, Guangda Huzhang, Yabo Ni, Anxiang Zeng, **Zhiming Zhou**.
-- KDD, 2024.
+- KDD 2024.
 
 Recurrent Temporal Revision Graph Networks.
-  \[[arxiv](https://arxiv.org/abs/2309.12694)\]
-  \[[openreview](https://openreview.net/forum?id=B3UDx1rNOy)\]
-  \[[acm](https://dl.acm.org/doi/abs/10.5555/3666122.3669159)\]
+  \[[pdf](https://openreview.net/forum?id=B3UDx1rNOy)\]
 - Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Cao Yuanpeng, Kangle Wu, Han Yu, **Zhiming Zhou**.
-- NeurIPS, 2023.
+- NeurIPS 2023.
 
-Clustered Embedding Learning for Recommender Systems. \[[acm](https://dl.acm.org/doi/10.1145/3543507.3583362)\]
+Clustered Embedding Learning for Recommender Systems.
+\[[pdf](https://dl.acm.org/doi/10.1145/3543507.3583362)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-Yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
-- WWW, 2023
+- WWW 2023.
 
 Lipschitz Generative Adversarial Nets.
-  \[[arxiv](https://arxiv.org/abs/1902.05687)\]
-  \[[pmlr](https://proceedings.mlr.press/v97/zhou19c.html)]
+  \[[pdf](https://arxiv.org/abs/1902.05687)\]
   \[[slide](https://icml.cc/media/Slides/icml/2019/halla(11-14-00)-11-15-10-4628-lipschitz_gener.pdf)\]
   \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
   \[[code](https://github.com/ZhimingZhou/LGANs-for-reproduce)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
-- ICML, 2019.
+- ICML 2019.
 
 AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods. 
-  \[[arxiv](https://arxiv.org/abs/1810.00143)\]
-  \[[openreview](https://openreview.net/forum?id=HkgTkhRcKQ)\]
+  \[[pdf](https://openreview.net/forum?id=HkgTkhRcKQ)\]
   \[[poster](https://s3.amazonaws.com/postersession.ai/bd0f7f0b-ecaa-4164-aeb6-d0cf181cc27b.jpg)\]
   \[[code](https://github.com/ZhimingZhou/AdaShift-LGANs-MaxGP-refactored)\]
 - **Zhiming Zhou**\*, Qingru Zhang\*, Guansong Lu, Hongwei Wang, Weinan Zhang, Yong Yu.
-- ICLR, 2019. 
+- ICLR 2019. 
 
 Guiding the One-to-one Mapping in CycleGAN via Optimal Transport.
-\[[arxiv](https://arxiv.org/abs/1811.06284)\]
-\[[acm](https://dl.acm.org/doi/abs/10.1609/aaai.v33i01.33014432)\]
+\[[pdf](https://arxiv.org/abs/1811.06284)\]
 - Guansong Lu, **Zhiming Zhou**, Yuxuan Song, Kan Ren, Yong Yu.
-- AAAI, 2019.
+- AAAI 2019.
 
 Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via Optimizing an Inverse KL Divergence.
-\[[acm](https://dl.acm.org/doi/10.1145/3331184.3331232)\]
+\[[pdf](https://dl.acm.org/doi/10.1145/3331184.3331232)\]
 - Yaoming Zhu, Juncheng Wan, **Zhiming Zhou**, Liheng Chen, Lin Qiu, Weinan Zhang, Xin Jiang, Yong Yu.
-- SIGIR, 2019.
+- SIGIR 2019.
 
 Improving Unsupervised Domain Adaptation with Variational Information Bottleneck.
-\[[arxiv](https://arxiv.org/abs/1911.09310)\]
+\[[pdf](https://arxiv.org/abs/1911.09310)\]
 - Yuxuan Song, Lantao Yu, Zhangjie Cao, **Zhiming Zhou**, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-- ECAI, 2019.
+- ECAI 2019.
 
 Activation Maximization Generative Adversarial Nets.
-\[[openreview](https://openreview.net/forum?id=HyyP33gAZ)\]
+\[[pdf](https://openreview.net/forum?id=HyyP33gAZ)\]
 - **Zhiming Zhou**, Han Cai, Shunlin Rong, Yuxuan Song, Kan Ren, Weinan Zhang, Jun Wang, Yong Yu.
-- ICLR, 2018.
+- ICLR 2018.
 
 Learning to Design Games: Strategic Environments in Deep Reinforcement Learning.
-\[[arxiv](https://arxiv.org/abs/1707.01310)\]
-\[[acm](https://dl.acm.org/doi/abs/10.5555/3304889.3305087)\]
+\[[pdf](https://arxiv.org/abs/1707.01310)\]
 - Haifeng Zhang, Jun Wang, **Zhiming Zhou**, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li
-- IJCAI, 2018.
+- IJCAI 2018.
 
 Unsupervised Diverse Colorization via Generative Adversarial Networks.
-\[[arxiv](https://arxiv.org/abs/1702.06674)\]
+\[[pdf](https://arxiv.org/abs/1702.06674)\]
 - Yun Cao, **Zhiming Zhou**, Weinan Zhang, Yong Yu.
-- ECML, 2017.
+- ECML 2017.
 
 Sparse-as-Possible SVBRDF Acquisition.
-  \[[acm](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
+  \[[pdf](https://dl.acm.org/doi/10.1145/2980179.2980247)\]
   \[[slide](https://drive.google.com/file/d/16gUKZoQH4HiQ61gEQ-YFs6v9WTEOSixf/view?usp=sharing)\]
 - **Zhiming Zhou**, Guojun Chen, Yue Dong, David Wipf, Yong Yu, John Snyder, Xin Tong.
-- TOG, 2016.
+- TOG 2016.
