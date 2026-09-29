@@ -11,7 +11,7 @@ I am an Assistant Professor in the [School of Computing and Artificial Intellige
 
 I received my Ph.D. in Computer Science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) (SJTU) in 2020 and my B.S. in Computer Science from the [ACM Class](https://acm.sjtu.edu.cn/home) at Shanghai Jiao Tong University in 2014.
 
-My research interests broadly lie in the foundations of machine learning, including generative models, optimization, generalization, representation learning, and architectures.
+My research interests broadly lie in the foundations of machine learning, including architecture, optimization, generalization, generative modeling, and representation learning.
 
 Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
