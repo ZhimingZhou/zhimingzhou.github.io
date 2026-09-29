@@ -54,16 +54,6 @@ Clustered Embedding Learning for Recommender Systems.
 
 #### SJTU: 
 
-Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?
-\[[pdf](https://aclanthology.org/2021.emnlp-main.415/)\]
-- Tianxing He, Jingzhao Zhang, **Zhiming Zhou**, James Glass.
-- EMNLP 2021.
-
-Improving Unsupervised Domain Adaptation with Variational Information Bottleneck.
-\[[pdf](https://ebooks.iospress.nl/DOI/10.3233/FAIA200257)\]
-- Yuxuan Song, Lantao Yu, Zhangjie Cao, **Zhiming Zhou**, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-- ECAI 2020.
-
 Lipschitz Generative Adversarial Nets.
   \[[pdf](https://arxiv.org/abs/1902.05687)\]
 - **Zhiming Zhou**, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang.
