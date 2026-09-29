@@ -25,6 +25,9 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 ## Publications
 
+---
+#### SUFE: 
+
 Revisiting Sharpness-Aware Minimization: A More Faithful and Effective Implementation.
 \[[pdf](https://openreview.net/forum?id=qTRqmMOOrH)\]
 - Jianlong Chen, **Zhiming Zhou**.
@@ -49,6 +52,9 @@ Clustered Embedding Learning for Recommender Systems.
 \[[pdf](https://dl.acm.org/doi/10.1145/3543507.3583362)\]
 - Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-Yi Li, Jingyi Li, Yabo Ni, Han Yu, **Zhiming Zhou**.
 - WWW 2023.
+
+---
+#### SJTU: 
 
 Exposure Bias versus Self-Recovery: Are Distortions Really Incremental for Autoregressive Text Generation?
 \[[pdf](https://aclanthology.org/2021.emnlp-main.415/)\]
