@@ -7,7 +7,7 @@ permalink: /
 
 ## Biography
 
-I am an Assistant Professor in the [School of Computing and Artificial Intelligence (SCAI)](https://scai.sufe.edu.cn/) at [Shanghai University of Finance and Economics (SUFE)](http://english.sufe.edu.cn/).
+I am an Assistant Professor in the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/) at [Shanghai University of Finance and Economics (SUFE)](http://english.sufe.edu.cn/).
 
 I received my Ph.D. in Computer Science from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in 2020 and my B.S. in Computer Science from its [ACM Class](https://acm.sjtu.edu.cn/home) in 2014.
 
