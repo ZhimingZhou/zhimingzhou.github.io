@@ -80,7 +80,7 @@ Activation Maximization Generative Adversarial Nets.
 - ICLR 2018.
 
 Learning to Design Games: Strategic Environments in Deep Reinforcement Learning.
-\[[pdf](https://arxiv.org/abs/1707.01310)\]
+\[[pdf](https://www.ijcai.org/proceedings/2018/426)\]
 - Haifeng Zhang, Jun Wang, **Zhiming Zhou**, Weinan Zhang, Ying Wen, Yong Yu, Wenxin Li
 - IJCAI 2018.
 
