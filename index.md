@@ -23,6 +23,13 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
+## Preprints
+
+Self-Supervised Disentanglement via Cluster-Dependent Subspace Rotational Equivariance.
+\[[pdf](https://zhimingzhou.github.io/assets/CRED.pdf)\]
+- Junbing Liu, **Zhiming Zhou**.
+- Preprint, 2026.
+
 ## Publications
 
 #### SUFE: 
