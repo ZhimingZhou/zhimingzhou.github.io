@@ -17,7 +17,7 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 ## Links
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=b8YJ1EMAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=b8YJ1EMAAAAJ&view_op=list_works&sortby=pubdate)
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Zhiming-Zhou/145385776)
 
