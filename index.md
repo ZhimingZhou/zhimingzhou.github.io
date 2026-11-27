@@ -21,8 +21,6 @@ Ultimately, I aim to lay a solid foundation for artificial intelligence.
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Zhiming-Zhou/145385776)
 
-[Selected Research (PDF, in Chinese)](https://zhimingzhou.github.io/assets/research-details.pdf)
-
 [Prospective Students](https://zhimingzhou.github.io/Posts/Prospective-Students/)
 
 ## Preprints
